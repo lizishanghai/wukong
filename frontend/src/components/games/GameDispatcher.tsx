@@ -9,6 +9,8 @@ import MemoryGame from "./MemoryGame";
 import FindDifferenceGame from "./FindDifferenceGame";
 import ClassificationGame from "./ClassificationGame";
 import MazeGame from "./MazeGame";
+import ClockGame from "./ClockGame";
+import ShapePatternGame from "./ShapePatternGame";
 
 interface Props {
   level: Level;
@@ -41,6 +43,10 @@ export default function GameDispatcher({ level, onCorrect, onWrong }: Props) {
       return <ClassificationGame question={q} onCorrect={onCorrect} onWrong={onWrong} />;
     case "maze":
       return <MazeGame question={q} onCorrect={onCorrect} onWrong={onWrong} />;
+    case "clock_reading":
+      return <ClockGame question={q} onCorrect={onCorrect} onWrong={onWrong} />;
+    case "shape_pattern":
+      return <ShapePatternGame question={q} onCorrect={onCorrect} onWrong={onWrong} />;
     default:
       return <CountingGame question={q} onCorrect={onCorrect} onWrong={onWrong} />;
   }

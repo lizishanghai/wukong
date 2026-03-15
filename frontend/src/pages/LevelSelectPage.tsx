@@ -15,6 +15,8 @@ const GAME_TYPE_EMOJI: Record<string, string> = {
   memory: "🧠",
   find_difference: "🔍",
   maze: "🗺️",
+  clock_reading: "🕐",
+  shape_pattern: "🔶",
 };
 
 export default function LevelSelectPage() {

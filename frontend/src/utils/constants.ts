@@ -46,6 +46,21 @@ export const OBJECT_EMOJI: Record<string, string> = {
   scroll: "📜",
   staff: "🏑",
   hat: "👒",
+  // Shapes
+  red_circle: "🔴",
+  blue_circle: "🔵",
+  green_circle: "🟢",
+  yellow_circle: "🟡",
+  red_square: "🟥",
+  blue_square: "🟦",
+  green_square: "🟩",
+  yellow_square: "🟨",
+  red_triangle: "🔺",
+  blue_diamond: "🔷",
+  orange_diamond: "🔶",
+  purple_heart: "💜",
+  red_heart: "❤️",
+  star_shape: "⭐",
   // Separator for comparison
   "|": "│",
 };

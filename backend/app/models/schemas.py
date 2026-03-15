@@ -32,12 +32,16 @@ class GameType(str, Enum):
     MEMORY = "memory"
     FIND_DIFFERENCE = "find_difference"
     MAZE = "maze"
+    CLOCK_READING = "clock_reading"
+    SHAPE_PATTERN = "shape_pattern"
 
 
 class Difficulty(int, Enum):
     EASY = 1
     MEDIUM = 2
     HARD = 3
+    ADVANCED = 4
+    EXPERT = 5
 
 
 # ---------------------------------------------------------------------------
@@ -58,6 +62,7 @@ class LevelQuestion(BaseModel):
     scene_a: list[str] | None = Field(None, description="Find-difference scene A")
     scene_b: list[str] | None = Field(None, description="Find-difference scene B")
     differences: list[str] | None = Field(None, description="List of difference descriptions")
+    clock_time: dict[str, int] | None = Field(None, description="For clock_reading: {hour, minute}")
 
 
 class LevelReward(BaseModel):

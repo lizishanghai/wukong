@@ -16,7 +16,9 @@ export type GameType =
   | "classification"
   | "memory"
   | "find_difference"
-  | "maze";
+  | "maze"
+  | "clock_reading"
+  | "shape_pattern";
 
 export interface LevelQuestion {
   text: string;
@@ -32,6 +34,7 @@ export interface LevelQuestion {
   scene_a?: string[];
   scene_b?: string[];
   differences?: string[];
+  clock_time?: { hour: number; minute: number };
 }
 
 export interface LevelReward {
