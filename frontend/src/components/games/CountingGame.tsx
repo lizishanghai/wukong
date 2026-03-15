@@ -27,7 +27,7 @@ export default function CountingGame({ question, onCorrect, onWrong }: Props) {
       setTimeout(() => {
         setSelected(null);
         setResult({});
-      }, 1000);
+      }, 1500);
     }
   };
 

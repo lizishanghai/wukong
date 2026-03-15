@@ -31,7 +31,7 @@ export default function OrderingGame({ question, onCorrect, onWrong }: Props) {
       setTimeout(() => {
         setTapped([]);
         setShaking(false);
-      }, 800);
+      }, 1500);
     }
   };
 

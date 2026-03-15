@@ -68,7 +68,7 @@ export default function MemoryGame({ question, onCorrect, onWrong }: Props) {
         setTimeout(() => {
           setFlippedIds([]);
           setBusy(false);
-        }, 1000);
+        }, 1500);
       }
     }
   }, [busy, flippedIds, cards, matchedValues, pairs.length, onCorrect, onWrong]);

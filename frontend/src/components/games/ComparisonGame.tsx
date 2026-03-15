@@ -25,7 +25,7 @@ export default function ComparisonGame({ question, onCorrect, onWrong }: Props) 
       setTimeout(onCorrect, 800);
     } else {
       onWrong();
-      setTimeout(() => setSelected(null), 1000);
+      setTimeout(() => setSelected(null), 1500);
     }
   };
 

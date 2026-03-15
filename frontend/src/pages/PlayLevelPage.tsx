@@ -1,10 +1,12 @@
-import { useState, useCallback } from "react";
+import { useState, useCallback, useEffect } from "react";
 import { useNavigate, useParams } from "react-router-dom";
 import { useLevel, useProgress } from "../hooks/useApi";
+import { useSpeech } from "../hooks/useSpeech";
 import { useGameStore } from "../stores/gameStore";
 import GameShell from "../components/ui/GameShell";
 import GameDispatcher from "../components/games/GameDispatcher";
 import Celebration from "../components/ui/Celebration";
+import FeedbackToast from "../components/ui/FeedbackToast";
 import { motion } from "framer-motion";
 
 export default function PlayLevelPage() {
@@ -13,29 +15,59 @@ export default function PlayLevelPage() {
   const { level, loading } = useLevel(levelId ?? "");
   const { progress, completeLevel } = useProgress();
   const { attempts, addAttempt, resetAttempts } = useGameStore();
+  const { speak, stop } = useSpeech();
 
   const [showCelebration, setShowCelebration] = useState(false);
   const [hintIdx, setHintIdx] = useState(0);
   const [showHint, setShowHint] = useState(false);
+  const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
+
+  // Read the question aloud when the level loads
+  useEffect(() => {
+    if (level) {
+      // Small delay to let the page render first
+      const timer = setTimeout(() => {
+        speak(level.question.text);
+      }, 500);
+      return () => clearTimeout(timer);
+    }
+  }, [level, speak]);
+
+  // Stop speech on unmount
+  useEffect(() => {
+    return () => stop();
+  }, [stop]);
+
+  const showFeedback = useCallback((type: "correct" | "wrong") => {
+    setFeedback(type);
+    setTimeout(() => setFeedback(null), type === "correct" ? 1200 : 1500);
+  }, []);
 
   const handleCorrect = useCallback(async () => {
     if (!level) return;
+    showFeedback("correct");
+    speak("正确! 太棒了!", "zh-CN");
     const stars = attempts === 0 ? 3 : attempts === 1 ? 2 : 1;
     await completeLevel(level.id, stars, level.reward.peaches);
-    setShowCelebration(true);
-  }, [level, attempts, completeLevel]);
+    // Show celebration after the feedback toast fades
+    setTimeout(() => setShowCelebration(true), 1200);
+  }, [level, attempts, completeLevel, showFeedback, speak]);
 
   const handleWrong = useCallback(() => {
+    showFeedback("wrong");
+    speak("错误，再试一次!", "zh-CN");
     addAttempt();
     // Show hint after 2 wrong attempts
     if (attempts >= 1) {
       setShowHint(true);
     }
-  }, [addAttempt, attempts]);
+  }, [addAttempt, attempts, showFeedback, speak]);
 
   const handleContinue = useCallback(() => {
     setShowCelebration(false);
     resetAttempts();
+    setShowHint(false);
+    setHintIdx(0);
     // Navigate to next level or back to world
     if (level) {
       const parts = level.id.split("_");
@@ -119,6 +151,9 @@ export default function PlayLevelPage() {
           </motion.div>
         )}
       </GameShell>
+
+      {/* Feedback toast: 正确! / 错误! */}
+      <FeedbackToast type={feedback} />
 
       {showCelebration && (
         <Celebration reward={level.reward} onContinue={handleContinue} />

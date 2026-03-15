@@ -23,7 +23,7 @@ export default function AdditionGame({ question, onCorrect, onWrong }: Props) {
       setTimeout(onCorrect, 800);
     } else {
       onWrong();
-      setTimeout(() => { setSelected(null); setResult({}); }, 1000);
+      setTimeout(() => { setSelected(null); setResult({}); }, 1500);
     }
   };
 
