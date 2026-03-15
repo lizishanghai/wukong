@@ -1,0 +1,2422 @@
+[
+  {
+    "id": "w1_01",
+    "world": "flower_fruit_mountain",
+    "level_number": 1,
+    "name": "Wake Up Wukong",
+    "story_intro": "Wukong wakes up on Flower Fruit Mountain. Help him count his monkey friends!",
+    "character": "wukong",
+    "game_type": "counting",
+    "difficulty": 1,
+    "question": {
+      "text": "How many monkeys are there?",
+      "visual_objects": ["monkey", "monkey", "monkey"],
+      "options": [2, 3, 4],
+      "correct_answer": 3
+    },
+    "reward": {
+      "peaches": 1,
+      "animation": "flip",
+      "dialogue": "Great job, little friend!",
+      "character": "wukong"
+    },
+    "hints": ["Count each monkey one by one", "Point to each monkey as you count"],
+    "tags": ["counting", "numbers_1_5"]
+  },
+  {
+    "id": "w1_02",
+    "world": "flower_fruit_mountain",
+    "level_number": 2,
+    "name": "Peach Picking",
+    "story_intro": "The peach trees are full of fruit! Help Wukong count the peaches.",
+    "character": "wukong",
+    "game_type": "counting",
+    "difficulty": 1,
+    "question": {
+      "text": "How many peaches do you see?",
+      "visual_objects": ["peach", "peach"],
+      "options": [1, 2, 3],
+      "correct_answer": 2
+    },
+    "reward": {
+      "peaches": 1,
+      "animation": "bounce",
+      "dialogue": "Yummy! Wukong loves peaches!",
+      "character": "wukong"
+    },
+    "hints": ["Count each peach carefully", "There are not very many"],
+    "tags": ["counting", "numbers_1_5"]
+  },
+  {
+    "id": "w1_03",
+    "world": "flower_fruit_mountain",
+    "level_number": 3,
+    "name": "Flowers on the Hill",
+    "story_intro": "Beautiful flowers are blooming on the mountain. Can you count them?",
+    "character": "wukong",
+    "game_type": "counting",
+    "difficulty": 1,
+    "question": {
+      "text": "How many flowers are blooming?",
+      "visual_objects": ["flower", "flower", "flower", "flower"],
+      "options": [3, 4, 5],
+      "correct_answer": 4
+    },
+    "reward": {
+      "peaches": 1,
+      "animation": "spin",
+      "dialogue": "The mountain is so pretty!",
+      "character": "wukong"
+    },
+    "hints": ["Touch each flower as you count", "Start from the left side"],
+    "tags": ["counting", "numbers_1_5"]
+  },
+  {
+    "id": "w1_04",
+    "world": "flower_fruit_mountain",
+    "level_number": 4,
+    "name": "One Little Monkey",
+    "story_intro": "A tiny baby monkey is hiding behind a rock. How many monkeys can you find?",
+    "character": "wukong",
+    "game_type": "counting",
+    "difficulty": 1,
+    "question": {
+      "text": "How many monkeys are hiding?",
+      "visual_objects": ["monkey"],
+      "options": [1, 2, 3],
+      "correct_answer": 1
+    },
+    "reward": {
+      "peaches": 1,
+      "animation": "peek",
+      "dialogue": "You found the little one!",
+      "character": "wukong"
+    },
+    "hints": ["Look carefully behind the rock", "There is just one little monkey"],
+    "tags": ["counting", "numbers_1_5"]
+  },
+  {
+    "id": "w1_05",
+    "world": "flower_fruit_mountain",
+    "level_number": 5,
+    "name": "Stars Above the Mountain",
+    "story_intro": "Night falls on Flower Fruit Mountain. Count the stars twinkling in the sky!",
+    "character": "wukong",
+    "game_type": "counting",
+    "difficulty": 1,
+    "question": {
+      "text": "How many stars are in the sky?",
+      "visual_objects": ["star", "star", "star", "star", "star"],
+      "options": [4, 5, 6],
+      "correct_answer": 5
+    },
+    "reward": {
+      "peaches": 1,
+      "animation": "twinkle",
+      "dialogue": "The stars are shining for you!",
+      "character": "wukong"
+    },
+    "hints": ["Count each star slowly", "Use your finger to point at each one"],
+    "tags": ["counting", "numbers_1_5"]
+  },
+  {
+    "id": "w1_06",
+    "world": "flower_fruit_mountain",
+    "level_number": 6,
+    "name": "Waterfall Treasure",
+    "story_intro": "Wukong discovers a cave behind the waterfall! Count the gems inside.",
+    "character": "wukong",
+    "game_type": "counting",
+    "difficulty": 2,
+    "question": {
+      "text": "How many gems are in the cave?",
+      "visual_objects": ["gem", "gem", "gem", "gem", "gem", "gem"],
+      "options": [5, 6, 7],
+      "correct_answer": 6
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "sparkle",
+      "dialogue": "What a treasure trove!",
+      "character": "wukong"
+    },
+    "hints": ["Count slowly, there are more than five", "Try grouping them"],
+    "tags": ["counting", "numbers_6_10"]
+  },
+  {
+    "id": "w1_07",
+    "world": "flower_fruit_mountain",
+    "level_number": 7,
+    "name": "Monkey Feast",
+    "story_intro": "Bajie is preparing a feast! How many peaches does he have?",
+    "character": "bajie",
+    "game_type": "counting",
+    "difficulty": 2,
+    "question": {
+      "text": "How many peaches are on the table?",
+      "visual_objects": ["peach", "peach", "peach", "peach", "peach", "peach", "peach"],
+      "options": [6, 7, 8],
+      "correct_answer": 7
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "munch",
+      "dialogue": "So many peaches! Bajie is happy!",
+      "character": "bajie"
+    },
+    "hints": ["Count each peach on the table", "There are more than six"],
+    "tags": ["counting", "numbers_6_10"]
+  },
+  {
+    "id": "w1_08",
+    "world": "flower_fruit_mountain",
+    "level_number": 8,
+    "name": "Cloud Jumping",
+    "story_intro": "Wukong is learning to jump on clouds! Count the clouds he can reach.",
+    "character": "wukong",
+    "game_type": "counting",
+    "difficulty": 2,
+    "question": {
+      "text": "How many clouds can Wukong jump on?",
+      "visual_objects": ["cloud", "cloud", "cloud", "cloud", "cloud", "cloud", "cloud", "cloud"],
+      "options": [7, 8, 9],
+      "correct_answer": 8
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "jump",
+      "dialogue": "Wukong flies through the sky!",
+      "character": "wukong"
+    },
+    "hints": ["Count each cloud carefully", "Try counting in groups of two"],
+    "tags": ["counting", "numbers_6_10"]
+  },
+  {
+    "id": "w1_09",
+    "world": "flower_fruit_mountain",
+    "level_number": 9,
+    "name": "Monkey King's Staff",
+    "story_intro": "Wukong found some magical staffs! Which group has more?",
+    "character": "wukong",
+    "game_type": "comparison",
+    "difficulty": 2,
+    "question": {
+      "text": "Which side has more staffs?",
+      "visual_objects": ["staff", "staff", "staff", "|", "staff", "staff"],
+      "options": ["left", "right"],
+      "correct_answer": "left"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "spin",
+      "dialogue": "You have a sharp eye!",
+      "character": "wukong"
+    },
+    "hints": ["Count the staffs on each side", "Compare the two numbers"],
+    "tags": ["comparison", "numbers_1_5"]
+  },
+  {
+    "id": "w1_10",
+    "world": "flower_fruit_mountain",
+    "level_number": 10,
+    "name": "Peach or Flower?",
+    "story_intro": "Help Sha Wujing sort these items into peaches and flowers!",
+    "character": "sha_wujing",
+    "game_type": "classification",
+    "difficulty": 2,
+    "question": {
+      "text": "Sort these into the right groups!",
+      "visual_objects": ["peach", "flower", "peach", "flower", "flower"],
+      "groups": {"peaches": [], "flowers": []},
+      "correct_answer": {"peaches": ["peach", "peach"], "flowers": ["flower", "flower", "flower"]}
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "nod",
+      "dialogue": "Very tidy! Good sorting!",
+      "character": "sha_wujing"
+    },
+    "hints": ["Look at each item carefully", "Peaches are round fruit, flowers have petals"],
+    "tags": ["classification", "sorting"]
+  },
+  {
+    "id": "w1_11",
+    "world": "flower_fruit_mountain",
+    "level_number": 11,
+    "name": "Monkey Friends Arrive",
+    "story_intro": "Wukong has 2 monkey friends. 3 more come to play! How many now?",
+    "character": "wukong",
+    "game_type": "addition",
+    "difficulty": 2,
+    "question": {
+      "text": "2 monkeys plus 3 more monkeys. How many altogether?",
+      "visual_objects": ["monkey", "monkey", "|", "monkey", "monkey", "monkey"],
+      "options": [4, 5, 6],
+      "correct_answer": 5
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "cheer",
+      "dialogue": "The more the merrier!",
+      "character": "wukong"
+    },
+    "hints": ["Count all the monkeys together", "Start with 2 and add 3 more"],
+    "tags": ["addition", "numbers_1_5"]
+  },
+  {
+    "id": "w1_12",
+    "world": "flower_fruit_mountain",
+    "level_number": 12,
+    "name": "Counting Butterflies",
+    "story_intro": "Colorful butterflies flutter around the mountain. Count them all!",
+    "character": "wukong",
+    "game_type": "counting",
+    "difficulty": 2,
+    "question": {
+      "text": "How many butterflies are flying?",
+      "visual_objects": ["flower", "flower", "flower", "flower", "flower", "flower", "flower", "flower", "flower"],
+      "options": [8, 9, 10],
+      "correct_answer": 9
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "flutter",
+      "dialogue": "So many beautiful butterflies!",
+      "character": "wukong"
+    },
+    "hints": ["Count each one carefully", "There are almost ten"],
+    "tags": ["counting", "numbers_6_10"]
+  },
+  {
+    "id": "w1_13",
+    "world": "flower_fruit_mountain",
+    "level_number": 13,
+    "name": "Line Up Little Monkeys",
+    "story_intro": "The little monkeys need to line up by number! Help put them in order.",
+    "character": "wukong",
+    "game_type": "ordering",
+    "difficulty": 2,
+    "question": {
+      "text": "Put these numbers in order from smallest to biggest!",
+      "sequence": [3, 1, 2],
+      "correct_answer": [1, 2, 3]
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "march",
+      "dialogue": "Nice and orderly! Great job!",
+      "character": "wukong"
+    },
+    "hints": ["Find the smallest number first", "Which number comes first when we count?"],
+    "tags": ["ordering", "numbers_1_5"]
+  },
+  {
+    "id": "w1_14",
+    "world": "flower_fruit_mountain",
+    "level_number": 14,
+    "name": "Memory Game in the Cave",
+    "story_intro": "Wukong found cards in the Water Curtain Cave! Match the pairs!",
+    "character": "wukong",
+    "game_type": "memory",
+    "difficulty": 2,
+    "question": {
+      "text": "Find all the matching pairs!",
+      "pairs": [["peach", "peach"], ["staff", "staff"], ["cloud", "cloud"]],
+      "correct_answer": 3
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "flip",
+      "dialogue": "What a great memory you have!",
+      "character": "wukong"
+    },
+    "hints": ["Remember where each card is", "Try to flip two of the same kind"],
+    "tags": ["memory", "matching"]
+  },
+  {
+    "id": "w1_15",
+    "world": "flower_fruit_mountain",
+    "level_number": 15,
+    "name": "Ten Little Peaches",
+    "story_intro": "The biggest peach tree has exactly ten peaches! Can you count them all?",
+    "character": "wukong",
+    "game_type": "counting",
+    "difficulty": 2,
+    "question": {
+      "text": "How many peaches are on the tree?",
+      "visual_objects": ["peach", "peach", "peach", "peach", "peach", "peach", "peach", "peach", "peach", "peach"],
+      "options": [9, 10, 8],
+      "correct_answer": 10
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "shower",
+      "dialogue": "Ten peaches! What a harvest!",
+      "character": "wukong"
+    },
+    "hints": ["Count very carefully to ten", "Group them into fives to make it easier"],
+    "tags": ["counting", "numbers_6_10"]
+  },
+  {
+    "id": "w1_16",
+    "world": "flower_fruit_mountain",
+    "level_number": 16,
+    "name": "Mountain Maze",
+    "story_intro": "Help Wukong find the path through the mountain to reach the peach tree!",
+    "character": "wukong",
+    "game_type": "maze",
+    "difficulty": 3,
+    "question": {
+      "text": "Guide Wukong through the maze to the peach tree!",
+      "grid": [
+        [0, 1, 0, 0],
+        [0, 1, 0, 1],
+        [0, 0, 0, 1],
+        [1, 1, 0, 0]
+      ],
+      "start": [0, 0],
+      "end": [3, 3]
+    },
+    "reward": {
+      "peaches": 3,
+      "animation": "dash",
+      "dialogue": "You found the way! Amazing!",
+      "character": "wukong"
+    },
+    "hints": ["Look for open paths without walls", "Try going down first, then across"],
+    "tags": ["maze", "spatial"]
+  },
+  {
+    "id": "w1_17",
+    "world": "flower_fruit_mountain",
+    "level_number": 17,
+    "name": "Who Has More?",
+    "story_intro": "Wukong and Bajie are comparing their fruit. Who collected more?",
+    "character": "bajie",
+    "game_type": "comparison",
+    "difficulty": 3,
+    "question": {
+      "text": "Which side has more peaches?",
+      "visual_objects": ["peach", "peach", "peach", "peach", "peach", "|", "peach", "peach", "peach", "peach", "peach", "peach", "peach"],
+      "options": ["left", "right"],
+      "correct_answer": "right"
+    },
+    "reward": {
+      "peaches": 3,
+      "animation": "flex",
+      "dialogue": "Bajie wins this time! Haha!",
+      "character": "bajie"
+    },
+    "hints": ["Count each side carefully", "Left has 5, now count the right side"],
+    "tags": ["comparison", "numbers_6_10"]
+  },
+  {
+    "id": "w1_18",
+    "world": "flower_fruit_mountain",
+    "level_number": 18,
+    "name": "Monkey King Challenge",
+    "story_intro": "Final challenge! Wukong has 4 peaches and finds 6 more. How many total?",
+    "character": "wukong",
+    "game_type": "addition",
+    "difficulty": 3,
+    "question": {
+      "text": "4 peaches plus 6 peaches. How many altogether?",
+      "visual_objects": ["peach", "peach", "peach", "peach", "|", "peach", "peach", "peach", "peach", "peach", "peach"],
+      "options": [9, 10, 8],
+      "correct_answer": 10
+    },
+    "reward": {
+      "peaches": 3,
+      "animation": "crown",
+      "dialogue": "You are the Monkey King of counting!",
+      "character": "wukong"
+    },
+    "hints": ["Start at 4 and count up 6 more", "Use your fingers to help"],
+    "tags": ["addition", "numbers_6_10"]
+  },
+  {
+    "id": "w2_01",
+    "world": "dragon_palace",
+    "level_number": 1,
+    "name": "Under the Sea",
+    "story_intro": "Wukong dives into the ocean to visit the Dragon King! Count the fish swimming by.",
+    "character": "wukong",
+    "game_type": "counting",
+    "difficulty": 1,
+    "question": {
+      "text": "How many fish are swimming?",
+      "visual_objects": ["fish", "fish", "fish"],
+      "options": [2, 3, 4],
+      "correct_answer": 3
+    },
+    "reward": {
+      "peaches": 1,
+      "animation": "swim",
+      "dialogue": "Welcome to the Dragon Palace!",
+      "character": "wukong"
+    },
+    "hints": ["Count each fish as it swims past", "There are just a few"],
+    "tags": ["counting", "numbers_1_5"]
+  },
+  {
+    "id": "w2_02",
+    "world": "dragon_palace",
+    "level_number": 2,
+    "name": "Shells on the Floor",
+    "story_intro": "The palace floor is covered in beautiful shells! Count them!",
+    "character": "wukong",
+    "game_type": "counting",
+    "difficulty": 1,
+    "question": {
+      "text": "How many shells can you see?",
+      "visual_objects": ["shell", "shell", "shell", "shell"],
+      "options": [3, 4, 5],
+      "correct_answer": 4
+    },
+    "reward": {
+      "peaches": 1,
+      "animation": "shimmer",
+      "dialogue": "Such pretty shells!",
+      "character": "wukong"
+    },
+    "hints": ["Count each shell one by one", "Start from the left"],
+    "tags": ["counting", "numbers_1_5"]
+  },
+  {
+    "id": "w2_03",
+    "world": "dragon_palace",
+    "level_number": 3,
+    "name": "Pearl Patterns",
+    "story_intro": "The Dragon King has a string of pearls with a pattern. What comes next?",
+    "character": "wukong",
+    "game_type": "pattern",
+    "difficulty": 1,
+    "question": {
+      "text": "What comes next in the pattern?",
+      "sequence": ["pearl", "shell", "pearl", "shell", "?"],
+      "options": ["pearl", "shell", "fish"],
+      "correct_answer": "pearl"
+    },
+    "reward": {
+      "peaches": 1,
+      "animation": "glow",
+      "dialogue": "You can see the pattern!",
+      "character": "wukong"
+    },
+    "hints": ["Look at what repeats", "Pearl, shell, pearl, shell, then...?"],
+    "tags": ["pattern", "repeating"]
+  },
+  {
+    "id": "w2_04",
+    "world": "dragon_palace",
+    "level_number": 4,
+    "name": "Fish Friends",
+    "story_intro": "Two groups of fish are playing. Which group has more?",
+    "character": "wukong",
+    "game_type": "comparison",
+    "difficulty": 1,
+    "question": {
+      "text": "Which side has more fish?",
+      "visual_objects": ["fish", "fish", "|", "fish", "fish", "fish", "fish"],
+      "options": ["left", "right"],
+      "correct_answer": "right"
+    },
+    "reward": {
+      "peaches": 1,
+      "animation": "splash",
+      "dialogue": "Good eye! The right side wins!",
+      "character": "wukong"
+    },
+    "hints": ["Count each group separately", "2 on the left and how many on the right?"],
+    "tags": ["comparison", "numbers_1_5"]
+  },
+  {
+    "id": "w2_05",
+    "world": "dragon_palace",
+    "level_number": 5,
+    "name": "Match the Sea Creatures",
+    "story_intro": "Find the matching pairs hidden in the Dragon King's treasure chest!",
+    "character": "wukong",
+    "game_type": "memory",
+    "difficulty": 1,
+    "question": {
+      "text": "Find all the matching pairs!",
+      "pairs": [["fish", "fish"], ["shell", "shell"]],
+      "correct_answer": 2
+    },
+    "reward": {
+      "peaches": 1,
+      "animation": "flip",
+      "dialogue": "Great memory, little hero!",
+      "character": "wukong"
+    },
+    "hints": ["Remember where you saw each card", "There are two pairs to find"],
+    "tags": ["memory", "matching"]
+  },
+  {
+    "id": "w2_06",
+    "world": "dragon_palace",
+    "level_number": 6,
+    "name": "Color Pearls",
+    "story_intro": "The Dragon King's pearls follow a special pattern. Can you figure it out?",
+    "character": "wukong",
+    "game_type": "pattern",
+    "difficulty": 2,
+    "question": {
+      "text": "What comes next in the pattern?",
+      "sequence": ["pearl", "pearl", "gem", "pearl", "pearl", "gem", "?"],
+      "options": ["pearl", "gem", "shell"],
+      "correct_answer": "pearl"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "sparkle",
+      "dialogue": "You cracked the pattern!",
+      "character": "wukong"
+    },
+    "hints": ["The pattern repeats every three items", "Two pearls then one gem, two pearls then one gem..."],
+    "tags": ["pattern", "repeating"]
+  },
+  {
+    "id": "w2_07",
+    "world": "dragon_palace",
+    "level_number": 7,
+    "name": "Sort the Treasure",
+    "story_intro": "Help Sha Wujing sort the Dragon King's treasures into the right boxes!",
+    "character": "sha_wujing",
+    "game_type": "classification",
+    "difficulty": 2,
+    "question": {
+      "text": "Sort these into gems and shells!",
+      "visual_objects": ["gem", "shell", "gem", "shell", "gem", "shell"],
+      "groups": {"gems": [], "shells": []},
+      "correct_answer": {"gems": ["gem", "gem", "gem"], "shells": ["shell", "shell", "shell"]}
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "nod",
+      "dialogue": "Everything in its place! Well done!",
+      "character": "sha_wujing"
+    },
+    "hints": ["Look at each item carefully", "Gems sparkle and shells are from the sea"],
+    "tags": ["classification", "sorting"]
+  },
+  {
+    "id": "w2_08",
+    "world": "dragon_palace",
+    "level_number": 8,
+    "name": "Dragon Palace Memory",
+    "story_intro": "The Dragon King tests Wukong's memory with more pairs! Can you help?",
+    "character": "wukong",
+    "game_type": "memory",
+    "difficulty": 2,
+    "question": {
+      "text": "Find all the matching pairs!",
+      "pairs": [["fish", "fish"], ["pearl", "pearl"], ["shell", "shell"], ["gem", "gem"]],
+      "correct_answer": 4
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "flip",
+      "dialogue": "Incredible memory!",
+      "character": "wukong"
+    },
+    "hints": ["Take your time to remember each card", "There are four pairs to find"],
+    "tags": ["memory", "matching"]
+  },
+  {
+    "id": "w2_09",
+    "world": "dragon_palace",
+    "level_number": 9,
+    "name": "Spot the Difference",
+    "story_intro": "Two rooms in the Dragon Palace look the same, but something is different!",
+    "character": "wukong",
+    "game_type": "find_difference",
+    "difficulty": 2,
+    "question": {
+      "text": "What is different between the two rooms?",
+      "scene_a": ["fish", "pearl", "shell", "gem"],
+      "scene_b": ["fish", "pearl", "shell", "star"],
+      "differences": ["gem is replaced by star"]
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "magnify",
+      "dialogue": "Sharp eyes! You found it!",
+      "character": "wukong"
+    },
+    "hints": ["Compare each item one by one", "Look at the last item in each room"],
+    "tags": ["find_difference", "observation"]
+  },
+  {
+    "id": "w2_10",
+    "world": "dragon_palace",
+    "level_number": 10,
+    "name": "Growing Pattern",
+    "story_intro": "The fish swim in a special pattern. Can you figure out what comes next?",
+    "character": "wukong",
+    "game_type": "pattern",
+    "difficulty": 2,
+    "question": {
+      "text": "What comes next in the pattern?",
+      "sequence": ["fish", "shell", "fish", "shell", "fish", "?"],
+      "options": ["fish", "shell", "pearl"],
+      "correct_answer": "shell"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "wave",
+      "dialogue": "You see the pattern of the sea!",
+      "character": "wukong"
+    },
+    "hints": ["Fish and shell take turns", "It alternates between two things"],
+    "tags": ["pattern", "repeating"]
+  },
+  {
+    "id": "w2_11",
+    "world": "dragon_palace",
+    "level_number": 11,
+    "name": "Underwater Counting",
+    "story_intro": "Count all the pearls in the Dragon King's treasure vault!",
+    "character": "wukong",
+    "game_type": "counting",
+    "difficulty": 2,
+    "question": {
+      "text": "How many pearls are in the vault?",
+      "visual_objects": ["pearl", "pearl", "pearl", "pearl", "pearl", "pearl", "pearl"],
+      "options": [6, 7, 8],
+      "correct_answer": 7
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "glow",
+      "dialogue": "Seven magical pearls!",
+      "character": "wukong"
+    },
+    "hints": ["Count each pearl slowly", "There are more than six"],
+    "tags": ["counting", "numbers_6_10"]
+  },
+  {
+    "id": "w2_12",
+    "world": "dragon_palace",
+    "level_number": 12,
+    "name": "Sea Creature Lineup",
+    "story_intro": "Put the sea treasures in order from fewest to most!",
+    "character": "sha_wujing",
+    "game_type": "ordering",
+    "difficulty": 2,
+    "question": {
+      "text": "Put these numbers in order from smallest to biggest!",
+      "sequence": [5, 2, 4, 1],
+      "correct_answer": [1, 2, 4, 5]
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "march",
+      "dialogue": "Perfect order! The Dragon King is impressed!",
+      "character": "sha_wujing"
+    },
+    "hints": ["Find the smallest number first", "1 comes before 2, then what?"],
+    "tags": ["ordering", "numbers_1_5"]
+  },
+  {
+    "id": "w2_13",
+    "world": "dragon_palace",
+    "level_number": 13,
+    "name": "Palace Spot Check",
+    "story_intro": "Two treasure displays look similar. Can you find all the differences?",
+    "character": "wukong",
+    "game_type": "find_difference",
+    "difficulty": 2,
+    "question": {
+      "text": "What is different between the two displays?",
+      "scene_a": ["pearl", "gem", "shell", "fish", "pearl"],
+      "scene_b": ["pearl", "gem", "star", "fish", "pearl"],
+      "differences": ["shell is replaced by star"]
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "magnify",
+      "dialogue": "Nothing escapes your eyes!",
+      "character": "wukong"
+    },
+    "hints": ["Check each item from left to right", "Look at the middle items carefully"],
+    "tags": ["find_difference", "observation"]
+  },
+  {
+    "id": "w2_14",
+    "world": "dragon_palace",
+    "level_number": 14,
+    "name": "Triple Pattern",
+    "story_intro": "The palace columns have a tricky pattern. Can you solve it?",
+    "character": "tang_monk",
+    "game_type": "pattern",
+    "difficulty": 2,
+    "question": {
+      "text": "What comes next in the pattern?",
+      "sequence": ["gem", "gem", "pearl", "gem", "gem", "pearl", "gem", "gem", "?"],
+      "options": ["gem", "pearl", "shell"],
+      "correct_answer": "pearl"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "wise",
+      "dialogue": "Wisdom shines bright, young one!",
+      "character": "tang_monk"
+    },
+    "hints": ["The pattern repeats every three items", "Two gems then one pearl keeps repeating"],
+    "tags": ["pattern", "repeating"]
+  },
+  {
+    "id": "w2_15",
+    "world": "dragon_palace",
+    "level_number": 15,
+    "name": "Ocean Maze",
+    "story_intro": "Help Wukong swim through the underwater maze to reach the Dragon King!",
+    "character": "wukong",
+    "game_type": "maze",
+    "difficulty": 3,
+    "question": {
+      "text": "Guide Wukong through the underwater maze!",
+      "grid": [
+        [0, 0, 1, 0, 0],
+        [1, 0, 1, 0, 1],
+        [0, 0, 0, 0, 0],
+        [0, 1, 1, 1, 0],
+        [0, 0, 0, 0, 0]
+      ],
+      "start": [0, 0],
+      "end": [4, 4]
+    },
+    "reward": {
+      "peaches": 3,
+      "animation": "dash",
+      "dialogue": "You navigated the ocean depths!",
+      "character": "wukong"
+    },
+    "hints": ["Avoid the walls made of coral", "Try going right then down"],
+    "tags": ["maze", "spatial"]
+  },
+  {
+    "id": "w2_16",
+    "world": "dragon_palace",
+    "level_number": 16,
+    "name": "Royal Classification",
+    "story_intro": "The Dragon King needs help sorting treasures into three groups!",
+    "character": "sha_wujing",
+    "game_type": "classification",
+    "difficulty": 3,
+    "question": {
+      "text": "Sort these into sea creatures, treasures, and sky things!",
+      "visual_objects": ["fish", "gem", "star", "shell", "pearl", "cloud"],
+      "groups": {"sea_creatures": [], "treasures": [], "sky_things": []},
+      "correct_answer": {"sea_creatures": ["fish", "shell"], "treasures": ["gem", "pearl"], "sky_things": ["star", "cloud"]}
+    },
+    "reward": {
+      "peaches": 3,
+      "animation": "organize",
+      "dialogue": "Three groups sorted perfectly!",
+      "character": "sha_wujing"
+    },
+    "hints": ["Fish and shells come from the sea", "Stars and clouds are in the sky"],
+    "tags": ["classification", "sorting"]
+  },
+  {
+    "id": "w2_17",
+    "world": "dragon_palace",
+    "level_number": 17,
+    "name": "Dragon King's Test",
+    "story_intro": "The Dragon King gives Wukong a final test. Find all the differences!",
+    "character": "wukong",
+    "game_type": "find_difference",
+    "difficulty": 3,
+    "question": {
+      "text": "Find all the differences between the two treasure rooms!",
+      "scene_a": ["gem", "pearl", "fish", "shell", "star", "pearl"],
+      "scene_b": ["gem", "flower", "fish", "gem", "star", "pearl"],
+      "differences": ["pearl is replaced by flower", "shell is replaced by gem"]
+    },
+    "reward": {
+      "peaches": 3,
+      "animation": "bow",
+      "dialogue": "The Dragon King bows to your wisdom!",
+      "character": "wukong"
+    },
+    "hints": ["Compare each position carefully", "There are two things that changed"],
+    "tags": ["find_difference", "observation"]
+  },
+  {
+    "id": "w3_01",
+    "world": "heaven_palace",
+    "level_number": 1,
+    "name": "Heavenly Stairs",
+    "story_intro": "Wukong climbs the stairs to Heaven! Count the steps.",
+    "character": "wukong",
+    "game_type": "counting",
+    "difficulty": 1,
+    "question": {
+      "text": "How many stairs does Wukong climb?",
+      "visual_objects": ["star", "star", "star", "star", "star"],
+      "options": [4, 5, 6],
+      "correct_answer": 5
+    },
+    "reward": {
+      "peaches": 1,
+      "animation": "climb",
+      "dialogue": "Up, up, up to Heaven!",
+      "character": "wukong"
+    },
+    "hints": ["Count each step one by one", "There are five shining steps"],
+    "tags": ["counting", "numbers_1_5"]
+  },
+  {
+    "id": "w3_02",
+    "world": "heaven_palace",
+    "level_number": 2,
+    "name": "Cloud Counting",
+    "story_intro": "Beautiful clouds float around the Heavenly Palace. How many are there?",
+    "character": "wukong",
+    "game_type": "counting",
+    "difficulty": 1,
+    "question": {
+      "text": "How many clouds are floating?",
+      "visual_objects": ["cloud", "cloud", "cloud"],
+      "options": [2, 3, 4],
+      "correct_answer": 3
+    },
+    "reward": {
+      "peaches": 1,
+      "animation": "float",
+      "dialogue": "Fluffy clouds everywhere!",
+      "character": "wukong"
+    },
+    "hints": ["Count each cloud", "There are just a few"],
+    "tags": ["counting", "numbers_1_5"]
+  },
+  {
+    "id": "w3_03",
+    "world": "heaven_palace",
+    "level_number": 3,
+    "name": "Heavenly Peach Garden",
+    "story_intro": "Wukong sneaks into the Peach Garden! Count the golden peaches!",
+    "character": "wukong",
+    "game_type": "counting",
+    "difficulty": 1,
+    "question": {
+      "text": "How many golden peaches are there?",
+      "visual_objects": ["peach", "peach", "peach", "peach"],
+      "options": [3, 4, 5],
+      "correct_answer": 4
+    },
+    "reward": {
+      "peaches": 1,
+      "animation": "sneak",
+      "dialogue": "Shh! Do not tell anyone!",
+      "character": "wukong"
+    },
+    "hints": ["Count each golden peach", "There are fewer than five"],
+    "tags": ["counting", "numbers_1_5"]
+  },
+  {
+    "id": "w3_04",
+    "world": "heaven_palace",
+    "level_number": 4,
+    "name": "Star Order",
+    "story_intro": "Help Tang Monk put the stars in order from smallest to biggest number!",
+    "character": "tang_monk",
+    "game_type": "ordering",
+    "difficulty": 1,
+    "question": {
+      "text": "Put these numbers in order from smallest to biggest!",
+      "sequence": [2, 1, 3],
+      "correct_answer": [1, 2, 3]
+    },
+    "reward": {
+      "peaches": 1,
+      "animation": "wise",
+      "dialogue": "Order brings peace, young one!",
+      "character": "tang_monk"
+    },
+    "hints": ["Which number is the smallest?", "1, 2, 3 is the counting order"],
+    "tags": ["ordering", "numbers_1_5"]
+  },
+  {
+    "id": "w3_05",
+    "world": "heaven_palace",
+    "level_number": 5,
+    "name": "Heavenly Addition",
+    "story_intro": "Wukong has 1 peach. He picks 2 more from the garden. How many now?",
+    "character": "wukong",
+    "game_type": "addition",
+    "difficulty": 1,
+    "question": {
+      "text": "1 peach plus 2 more peaches. How many altogether?",
+      "visual_objects": ["peach", "|", "peach", "peach"],
+      "options": [2, 3, 4],
+      "correct_answer": 3
+    },
+    "reward": {
+      "peaches": 1,
+      "animation": "munch",
+      "dialogue": "Three delicious peaches!",
+      "character": "wukong"
+    },
+    "hints": ["Start with 1 and add 2 more", "Count all the peaches together"],
+    "tags": ["addition", "numbers_1_5"]
+  },
+  {
+    "id": "w3_06",
+    "world": "heaven_palace",
+    "level_number": 6,
+    "name": "More Heavenly Peaches",
+    "story_intro": "Wukong grabs 3 peaches, then finds 4 more hidden ones! How many total?",
+    "character": "wukong",
+    "game_type": "addition",
+    "difficulty": 2,
+    "question": {
+      "text": "3 peaches plus 4 more peaches. How many altogether?",
+      "visual_objects": ["peach", "peach", "peach", "|", "peach", "peach", "peach", "peach"],
+      "options": [6, 7, 8],
+      "correct_answer": 7
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "juggle",
+      "dialogue": "So many peaches! Wukong is delighted!",
+      "character": "wukong"
+    },
+    "hints": ["Count the first group: 3. Then add 4 more", "Use your fingers to help count"],
+    "tags": ["addition", "numbers_6_10"]
+  },
+  {
+    "id": "w3_07",
+    "world": "heaven_palace",
+    "level_number": 7,
+    "name": "Heavenly Feast",
+    "story_intro": "Bajie sneaks into the heavenly feast! Help him count the dishes.",
+    "character": "bajie",
+    "game_type": "counting",
+    "difficulty": 2,
+    "question": {
+      "text": "How many dishes are on the table?",
+      "visual_objects": ["peach", "peach", "peach", "peach", "peach", "peach", "peach", "peach", "peach"],
+      "options": [8, 9, 10],
+      "correct_answer": 9
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "munch",
+      "dialogue": "Bajie cannot resist a good feast!",
+      "character": "bajie"
+    },
+    "hints": ["Count each dish carefully", "There are almost ten"],
+    "tags": ["counting", "numbers_6_10"]
+  },
+  {
+    "id": "w3_08",
+    "world": "heaven_palace",
+    "level_number": 8,
+    "name": "Star Addition",
+    "story_intro": "Two groups of stars appear in the sky. Add them together!",
+    "character": "wukong",
+    "game_type": "addition",
+    "difficulty": 2,
+    "question": {
+      "text": "5 stars plus 3 more stars. How many altogether?",
+      "visual_objects": ["star", "star", "star", "star", "star", "|", "star", "star", "star"],
+      "options": [7, 8, 9],
+      "correct_answer": 8
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "twinkle",
+      "dialogue": "Eight stars light up the sky!",
+      "character": "wukong"
+    },
+    "hints": ["Start at 5 and count up 3 more", "5, 6, 7, 8!"],
+    "tags": ["addition", "numbers_6_10"]
+  },
+  {
+    "id": "w3_09",
+    "world": "heaven_palace",
+    "level_number": 9,
+    "name": "Order the Clouds",
+    "story_intro": "The heavenly clouds have numbers. Put them in order!",
+    "character": "tang_monk",
+    "game_type": "ordering",
+    "difficulty": 2,
+    "question": {
+      "text": "Put these numbers in order from smallest to biggest!",
+      "sequence": [4, 1, 3, 2, 5],
+      "correct_answer": [1, 2, 3, 4, 5]
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "float",
+      "dialogue": "The clouds are perfectly aligned!",
+      "character": "tang_monk"
+    },
+    "hints": ["Find the smallest first", "Count up from 1"],
+    "tags": ["ordering", "numbers_1_5"]
+  },
+  {
+    "id": "w3_10",
+    "world": "heaven_palace",
+    "level_number": 10,
+    "name": "Gem Addition",
+    "story_intro": "Wukong finds 2 gems in one room and 5 in another. How many total?",
+    "character": "wukong",
+    "game_type": "addition",
+    "difficulty": 2,
+    "question": {
+      "text": "2 gems plus 5 gems. How many altogether?",
+      "visual_objects": ["gem", "gem", "|", "gem", "gem", "gem", "gem", "gem"],
+      "options": [6, 7, 8],
+      "correct_answer": 7
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "sparkle",
+      "dialogue": "Seven shining gems!",
+      "character": "wukong"
+    },
+    "hints": ["Count the first group: 2. Then add 5 more", "2 plus 5 equals..."],
+    "tags": ["addition", "numbers_6_10"]
+  },
+  {
+    "id": "w3_11",
+    "world": "heaven_palace",
+    "level_number": 11,
+    "name": "Heavenly Comparison",
+    "story_intro": "Two heavenly generals show their star collections. Who has more?",
+    "character": "wukong",
+    "game_type": "comparison",
+    "difficulty": 2,
+    "question": {
+      "text": "Which side has more stars?",
+      "visual_objects": ["star", "star", "star", "star", "star", "star", "|", "star", "star", "star", "star"],
+      "options": ["left", "right"],
+      "correct_answer": "left"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "point",
+      "dialogue": "Left side wins with more stars!",
+      "character": "wukong"
+    },
+    "hints": ["Count each side separately", "6 on the left, how many on the right?"],
+    "tags": ["comparison", "numbers_6_10"]
+  },
+  {
+    "id": "w3_12",
+    "world": "heaven_palace",
+    "level_number": 12,
+    "name": "Cloud Pattern",
+    "story_intro": "The clouds form a special pattern across the sky!",
+    "character": "tang_monk",
+    "game_type": "pattern",
+    "difficulty": 2,
+    "question": {
+      "text": "What comes next in the pattern?",
+      "sequence": ["cloud", "star", "star", "cloud", "star", "star", "cloud", "?"],
+      "options": ["cloud", "star", "gem"],
+      "correct_answer": "star"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "wise",
+      "dialogue": "The heavens reveal their secrets to you!",
+      "character": "tang_monk"
+    },
+    "hints": ["Look at the repeating group", "Cloud, star, star keeps repeating"],
+    "tags": ["pattern", "repeating"]
+  },
+  {
+    "id": "w3_13",
+    "world": "heaven_palace",
+    "level_number": 13,
+    "name": "Bigger Numbers in Order",
+    "story_intro": "Sort the bigger heavenly numbers from smallest to biggest!",
+    "character": "tang_monk",
+    "game_type": "ordering",
+    "difficulty": 2,
+    "question": {
+      "text": "Put these numbers in order from smallest to biggest!",
+      "sequence": [8, 5, 10, 3, 7],
+      "correct_answer": [3, 5, 7, 8, 10]
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "scroll",
+      "dialogue": "Numbers in perfect harmony!",
+      "character": "tang_monk"
+    },
+    "hints": ["Find the smallest number first", "3 is the smallest, what comes next?"],
+    "tags": ["ordering", "numbers_6_10"]
+  },
+  {
+    "id": "w3_14",
+    "world": "heaven_palace",
+    "level_number": 14,
+    "name": "Adding More Stars",
+    "story_intro": "Wukong collects 4 stars and then finds 4 more. How many stars now?",
+    "character": "wukong",
+    "game_type": "addition",
+    "difficulty": 2,
+    "question": {
+      "text": "4 stars plus 4 stars. How many altogether?",
+      "visual_objects": ["star", "star", "star", "star", "|", "star", "star", "star", "star"],
+      "options": [7, 8, 9],
+      "correct_answer": 8
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "twinkle",
+      "dialogue": "Eight brilliant stars!",
+      "character": "wukong"
+    },
+    "hints": ["Start with 4 and count 4 more", "4 plus 4 equals..."],
+    "tags": ["addition", "numbers_6_10"]
+  },
+  {
+    "id": "w3_15",
+    "world": "heaven_palace",
+    "level_number": 15,
+    "name": "Heavenly Sort",
+    "story_intro": "Help Sha Wujing sort items from Heaven and Earth!",
+    "character": "sha_wujing",
+    "game_type": "classification",
+    "difficulty": 2,
+    "question": {
+      "text": "Sort these into sky things and earth things!",
+      "visual_objects": ["star", "flower", "cloud", "peach", "star", "flower"],
+      "groups": {"sky_things": [], "earth_things": []},
+      "correct_answer": {"sky_things": ["star", "cloud", "star"], "earth_things": ["flower", "peach", "flower"]}
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "organize",
+      "dialogue": "Heaven and Earth in balance!",
+      "character": "sha_wujing"
+    },
+    "hints": ["Stars and clouds belong in the sky", "Flowers and peaches grow on the ground"],
+    "tags": ["classification", "sorting"]
+  },
+  {
+    "id": "w3_16",
+    "world": "heaven_palace",
+    "level_number": 16,
+    "name": "Big Addition Challenge",
+    "story_intro": "Wukong has 6 peaches and steals 4 more from the garden! How many total?",
+    "character": "wukong",
+    "game_type": "addition",
+    "difficulty": 3,
+    "question": {
+      "text": "6 peaches plus 4 more peaches. How many altogether?",
+      "visual_objects": ["peach", "peach", "peach", "peach", "peach", "peach", "|", "peach", "peach", "peach", "peach"],
+      "options": [9, 10, 8],
+      "correct_answer": 10
+    },
+    "reward": {
+      "peaches": 3,
+      "animation": "feast",
+      "dialogue": "Ten peaches! A heavenly treasure!",
+      "character": "wukong"
+    },
+    "hints": ["Start at 6 and count up 4 more", "6, 7, 8, 9, 10!"],
+    "tags": ["addition", "numbers_6_10"]
+  },
+  {
+    "id": "w3_17",
+    "world": "heaven_palace",
+    "level_number": 17,
+    "name": "Heaven's Maze",
+    "story_intro": "Wukong must escape from Heaven through the cloud maze!",
+    "character": "wukong",
+    "game_type": "maze",
+    "difficulty": 3,
+    "question": {
+      "text": "Help Wukong escape through the cloud maze!",
+      "grid": [
+        [0, 0, 1, 0, 0],
+        [0, 1, 0, 0, 1],
+        [0, 0, 0, 1, 0],
+        [1, 0, 1, 0, 0],
+        [0, 0, 0, 0, 0]
+      ],
+      "start": [0, 0],
+      "end": [4, 4]
+    },
+    "reward": {
+      "peaches": 3,
+      "animation": "escape",
+      "dialogue": "Freedom! Wukong breaks free!",
+      "character": "wukong"
+    },
+    "hints": ["Look for open paths between the clouds", "Sometimes you need to go around walls"],
+    "tags": ["maze", "spatial"]
+  },
+  {
+    "id": "w3_18",
+    "world": "heaven_palace",
+    "level_number": 18,
+    "name": "Heavenly Final Test",
+    "story_intro": "The Jade Emperor challenges Wukong! Add these big numbers!",
+    "character": "wukong",
+    "game_type": "addition",
+    "difficulty": 3,
+    "question": {
+      "text": "5 gems plus 5 gems. How many altogether?",
+      "visual_objects": ["gem", "gem", "gem", "gem", "gem", "|", "gem", "gem", "gem", "gem", "gem"],
+      "options": [9, 10, 8],
+      "correct_answer": 10
+    },
+    "reward": {
+      "peaches": 3,
+      "animation": "fireworks",
+      "dialogue": "Even the Jade Emperor is amazed!",
+      "character": "wukong"
+    },
+    "hints": ["5 plus 5 is a special number", "Count all of them together"],
+    "tags": ["addition", "numbers_6_10"]
+  },
+  {
+    "id": "w4_01",
+    "world": "white_bone_cave",
+    "level_number": 1,
+    "name": "Into the Cave",
+    "story_intro": "The travelers enter a spooky cave! Count the bones on the ground.",
+    "character": "wukong",
+    "game_type": "counting",
+    "difficulty": 1,
+    "question": {
+      "text": "How many bones are on the ground?",
+      "visual_objects": ["bone", "bone", "bone"],
+      "options": [2, 3, 4],
+      "correct_answer": 3
+    },
+    "reward": {
+      "peaches": 1,
+      "animation": "brave",
+      "dialogue": "Do not be scared! Wukong is here!",
+      "character": "wukong"
+    },
+    "hints": ["Count each bone carefully", "There are just a few"],
+    "tags": ["counting", "numbers_1_5"]
+  },
+  {
+    "id": "w4_02",
+    "world": "white_bone_cave",
+    "level_number": 2,
+    "name": "Spot the Trick",
+    "story_intro": "The White Bone Demon is tricky! Find what is different between two scenes.",
+    "character": "wukong",
+    "game_type": "find_difference",
+    "difficulty": 1,
+    "question": {
+      "text": "What is different between these two pictures?",
+      "scene_a": ["bone", "flower", "scroll"],
+      "scene_b": ["bone", "gem", "scroll"],
+      "differences": ["flower is replaced by gem"]
+    },
+    "reward": {
+      "peaches": 1,
+      "animation": "magnify",
+      "dialogue": "You saw through the disguise!",
+      "character": "wukong"
+    },
+    "hints": ["Look at each item in both scenes", "The middle item is different"],
+    "tags": ["find_difference", "observation"]
+  },
+  {
+    "id": "w4_03",
+    "world": "white_bone_cave",
+    "level_number": 3,
+    "name": "Cave Memory",
+    "story_intro": "Remember what you see in the cave to help the team!",
+    "character": "wukong",
+    "game_type": "memory",
+    "difficulty": 1,
+    "question": {
+      "text": "Find all the matching pairs!",
+      "pairs": [["bone", "bone"], ["scroll", "scroll"]],
+      "correct_answer": 2
+    },
+    "reward": {
+      "peaches": 1,
+      "animation": "flip",
+      "dialogue": "Great memory saves the day!",
+      "character": "wukong"
+    },
+    "hints": ["Remember where each card is", "There are two pairs to find"],
+    "tags": ["memory", "matching"]
+  },
+  {
+    "id": "w4_04",
+    "world": "white_bone_cave",
+    "level_number": 4,
+    "name": "Sort the Real and Fake",
+    "story_intro": "Help Sha Wujing sort items into real treasures and fake bones!",
+    "character": "sha_wujing",
+    "game_type": "classification",
+    "difficulty": 1,
+    "question": {
+      "text": "Sort these into treasures and bones!",
+      "visual_objects": ["gem", "bone", "pearl", "bone"],
+      "groups": {"treasures": [], "bones": []},
+      "correct_answer": {"treasures": ["gem", "pearl"], "bones": ["bone", "bone"]}
+    },
+    "reward": {
+      "peaches": 1,
+      "animation": "nod",
+      "dialogue": "Real from fake, well sorted!",
+      "character": "sha_wujing"
+    },
+    "hints": ["Gems and pearls are treasures", "Bones are not treasures"],
+    "tags": ["classification", "sorting"]
+  },
+  {
+    "id": "w4_05",
+    "world": "white_bone_cave",
+    "level_number": 5,
+    "name": "Which Has More Bones?",
+    "story_intro": "Two piles of bones in the cave. Which pile is bigger?",
+    "character": "wukong",
+    "game_type": "comparison",
+    "difficulty": 1,
+    "question": {
+      "text": "Which side has more bones?",
+      "visual_objects": ["bone", "bone", "bone", "bone", "|", "bone", "bone"],
+      "options": ["left", "right"],
+      "correct_answer": "left"
+    },
+    "reward": {
+      "peaches": 1,
+      "animation": "flex",
+      "dialogue": "Left pile is bigger! Watch out!",
+      "character": "wukong"
+    },
+    "hints": ["Count each pile", "4 on the left, 2 on the right"],
+    "tags": ["comparison", "numbers_1_5"]
+  },
+  {
+    "id": "w4_06",
+    "world": "white_bone_cave",
+    "level_number": 6,
+    "name": "Disguise Differences",
+    "story_intro": "The demon disguises herself twice! Spot the differences between her two forms.",
+    "character": "wukong",
+    "game_type": "find_difference",
+    "difficulty": 2,
+    "question": {
+      "text": "What changed between the two disguises?",
+      "scene_a": ["hat", "scroll", "flower", "gem"],
+      "scene_b": ["hat", "bone", "flower", "gem"],
+      "differences": ["scroll is replaced by bone"]
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "alert",
+      "dialogue": "Nothing fools your sharp eyes!",
+      "character": "wukong"
+    },
+    "hints": ["Check each item carefully", "One item has been swapped"],
+    "tags": ["find_difference", "observation"]
+  },
+  {
+    "id": "w4_07",
+    "world": "white_bone_cave",
+    "level_number": 7,
+    "name": "Cave Classification",
+    "story_intro": "Sort items from the cave into food, tools, and nature!",
+    "character": "sha_wujing",
+    "game_type": "classification",
+    "difficulty": 2,
+    "question": {
+      "text": "Sort these items into the right groups!",
+      "visual_objects": ["peach", "staff", "flower", "peach", "fan", "flower"],
+      "groups": {"food": [], "tools": [], "nature": []},
+      "correct_answer": {"food": ["peach", "peach"], "tools": ["staff", "fan"], "nature": ["flower", "flower"]}
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "organize",
+      "dialogue": "Everything sorted perfectly!",
+      "character": "sha_wujing"
+    },
+    "hints": ["Peaches are food", "Staff and fan are tools you can use"],
+    "tags": ["classification", "sorting"]
+  },
+  {
+    "id": "w4_08",
+    "world": "white_bone_cave",
+    "level_number": 8,
+    "name": "Cave Memory Challenge",
+    "story_intro": "A harder memory challenge in the dark cave!",
+    "character": "wukong",
+    "game_type": "memory",
+    "difficulty": 2,
+    "question": {
+      "text": "Find all the matching pairs!",
+      "pairs": [["bone", "bone"], ["gem", "gem"], ["scroll", "scroll"], ["staff", "staff"]],
+      "correct_answer": 4
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "flip",
+      "dialogue": "Four pairs! Incredible memory!",
+      "character": "wukong"
+    },
+    "hints": ["Take your time with each card", "There are four pairs hidden"],
+    "tags": ["memory", "matching"]
+  },
+  {
+    "id": "w4_09",
+    "world": "white_bone_cave",
+    "level_number": 9,
+    "name": "Three Disguises",
+    "story_intro": "The demon transforms three times! Spot what changes each time.",
+    "character": "wukong",
+    "game_type": "find_difference",
+    "difficulty": 2,
+    "question": {
+      "text": "What is different between the two scenes?",
+      "scene_a": ["hat", "flower", "fan", "pearl", "scroll"],
+      "scene_b": ["hat", "bone", "fan", "pearl", "scroll"],
+      "differences": ["flower is replaced by bone"]
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "smash",
+      "dialogue": "Wukong smashes the disguise!",
+      "character": "wukong"
+    },
+    "hints": ["Compare item by item", "Look at the second item"],
+    "tags": ["find_difference", "observation"]
+  },
+  {
+    "id": "w4_10",
+    "world": "white_bone_cave",
+    "level_number": 10,
+    "name": "Odd One Out",
+    "story_intro": "Tang Monk teaches: which item does not belong with the others?",
+    "character": "tang_monk",
+    "game_type": "classification",
+    "difficulty": 2,
+    "question": {
+      "text": "Which item does not belong with the others?",
+      "visual_objects": ["peach", "peach", "bone", "peach"],
+      "groups": {"belongs": [], "odd_one_out": []},
+      "correct_answer": {"belongs": ["peach", "peach", "peach"], "odd_one_out": ["bone"]}
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "wise",
+      "dialogue": "Wisdom shows us what does not fit!",
+      "character": "tang_monk"
+    },
+    "hints": ["Most items are the same kind", "Which one is different from the rest?"],
+    "tags": ["classification", "odd_one_out"]
+  },
+  {
+    "id": "w4_11",
+    "world": "white_bone_cave",
+    "level_number": 11,
+    "name": "Cave Counting Challenge",
+    "story_intro": "Deep in the cave, count all the hidden bones!",
+    "character": "wukong",
+    "game_type": "counting",
+    "difficulty": 2,
+    "question": {
+      "text": "How many bones are hidden in the cave?",
+      "visual_objects": ["bone", "bone", "bone", "bone", "bone", "bone", "bone", "bone"],
+      "options": [7, 8, 9],
+      "correct_answer": 8
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "torch",
+      "dialogue": "Eight bones found in the dark!",
+      "character": "wukong"
+    },
+    "hints": ["Count each bone carefully", "There are more than seven"],
+    "tags": ["counting", "numbers_6_10"]
+  },
+  {
+    "id": "w4_12",
+    "world": "white_bone_cave",
+    "level_number": 12,
+    "name": "Pattern in the Dark",
+    "story_intro": "Strange patterns appear on the cave walls. What comes next?",
+    "character": "wukong",
+    "game_type": "pattern",
+    "difficulty": 2,
+    "question": {
+      "text": "What comes next in the pattern?",
+      "sequence": ["bone", "gem", "bone", "gem", "bone", "?"],
+      "options": ["bone", "gem", "star"],
+      "correct_answer": "gem"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "glow",
+      "dialogue": "The cave reveals its secrets!",
+      "character": "wukong"
+    },
+    "hints": ["Bone and gem take turns", "The pattern alternates between two items"],
+    "tags": ["pattern", "repeating"]
+  },
+  {
+    "id": "w4_13",
+    "world": "white_bone_cave",
+    "level_number": 13,
+    "name": "Memory Master",
+    "story_intro": "The ultimate memory test! Can you find all five pairs?",
+    "character": "wukong",
+    "game_type": "memory",
+    "difficulty": 2,
+    "question": {
+      "text": "Find all the matching pairs!",
+      "pairs": [["bone", "bone"], ["gem", "gem"], ["flower", "flower"], ["star", "star"], ["peach", "peach"]],
+      "correct_answer": 5
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "flip",
+      "dialogue": "Five pairs! Memory champion!",
+      "character": "wukong"
+    },
+    "hints": ["Concentrate and remember each position", "There are five different pairs"],
+    "tags": ["memory", "matching"]
+  },
+  {
+    "id": "w4_14",
+    "world": "white_bone_cave",
+    "level_number": 14,
+    "name": "Tricky Sorting",
+    "story_intro": "Sort the cave items into living things and non-living things!",
+    "character": "tang_monk",
+    "game_type": "classification",
+    "difficulty": 2,
+    "question": {
+      "text": "Sort these into living and non-living things!",
+      "visual_objects": ["flower", "gem", "monkey", "pearl", "fish", "bone"],
+      "groups": {"living": [], "non_living": []},
+      "correct_answer": {"living": ["flower", "monkey", "fish"], "non_living": ["gem", "pearl", "bone"]}
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "wise",
+      "dialogue": "You understand the world wisely!",
+      "character": "tang_monk"
+    },
+    "hints": ["Flowers, monkeys, and fish are alive", "Gems, pearls, and bones are not alive"],
+    "tags": ["classification", "sorting"]
+  },
+  {
+    "id": "w4_15",
+    "world": "white_bone_cave",
+    "level_number": 15,
+    "name": "Double Differences",
+    "story_intro": "The demon's final trick has two differences! Can you find them both?",
+    "character": "wukong",
+    "game_type": "find_difference",
+    "difficulty": 3,
+    "question": {
+      "text": "Find all the differences!",
+      "scene_a": ["hat", "scroll", "flower", "gem", "staff", "fan"],
+      "scene_b": ["hat", "bone", "flower", "gem", "bone", "fan"],
+      "differences": ["scroll is replaced by bone", "staff is replaced by bone"]
+    },
+    "reward": {
+      "peaches": 3,
+      "animation": "smash",
+      "dialogue": "Two tricks found! Wukong saves the day!",
+      "character": "wukong"
+    },
+    "hints": ["There are two things that changed", "Compare each position carefully"],
+    "tags": ["find_difference", "observation"]
+  },
+  {
+    "id": "w4_16",
+    "world": "white_bone_cave",
+    "level_number": 16,
+    "name": "Cave Escape Maze",
+    "story_intro": "Quick! Help the team escape the cave before the demon returns!",
+    "character": "wukong",
+    "game_type": "maze",
+    "difficulty": 3,
+    "question": {
+      "text": "Find the way out of the cave!",
+      "grid": [
+        [0, 1, 0, 0, 0],
+        [0, 1, 0, 1, 0],
+        [0, 0, 0, 1, 0],
+        [1, 1, 0, 0, 0],
+        [0, 0, 0, 1, 0]
+      ],
+      "start": [0, 0],
+      "end": [4, 4]
+    },
+    "reward": {
+      "peaches": 3,
+      "animation": "escape",
+      "dialogue": "We escaped the White Bone Cave!",
+      "character": "wukong"
+    },
+    "hints": ["Find a clear path to the exit", "Go down and around the walls"],
+    "tags": ["maze", "spatial"]
+  },
+  {
+    "id": "w4_17",
+    "world": "white_bone_cave",
+    "level_number": 17,
+    "name": "Demon Defeated",
+    "story_intro": "Final challenge! The demon shows six pairs of cards. Match them all to win!",
+    "character": "wukong",
+    "game_type": "memory",
+    "difficulty": 3,
+    "question": {
+      "text": "Find all six matching pairs to defeat the demon!",
+      "pairs": [["bone", "bone"], ["gem", "gem"], ["staff", "staff"], ["peach", "peach"], ["scroll", "scroll"], ["fan", "fan"]],
+      "correct_answer": 6
+    },
+    "reward": {
+      "peaches": 3,
+      "animation": "victory",
+      "dialogue": "The demon is defeated! Onward!",
+      "character": "wukong"
+    },
+    "hints": ["Focus hard on remembering each card", "Six pairs is a big challenge. Take your time!"],
+    "tags": ["memory", "matching"]
+  },
+  {
+    "id": "w5_01",
+    "world": "flaming_mountain",
+    "level_number": 1,
+    "name": "Flaming Mountain Arrival",
+    "story_intro": "The Flaming Mountain blocks the path! Count the flames!",
+    "character": "wukong",
+    "game_type": "counting",
+    "difficulty": 1,
+    "question": {
+      "text": "How many flames can you see?",
+      "visual_objects": ["flame", "flame", "flame", "flame"],
+      "options": [3, 4, 5],
+      "correct_answer": 4
+    },
+    "reward": {
+      "peaches": 1,
+      "animation": "brave",
+      "dialogue": "Do not fear the flames!",
+      "character": "wukong"
+    },
+    "hints": ["Count each flame one by one", "There are fewer than five"],
+    "tags": ["counting", "numbers_1_5"]
+  },
+  {
+    "id": "w5_02",
+    "world": "flaming_mountain",
+    "level_number": 2,
+    "name": "Fan Away the Flames",
+    "story_intro": "Wukong had 5 flames but the magic fan blew away 2. How many are left?",
+    "character": "wukong",
+    "game_type": "subtraction",
+    "difficulty": 1,
+    "question": {
+      "text": "5 flames take away 2. How many are left?",
+      "visual_objects": ["flame", "flame", "flame", "flame", "flame"],
+      "options": [2, 3, 4],
+      "correct_answer": 3
+    },
+    "reward": {
+      "peaches": 1,
+      "animation": "fan",
+      "dialogue": "The magic fan is powerful!",
+      "character": "wukong"
+    },
+    "hints": ["Start with 5 and take away 2", "Cover 2 flames and count the rest"],
+    "tags": ["subtraction", "numbers_1_5"]
+  },
+  {
+    "id": "w5_03",
+    "world": "flaming_mountain",
+    "level_number": 3,
+    "name": "Cooling Down",
+    "story_intro": "There were 4 flames. Wukong put out 1. How many remain?",
+    "character": "wukong",
+    "game_type": "subtraction",
+    "difficulty": 1,
+    "question": {
+      "text": "4 flames take away 1. How many are left?",
+      "visual_objects": ["flame", "flame", "flame", "flame"],
+      "options": [2, 3, 4],
+      "correct_answer": 3
+    },
+    "reward": {
+      "peaches": 1,
+      "animation": "splash",
+      "dialogue": "One flame gone! Keep going!",
+      "character": "wukong"
+    },
+    "hints": ["Start with 4 and remove 1", "Cover one flame and count the rest"],
+    "tags": ["subtraction", "numbers_1_5"]
+  },
+  {
+    "id": "w5_04",
+    "world": "flaming_mountain",
+    "level_number": 4,
+    "name": "Hot Comparison",
+    "story_intro": "Two sides of the mountain have flames. Which side is hotter?",
+    "character": "wukong",
+    "game_type": "comparison",
+    "difficulty": 1,
+    "question": {
+      "text": "Which side has more flames?",
+      "visual_objects": ["flame", "flame", "flame", "|", "flame", "flame", "flame", "flame", "flame"],
+      "options": ["left", "right"],
+      "correct_answer": "right"
+    },
+    "reward": {
+      "peaches": 1,
+      "animation": "sweat",
+      "dialogue": "The right side is really hot!",
+      "character": "wukong"
+    },
+    "hints": ["Count the flames on each side", "3 on the left, how many on the right?"],
+    "tags": ["comparison", "numbers_1_5"]
+  },
+  {
+    "id": "w5_05",
+    "world": "flaming_mountain",
+    "level_number": 5,
+    "name": "Bajie's Snack Break",
+    "story_intro": "Bajie had 3 peaches but ate 1. How many are left?",
+    "character": "bajie",
+    "game_type": "subtraction",
+    "difficulty": 1,
+    "question": {
+      "text": "3 peaches take away 1. How many are left?",
+      "visual_objects": ["peach", "peach", "peach"],
+      "options": [1, 2, 3],
+      "correct_answer": 2
+    },
+    "reward": {
+      "peaches": 1,
+      "animation": "munch",
+      "dialogue": "Yum! Bajie could not resist!",
+      "character": "bajie"
+    },
+    "hints": ["Bajie ate 1 out of 3", "Take 1 away from 3"],
+    "tags": ["subtraction", "numbers_1_5"]
+  },
+  {
+    "id": "w5_06",
+    "world": "flaming_mountain",
+    "level_number": 6,
+    "name": "Big Flame Subtraction",
+    "story_intro": "There are 8 flames. The magic fan blows away 3. How many remain?",
+    "character": "wukong",
+    "game_type": "subtraction",
+    "difficulty": 2,
+    "question": {
+      "text": "8 flames take away 3. How many are left?",
+      "visual_objects": ["flame", "flame", "flame", "flame", "flame", "flame", "flame", "flame"],
+      "options": [4, 5, 6],
+      "correct_answer": 5
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "fan",
+      "dialogue": "Three flames gone! Great fanning!",
+      "character": "wukong"
+    },
+    "hints": ["Start at 8 and count back 3", "8, 7, 6, 5!"],
+    "tags": ["subtraction", "numbers_6_10"]
+  },
+  {
+    "id": "w5_07",
+    "world": "flaming_mountain",
+    "level_number": 7,
+    "name": "Bajie Eats Again",
+    "story_intro": "Bajie had 7 peaches and ate 4. How many are left for the team?",
+    "character": "bajie",
+    "game_type": "subtraction",
+    "difficulty": 2,
+    "question": {
+      "text": "7 peaches take away 4. How many are left?",
+      "visual_objects": ["peach", "peach", "peach", "peach", "peach", "peach", "peach"],
+      "options": [2, 3, 4],
+      "correct_answer": 3
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "munch",
+      "dialogue": "Bajie! Save some for us!",
+      "character": "bajie"
+    },
+    "hints": ["Start at 7 and count back 4", "7, 6, 5, 4, 3!"],
+    "tags": ["subtraction", "numbers_6_10"]
+  },
+  {
+    "id": "w5_08",
+    "world": "flaming_mountain",
+    "level_number": 8,
+    "name": "Fire Comparison",
+    "story_intro": "Which side of the mountain has more fire? Count carefully!",
+    "character": "wukong",
+    "game_type": "comparison",
+    "difficulty": 2,
+    "question": {
+      "text": "Which side has more flames?",
+      "visual_objects": ["flame", "flame", "flame", "flame", "flame", "flame", "flame", "|", "flame", "flame", "flame", "flame", "flame", "flame", "flame", "flame", "flame"],
+      "options": ["left", "right"],
+      "correct_answer": "right"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "sweat",
+      "dialogue": "The right side burns brighter!",
+      "character": "wukong"
+    },
+    "hints": ["Count each side carefully", "7 on the left and 9 on the right"],
+    "tags": ["comparison", "numbers_6_10"]
+  },
+  {
+    "id": "w5_09",
+    "world": "flaming_mountain",
+    "level_number": 9,
+    "name": "Subtract to Cool Down",
+    "story_intro": "10 flames are blazing! Wukong puts out 4. How many are left?",
+    "character": "wukong",
+    "game_type": "subtraction",
+    "difficulty": 2,
+    "question": {
+      "text": "10 flames take away 4. How many are left?",
+      "visual_objects": ["flame", "flame", "flame", "flame", "flame", "flame", "flame", "flame", "flame", "flame"],
+      "options": [5, 6, 7],
+      "correct_answer": 6
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "splash",
+      "dialogue": "The flames are weakening!",
+      "character": "wukong"
+    },
+    "hints": ["Start at 10 and count back 4", "10, 9, 8, 7, 6!"],
+    "tags": ["subtraction", "numbers_6_10"]
+  },
+  {
+    "id": "w5_10",
+    "world": "flaming_mountain",
+    "level_number": 10,
+    "name": "Flame Order",
+    "story_intro": "Put these flame numbers in order from smallest to biggest!",
+    "character": "tang_monk",
+    "game_type": "ordering",
+    "difficulty": 2,
+    "question": {
+      "text": "Put these numbers in order from smallest to biggest!",
+      "sequence": [9, 6, 3, 7],
+      "correct_answer": [3, 6, 7, 9]
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "scroll",
+      "dialogue": "Order calms the flames!",
+      "character": "tang_monk"
+    },
+    "hints": ["Find the smallest number first", "3 is the smallest, what comes next?"],
+    "tags": ["ordering", "numbers_6_10"]
+  },
+  {
+    "id": "w5_11",
+    "world": "flaming_mountain",
+    "level_number": 11,
+    "name": "Fire Pattern",
+    "story_intro": "The flames form a pattern. Can you figure out what comes next?",
+    "character": "wukong",
+    "game_type": "pattern",
+    "difficulty": 2,
+    "question": {
+      "text": "What comes next in the pattern?",
+      "sequence": ["flame", "flame", "fan", "flame", "flame", "fan", "flame", "flame", "?"],
+      "options": ["flame", "fan", "cloud"],
+      "correct_answer": "fan"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "glow",
+      "dialogue": "You see through the fire!",
+      "character": "wukong"
+    },
+    "hints": ["Two flames then one fan repeats", "The pattern has groups of three"],
+    "tags": ["pattern", "repeating"]
+  },
+  {
+    "id": "w5_12",
+    "world": "flaming_mountain",
+    "level_number": 12,
+    "name": "Cool Subtraction",
+    "story_intro": "9 flames are burning. The team puts out 5. How many are left?",
+    "character": "wukong",
+    "game_type": "subtraction",
+    "difficulty": 2,
+    "question": {
+      "text": "9 flames take away 5. How many are left?",
+      "visual_objects": ["flame", "flame", "flame", "flame", "flame", "flame", "flame", "flame", "flame"],
+      "options": [3, 4, 5],
+      "correct_answer": 4
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "fan",
+      "dialogue": "Only four flames left!",
+      "character": "wukong"
+    },
+    "hints": ["Start at 9 and count back 5", "9, 8, 7, 6, 5, 4!"],
+    "tags": ["subtraction", "numbers_6_10"]
+  },
+  {
+    "id": "w5_13",
+    "world": "flaming_mountain",
+    "level_number": 13,
+    "name": "Mountain Maze",
+    "story_intro": "Find the path around the Flaming Mountain!",
+    "character": "wukong",
+    "game_type": "maze",
+    "difficulty": 3,
+    "question": {
+      "text": "Guide the team around the mountain!",
+      "grid": [
+        [0, 0, 1, 0, 0],
+        [1, 0, 1, 0, 1],
+        [0, 0, 0, 0, 1],
+        [0, 1, 0, 1, 0],
+        [0, 1, 0, 0, 0]
+      ],
+      "start": [0, 0],
+      "end": [4, 4]
+    },
+    "reward": {
+      "peaches": 3,
+      "animation": "dash",
+      "dialogue": "Through the flames! Well done!",
+      "character": "wukong"
+    },
+    "hints": ["Look for safe paths without fire", "Sometimes you need to go around"],
+    "tags": ["maze", "spatial"]
+  },
+  {
+    "id": "w5_14",
+    "world": "flaming_mountain",
+    "level_number": 14,
+    "name": "Big Comparison",
+    "story_intro": "Two giant flame piles! Count carefully and compare!",
+    "character": "wukong",
+    "game_type": "comparison",
+    "difficulty": 3,
+    "question": {
+      "text": "Which side has more flames?",
+      "visual_objects": ["flame", "flame", "flame", "flame", "flame", "flame", "flame", "flame", "|", "flame", "flame", "flame", "flame", "flame", "flame", "flame", "flame", "flame", "flame"],
+      "options": ["left", "right"],
+      "correct_answer": "right"
+    },
+    "reward": {
+      "peaches": 3,
+      "animation": "sweat",
+      "dialogue": "So many flames! You counted them all!",
+      "character": "wukong"
+    },
+    "hints": ["Count each side very carefully", "8 on the left, 10 on the right"],
+    "tags": ["comparison", "numbers_6_10"]
+  },
+  {
+    "id": "w5_15",
+    "world": "flaming_mountain",
+    "level_number": 15,
+    "name": "Put Out All Flames",
+    "story_intro": "Final battle! 10 flames and the team puts out 7! How many remain?",
+    "character": "wukong",
+    "game_type": "subtraction",
+    "difficulty": 3,
+    "question": {
+      "text": "10 flames take away 7. How many are left?",
+      "visual_objects": ["flame", "flame", "flame", "flame", "flame", "flame", "flame", "flame", "flame", "flame"],
+      "options": [2, 3, 4],
+      "correct_answer": 3
+    },
+    "reward": {
+      "peaches": 3,
+      "animation": "victory",
+      "dialogue": "The mountain is almost cool! You did it!",
+      "character": "wukong"
+    },
+    "hints": ["Start at 10 and count back 7", "10, 9, 8, 7, 6, 5, 4, 3!"],
+    "tags": ["subtraction", "numbers_6_10"]
+  },
+  {
+    "id": "w6_01",
+    "world": "journey_road",
+    "level_number": 1,
+    "name": "The Journey Begins",
+    "story_intro": "The team sets out on the road to the West! Count the travelers.",
+    "character": "tang_monk",
+    "game_type": "counting",
+    "difficulty": 1,
+    "question": {
+      "text": "How many travelers are on the road?",
+      "visual_objects": ["monkey", "monkey", "monkey", "monkey"],
+      "options": [3, 4, 5],
+      "correct_answer": 4
+    },
+    "reward": {
+      "peaches": 1,
+      "animation": "march",
+      "dialogue": "Four heroes on the road!",
+      "character": "tang_monk"
+    },
+    "hints": ["Count each traveler", "There are four friends on the journey"],
+    "tags": ["counting", "numbers_1_5"]
+  },
+  {
+    "id": "w6_02",
+    "world": "journey_road",
+    "level_number": 2,
+    "name": "Roadside Flowers",
+    "story_intro": "Pretty flowers line the road. Count them as you walk!",
+    "character": "wukong",
+    "game_type": "counting",
+    "difficulty": 1,
+    "question": {
+      "text": "How many flowers are along the road?",
+      "visual_objects": ["flower", "flower", "flower", "flower", "flower", "flower"],
+      "options": [5, 6, 7],
+      "correct_answer": 6
+    },
+    "reward": {
+      "peaches": 1,
+      "animation": "skip",
+      "dialogue": "What a beautiful road!",
+      "character": "wukong"
+    },
+    "hints": ["Count each flower along the path", "There are six flowers"],
+    "tags": ["counting", "numbers_6_10"]
+  },
+  {
+    "id": "w6_03",
+    "world": "journey_road",
+    "level_number": 3,
+    "name": "Sharing Peaches",
+    "story_intro": "Wukong has 5 peaches and gives 2 to Tang Monk. How many does he have left?",
+    "character": "wukong",
+    "game_type": "subtraction",
+    "difficulty": 1,
+    "question": {
+      "text": "5 peaches take away 2. How many are left?",
+      "visual_objects": ["peach", "peach", "peach", "peach", "peach"],
+      "options": [2, 3, 4],
+      "correct_answer": 3
+    },
+    "reward": {
+      "peaches": 1,
+      "animation": "share",
+      "dialogue": "Sharing is caring!",
+      "character": "wukong"
+    },
+    "hints": ["Start with 5 and take away 2", "Count what remains after sharing"],
+    "tags": ["subtraction", "numbers_1_5"]
+  },
+  {
+    "id": "w6_04",
+    "world": "journey_road",
+    "level_number": 4,
+    "name": "Road Pattern",
+    "story_intro": "The stepping stones make a pattern. What comes next?",
+    "character": "tang_monk",
+    "game_type": "pattern",
+    "difficulty": 1,
+    "question": {
+      "text": "What comes next in the pattern?",
+      "sequence": ["flower", "star", "flower", "star", "?"],
+      "options": ["flower", "star", "gem"],
+      "correct_answer": "flower"
+    },
+    "reward": {
+      "peaches": 1,
+      "animation": "wise",
+      "dialogue": "You see the path clearly!",
+      "character": "tang_monk"
+    },
+    "hints": ["Flower and star take turns", "The pattern alternates"],
+    "tags": ["pattern", "repeating"]
+  },
+  {
+    "id": "w6_05",
+    "world": "journey_road",
+    "level_number": 5,
+    "name": "Group Addition",
+    "story_intro": "The team finds 3 scrolls in a temple and 2 more outside. How many total?",
+    "character": "tang_monk",
+    "game_type": "addition",
+    "difficulty": 1,
+    "question": {
+      "text": "3 scrolls plus 2 more scrolls. How many altogether?",
+      "visual_objects": ["scroll", "scroll", "scroll", "|", "scroll", "scroll"],
+      "options": [4, 5, 6],
+      "correct_answer": 5
+    },
+    "reward": {
+      "peaches": 1,
+      "animation": "read",
+      "dialogue": "Five sacred scrolls collected!",
+      "character": "tang_monk"
+    },
+    "hints": ["Count the first group: 3. Add the second: 2", "3 plus 2 equals..."],
+    "tags": ["addition", "numbers_1_5"]
+  },
+  {
+    "id": "w6_06",
+    "world": "journey_road",
+    "level_number": 6,
+    "name": "River Crossing",
+    "story_intro": "The team must cross a river! Help them add up the stepping stones.",
+    "character": "wukong",
+    "game_type": "addition",
+    "difficulty": 2,
+    "question": {
+      "text": "4 stones plus 5 more stones. How many altogether?",
+      "visual_objects": ["gem", "gem", "gem", "gem", "|", "gem", "gem", "gem", "gem", "gem"],
+      "options": [8, 9, 10],
+      "correct_answer": 9
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "jump",
+      "dialogue": "Across the river we go!",
+      "character": "wukong"
+    },
+    "hints": ["Start at 4 and count up 5 more", "4, 5, 6, 7, 8, 9!"],
+    "tags": ["addition", "numbers_6_10"]
+  },
+  {
+    "id": "w6_07",
+    "world": "journey_road",
+    "level_number": 7,
+    "name": "Bajie's Lunch",
+    "story_intro": "Bajie had 9 dumplings and ate 6. How many are left?",
+    "character": "bajie",
+    "game_type": "subtraction",
+    "difficulty": 2,
+    "question": {
+      "text": "9 peaches take away 6. How many are left?",
+      "visual_objects": ["peach", "peach", "peach", "peach", "peach", "peach", "peach", "peach", "peach"],
+      "options": [2, 3, 4],
+      "correct_answer": 3
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "munch",
+      "dialogue": "Bajie is always hungry!",
+      "character": "bajie"
+    },
+    "hints": ["Start at 9 and count back 6", "9, 8, 7, 6, 5, 4, 3!"],
+    "tags": ["subtraction", "numbers_6_10"]
+  },
+  {
+    "id": "w6_08",
+    "world": "journey_road",
+    "level_number": 8,
+    "name": "Sort the Supplies",
+    "story_intro": "Help Sha Wujing organize the travel supplies!",
+    "character": "sha_wujing",
+    "game_type": "classification",
+    "difficulty": 2,
+    "question": {
+      "text": "Sort these into things to eat and things to use!",
+      "visual_objects": ["peach", "staff", "peach", "fan", "scroll", "peach"],
+      "groups": {"food": [], "tools": []},
+      "correct_answer": {"food": ["peach", "peach", "peach"], "tools": ["staff", "fan", "scroll"]}
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "organize",
+      "dialogue": "Well organized for the journey!",
+      "character": "sha_wujing"
+    },
+    "hints": ["Peaches are food you can eat", "Staff, fan, and scroll are tools"],
+    "tags": ["classification", "sorting"]
+  },
+  {
+    "id": "w6_09",
+    "world": "journey_road",
+    "level_number": 9,
+    "name": "Road Memory",
+    "story_intro": "Remember the landmarks along the road! Match the pairs!",
+    "character": "wukong",
+    "game_type": "memory",
+    "difficulty": 2,
+    "question": {
+      "text": "Find all the matching pairs!",
+      "pairs": [["flower", "flower"], ["scroll", "scroll"], ["star", "star"], ["gem", "gem"], ["peach", "peach"]],
+      "correct_answer": 5
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "flip",
+      "dialogue": "You remember the whole journey!",
+      "character": "wukong"
+    },
+    "hints": ["Take your time with each card", "There are five pairs to find"],
+    "tags": ["memory", "matching"]
+  },
+  {
+    "id": "w6_10",
+    "world": "journey_road",
+    "level_number": 10,
+    "name": "Journey Numbers",
+    "story_intro": "Put the journey milestones in order from first to last!",
+    "character": "tang_monk",
+    "game_type": "ordering",
+    "difficulty": 2,
+    "question": {
+      "text": "Put these numbers in order from smallest to biggest!",
+      "sequence": [10, 4, 7, 1, 6],
+      "correct_answer": [1, 4, 6, 7, 10]
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "scroll",
+      "dialogue": "Every step in its right place!",
+      "character": "tang_monk"
+    },
+    "hints": ["Find the smallest number first", "1 is the smallest, 10 is the biggest"],
+    "tags": ["ordering", "numbers_6_10"]
+  },
+  {
+    "id": "w6_11",
+    "world": "journey_road",
+    "level_number": 11,
+    "name": "Spot the Change",
+    "story_intro": "A trickster changed something on the road! Can you spot it?",
+    "character": "wukong",
+    "game_type": "find_difference",
+    "difficulty": 2,
+    "question": {
+      "text": "What is different between the two scenes?",
+      "scene_a": ["flower", "gem", "star", "scroll", "peach"],
+      "scene_b": ["flower", "gem", "star", "fan", "peach"],
+      "differences": ["scroll is replaced by fan"]
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "magnify",
+      "dialogue": "Tricky, but you found it!",
+      "character": "wukong"
+    },
+    "hints": ["Compare each item one by one", "Check the fourth item"],
+    "tags": ["find_difference", "observation"]
+  },
+  {
+    "id": "w6_12",
+    "world": "journey_road",
+    "level_number": 12,
+    "name": "Complex Pattern",
+    "story_intro": "A mysterious pattern appears on the temple door. Solve it to enter!",
+    "character": "tang_monk",
+    "game_type": "pattern",
+    "difficulty": 2,
+    "question": {
+      "text": "What comes next in the pattern?",
+      "sequence": ["scroll", "gem", "star", "scroll", "gem", "star", "scroll", "gem", "?"],
+      "options": ["scroll", "gem", "star"],
+      "correct_answer": "star"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "door_open",
+      "dialogue": "The temple door opens! Wisdom prevails!",
+      "character": "tang_monk"
+    },
+    "hints": ["The pattern repeats every three items", "Scroll, gem, star keeps repeating"],
+    "tags": ["pattern", "repeating"]
+  },
+  {
+    "id": "w6_13",
+    "world": "journey_road",
+    "level_number": 13,
+    "name": "Final Maze",
+    "story_intro": "The last maze stands before the sacred temple! Guide the team through!",
+    "character": "wukong",
+    "game_type": "maze",
+    "difficulty": 3,
+    "question": {
+      "text": "Navigate through the final maze!",
+      "grid": [
+        [0, 0, 0, 1, 0, 0],
+        [1, 1, 0, 1, 0, 1],
+        [0, 0, 0, 0, 0, 0],
+        [0, 1, 1, 0, 1, 0],
+        [0, 0, 0, 0, 1, 0],
+        [1, 1, 0, 0, 0, 0]
+      ],
+      "start": [0, 0],
+      "end": [5, 5]
+    },
+    "reward": {
+      "peaches": 3,
+      "animation": "dash",
+      "dialogue": "The temple is in sight!",
+      "character": "wukong"
+    },
+    "hints": ["This maze is bigger. Take your time!", "Try going right first, then find a path down"],
+    "tags": ["maze", "spatial"]
+  },
+  {
+    "id": "w6_14",
+    "world": "journey_road",
+    "level_number": 14,
+    "name": "Grand Challenge",
+    "story_intro": "A grand challenge awaits! Add and compare these big groups!",
+    "character": "wukong",
+    "game_type": "addition",
+    "difficulty": 3,
+    "question": {
+      "text": "3 gems plus 7 more gems. How many altogether?",
+      "visual_objects": ["gem", "gem", "gem", "|", "gem", "gem", "gem", "gem", "gem", "gem", "gem"],
+      "options": [9, 10, 8],
+      "correct_answer": 10
+    },
+    "reward": {
+      "peaches": 3,
+      "animation": "fireworks",
+      "dialogue": "Ten gems! A perfect treasure!",
+      "character": "wukong"
+    },
+    "hints": ["Start at 3 and count up 7 more", "3 plus 7 equals the biggest number we know!"],
+    "tags": ["addition", "numbers_6_10"]
+  },
+  {
+    "id": "w6_15",
+    "world": "journey_road",
+    "level_number": 15,
+    "name": "Journey Complete",
+    "story_intro": "The team reaches the sacred temple at last! Complete the final challenge to collect the scriptures!",
+    "character": "tang_monk",
+    "game_type": "ordering",
+    "difficulty": 3,
+    "question": {
+      "text": "Put all these numbers in perfect order from smallest to biggest!",
+      "sequence": [7, 2, 10, 5, 1, 8, 3],
+      "correct_answer": [1, 2, 3, 5, 7, 8, 10]
+    },
+    "reward": {
+      "peaches": 5,
+      "animation": "celebration",
+      "dialogue": "The journey is complete! You are a true hero!",
+      "character": "tang_monk"
+    },
+    "hints": ["Find the smallest number and work your way up", "1 is first, then 2, then 3..."],
+    "tags": ["ordering", "numbers_6_10", "final_challenge"]
+  }
+]

@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import HomePage from "./pages/HomePage";
 import WorldSelectPage from "./pages/WorldSelectPage";
 import LevelSelectPage from "./pages/LevelSelectPage";
@@ -7,7 +7,7 @@ import DailyChallengePage from "./pages/DailyChallengePage";
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/worlds" element={<WorldSelectPage />} />
@@ -15,6 +15,6 @@ export default function App() {
         <Route path="/play/:levelId" element={<PlayLevelPage />} />
         <Route path="/daily" element={<DailyChallengePage />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
