@@ -34,6 +34,13 @@ class GameType(str, Enum):
     MAZE = "maze"
     CLOCK_READING = "clock_reading"
     SHAPE_PATTERN = "shape_pattern"
+    SIGHT_WORDS = "sight_words"
+    PHONICS = "phonics"
+    SUDOKU = "sudoku"
+    MAKE_TEN = "make_ten"
+    NUMBER_SEQUENCE = "number_sequence"
+    MIRROR_SYMMETRY = "mirror_symmetry"
+    GENERAL_KNOWLEDGE = "general_knowledge"
 
 
 class Difficulty(int, Enum):
@@ -63,6 +70,8 @@ class LevelQuestion(BaseModel):
     scene_b: list[str] | None = Field(None, description="Find-difference scene B")
     differences: list[str] | None = Field(None, description="List of difference descriptions")
     clock_time: dict[str, int] | None = Field(None, description="For clock_reading: {hour, minute}")
+    sudoku_solution: list[list[int]] | None = Field(None, description="Completed sudoku grid")
+    mirror_options: list[list[list[int]]] | None = Field(None, description="Mirror game candidate grids")
 
 
 class LevelReward(BaseModel):

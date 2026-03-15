@@ -11,6 +11,13 @@ import ClassificationGame from "./ClassificationGame";
 import MazeGame from "./MazeGame";
 import ClockGame from "./ClockGame";
 import ShapePatternGame from "./ShapePatternGame";
+import SightWordsGame from "./SightWordsGame";
+import PhonicsGame from "./PhonicsGame";
+import SudokuGame from "./SudokuGame";
+import MakeTenGame from "./MakeTenGame";
+import NumberSequenceGame from "./NumberSequenceGame";
+import MirrorGame from "./MirrorGame";
+import GeneralKnowledgeGame from "./GeneralKnowledgeGame";
 
 interface Props {
   level: Level;
@@ -47,6 +54,20 @@ export default function GameDispatcher({ level, onCorrect, onWrong }: Props) {
       return <ClockGame question={q} onCorrect={onCorrect} onWrong={onWrong} />;
     case "shape_pattern":
       return <ShapePatternGame question={q} onCorrect={onCorrect} onWrong={onWrong} />;
+    case "sight_words":
+      return <SightWordsGame question={q} onCorrect={onCorrect} onWrong={onWrong} />;
+    case "phonics":
+      return <PhonicsGame question={q} onCorrect={onCorrect} onWrong={onWrong} />;
+    case "sudoku":
+      return <SudokuGame question={q} onCorrect={onCorrect} onWrong={onWrong} />;
+    case "make_ten":
+      return <MakeTenGame question={q} onCorrect={onCorrect} onWrong={onWrong} />;
+    case "number_sequence":
+      return <NumberSequenceGame question={q} onCorrect={onCorrect} onWrong={onWrong} />;
+    case "mirror_symmetry":
+      return <MirrorGame question={q} onCorrect={onCorrect} onWrong={onWrong} />;
+    case "general_knowledge":
+      return <GeneralKnowledgeGame question={q} onCorrect={onCorrect} onWrong={onWrong} />;
     default:
       return <CountingGame question={q} onCorrect={onCorrect} onWrong={onWrong} />;
   }

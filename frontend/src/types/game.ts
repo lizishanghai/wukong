@@ -18,7 +18,14 @@ export type GameType =
   | "find_difference"
   | "maze"
   | "clock_reading"
-  | "shape_pattern";
+  | "shape_pattern"
+  | "sight_words"
+  | "phonics"
+  | "sudoku"
+  | "make_ten"
+  | "number_sequence"
+  | "mirror_symmetry"
+  | "general_knowledge";
 
 export interface LevelQuestion {
   text: string;
@@ -35,6 +42,8 @@ export interface LevelQuestion {
   scene_b?: string[];
   differences?: string[];
   clock_time?: { hour: number; minute: number };
+  sudoku_solution?: number[][];
+  mirror_options?: number[][][];
 }
 
 export interface LevelReward {

@@ -17,6 +17,13 @@ const GAME_TYPE_EMOJI: Record<string, string> = {
   maze: "🗺️",
   clock_reading: "🕐",
   shape_pattern: "🔶",
+  sight_words: "📖",
+  phonics: "🔤",
+  sudoku: "📐",
+  make_ten: "🔟",
+  number_sequence: "📈",
+  mirror_symmetry: "🪞",
+  general_knowledge: "💡",
 };
 
 export default function LevelSelectPage() {
