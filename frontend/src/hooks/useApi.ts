@@ -2,7 +2,7 @@
  * Standalone data hooks — no backend required.
  * Levels are bundled from JSON, progress is stored in localStorage.
  */
-import { useCallback, useEffect, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 import type { Level, WorldInfo, PlayerProgress, Costume, World } from "../types/game";
 import allLevels from "../data/levels.json";
 
@@ -141,15 +141,17 @@ export function useWorlds() {
 }
 
 export function useWorldLevels(worldId: string) {
-  const [worldLevels] = useState<Level[]>(() =>
-    levels.filter((lv) => lv.world === worldId)
+  const worldLevels = useMemo(
+    () => levels.filter((lv) => lv.world === worldId),
+    [worldId]
   );
   return { levels: worldLevels, loading: false };
 }
 
 export function useLevel(levelId: string) {
-  const [level] = useState<Level | null>(() =>
-    levels.find((lv) => lv.id === levelId) ?? null
+  const level = useMemo(
+    () => levels.find((lv) => lv.id === levelId) ?? null,
+    [levelId]
   );
   return { level, loading: false };
 }
