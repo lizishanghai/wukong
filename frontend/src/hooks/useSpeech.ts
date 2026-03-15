@@ -4,12 +4,13 @@ import { useCallback, useEffect, useRef } from "react";
  * Uses the Web Speech API to read text aloud.
  *
  * Mobile fixes:
- * - Cancel + small delay before speaking to avoid overlap/stutter
+ * - Cancel + delay before speaking to avoid overlap/stutter
  * - Queue only one utterance at a time
- * - Handles the Chrome mobile bug where speechSynthesis pauses after ~15s
+ * - Wait for voices to load before first speech (fixes silent first play on mobile)
  */
 export function useSpeech() {
   const timerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const speakingRef = useRef(false);
 
   // Cancel any ongoing speech when unmounting
   useEffect(() => {
@@ -28,8 +29,9 @@ export function useSpeech() {
 
     // Cancel current speech immediately
     synth.cancel();
+    speakingRef.current = false;
 
-    // Small delay after cancel to let the engine reset (fixes mobile stutter)
+    // Longer delay after cancel to let the mobile engine fully reset
     timerRef.current = setTimeout(() => {
       const utter = new SpeechSynthesisUtterance(text);
       utter.lang = lang;
@@ -37,27 +39,23 @@ export function useSpeech() {
       utter.pitch = 1.1;
       utter.volume = 1;
 
-      // Chrome mobile bug: speech can pause. Resume workaround.
       utter.onstart = () => {
-        // Keep-alive timer for long utterances on Chrome mobile
-        const keepAlive = setInterval(() => {
-          if (!synth.speaking) {
-            clearInterval(keepAlive);
-          } else {
-            synth.pause();
-            synth.resume();
-          }
-        }, 5000);
-        utter.onend = () => clearInterval(keepAlive);
-        utter.onerror = () => clearInterval(keepAlive);
+        speakingRef.current = true;
+      };
+      utter.onend = () => {
+        speakingRef.current = false;
+      };
+      utter.onerror = () => {
+        speakingRef.current = false;
       };
 
       synth.speak(utter);
-    }, 80);
+    }, 150);
   }, []);
 
   const stop = useCallback(() => {
     if (timerRef.current) clearTimeout(timerRef.current);
+    speakingRef.current = false;
     window.speechSynthesis?.cancel();
   }, []);
 

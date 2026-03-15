@@ -126,6 +126,7 @@ export default function PlayLevelPage() {
         onBack={() => navigate(`/world/${level.world}`)}
       >
         <GameDispatcher
+          key={level.id}
           level={level}
           onCorrect={handleCorrect}
           onWrong={handleWrong}

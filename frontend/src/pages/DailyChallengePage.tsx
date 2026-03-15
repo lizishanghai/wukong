@@ -84,7 +84,7 @@ export default function DailyChallengePage() {
         <div style={{ fontSize: 14, color: "#666", textAlign: "center" }}>
           Daily Challenge {currentIdx + 1} / {levels.length}
         </div>
-        <GameDispatcher level={level} onCorrect={handleCorrect} onWrong={handleWrong} />
+        <GameDispatcher key={level.id} level={level} onCorrect={handleCorrect} onWrong={handleWrong} />
       </GameShell>
 
       <FeedbackToast type={feedback} />
