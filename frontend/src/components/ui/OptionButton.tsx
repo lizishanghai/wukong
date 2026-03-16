@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { useState } from "react";
 
 interface Props {
-  label: string | number;
+  label: React.ReactNode;
   onClick: () => void;
   correct?: boolean | null; // null = not answered yet, true/false = result
   disabled?: boolean;

@@ -1257,6 +1257,461 @@ HINT_BANK = {
 }
 
 
+# ---------------------------------------------------------------------------
+# Paw Patrol themed questions (42 total)
+# ---------------------------------------------------------------------------
+
+PP_IMG = "images/pawpatrol"
+
+PAW_PATROL_QUESTIONS = [
+    # --- General Knowledge (12) ---
+    {
+        "game_type": "general_knowledge",
+        "question": {
+            "text": "Who is the police pup in PAW Patrol?",
+            "visual_objects": [],
+            "options": ["Chase", "Marshall", "Rubble", "Rocky"],
+            "correct_answer": "Chase",
+            "image": f"{PP_IMG}/Chase.png",
+        },
+    },
+    {
+        "game_type": "general_knowledge",
+        "question": {
+            "text": "Which pup is a firefighter?",
+            "visual_objects": [],
+            "options": ["Skye", "Marshall", "Zuma", "Rubble"],
+            "correct_answer": "Marshall",
+            "image": f"{PP_IMG}/Marshall.png",
+        },
+    },
+    {
+        "game_type": "general_knowledge",
+        "question": {
+            "text": "Which pup flies a helicopter?",
+            "visual_objects": [],
+            "options": ["Rocky", "Zuma", "Skye", "Chase"],
+            "correct_answer": "Skye",
+            "image": f"{PP_IMG}/Skye.png",
+        },
+    },
+    {
+        "game_type": "general_knowledge",
+        "question": {
+            "text": "Which pup loves to recycle?",
+            "visual_objects": [],
+            "options": ["Rubble", "Rocky", "Zuma", "Marshall"],
+            "correct_answer": "Rocky",
+            "image": f"{PP_IMG}/Rocky.png",
+        },
+    },
+    {
+        "game_type": "general_knowledge",
+        "question": {
+            "text": "Which pup drives a bulldozer?",
+            "visual_objects": [],
+            "options": ["Chase", "Rubble", "Rocky", "Zuma"],
+            "correct_answer": "Rubble",
+            "image": f"{PP_IMG}/Rubble.png",
+        },
+    },
+    {
+        "game_type": "general_knowledge",
+        "question": {
+            "text": "Which pup loves the water?",
+            "visual_objects": [],
+            "options": ["Skye", "Chase", "Zuma", "Rubble"],
+            "correct_answer": "Zuma",
+            "image": f"{PP_IMG}/Zuma.png",
+        },
+    },
+    {
+        "game_type": "general_knowledge",
+        "question": {
+            "text": "Who is the leader of PAW Patrol?",
+            "visual_objects": [],
+            "options": ["Chase", "Marshall", "Ryder", "Rocky"],
+            "correct_answer": "Ryder",
+            "image": f"{PP_IMG}/Ryder.png",
+        },
+    },
+    {
+        "game_type": "general_knowledge",
+        "question": {
+            "text": "Which pup lives on a snowy mountain?",
+            "visual_objects": [],
+            "options": ["Everest", "Skye", "Zuma", "Chase"],
+            "correct_answer": "Everest",
+            "image": f"{PP_IMG}/Everest.png",
+        },
+    },
+    {
+        "game_type": "general_knowledge",
+        "question": {
+            "text": "Where do the PAW Patrol pups live?",
+            "visual_objects": [],
+            "options": ["Adventure Bay", "Foggy Bottom", "Bear Cave", "Dino Land"],
+            "correct_answer": "Adventure Bay",
+        },
+    },
+    {
+        "game_type": "general_knowledge",
+        "question": {
+            "text": "What does Ryder use to call the pups?",
+            "visual_objects": [],
+            "options": ["PupPad", "Telephone", "Whistle", "Bell"],
+            "correct_answer": "PupPad",
+            "image": f"{PP_IMG}/Ryder.png",
+        },
+    },
+    {
+        "game_type": "general_knowledge",
+        "question": {
+            "text": "What color is Marshall's fire truck?",
+            "visual_objects": [],
+            "options": ["Red", "Blue", "Green", "Yellow"],
+            "correct_answer": "Red",
+            "image": f"{PP_IMG}/Marshall.png",
+        },
+    },
+    {
+        "game_type": "general_knowledge",
+        "question": {
+            "text": "What color is Chase's uniform?",
+            "visual_objects": [],
+            "options": ["Red", "Green", "Blue", "Yellow"],
+            "correct_answer": "Blue",
+            "image": f"{PP_IMG}/Chase.png",
+        },
+    },
+    # --- Sight Words (8) ---
+    {
+        "game_type": "sight_words",
+        "question": {
+            "text": "What is this pup's name?",
+            "visual_objects": [],
+            "options": ["Chase", "Rocky", "Zuma", "Rubble"],
+            "correct_answer": "Chase",
+            "image": f"{PP_IMG}/Chase.png",
+        },
+    },
+    {
+        "game_type": "sight_words",
+        "question": {
+            "text": "What is this pup's name?",
+            "visual_objects": [],
+            "options": ["Skye", "Marshall", "Everest", "Ryder"],
+            "correct_answer": "Marshall",
+            "image": f"{PP_IMG}/Marshall.png",
+        },
+    },
+    {
+        "game_type": "sight_words",
+        "question": {
+            "text": "What is this pup's name?",
+            "visual_objects": [],
+            "options": ["Skye", "Zuma", "Rocky", "Chase"],
+            "correct_answer": "Skye",
+            "image": f"{PP_IMG}/Skye.png",
+        },
+    },
+    {
+        "game_type": "sight_words",
+        "question": {
+            "text": "What is this pup's name?",
+            "visual_objects": [],
+            "options": ["Marshall", "Everest", "Rubble", "Skye"],
+            "correct_answer": "Rubble",
+            "image": f"{PP_IMG}/Rubble.png",
+        },
+    },
+    {
+        "game_type": "sight_words",
+        "question": {
+            "text": "What is this pup's name?",
+            "visual_objects": [],
+            "options": ["Zuma", "Rocky", "Chase", "Ryder"],
+            "correct_answer": "Rocky",
+            "image": f"{PP_IMG}/Rocky.png",
+        },
+    },
+    {
+        "game_type": "sight_words",
+        "question": {
+            "text": "What is this pup's name?",
+            "visual_objects": [],
+            "options": ["Rubble", "Skye", "Zuma", "Marshall"],
+            "correct_answer": "Zuma",
+            "image": f"{PP_IMG}/Zuma.png",
+        },
+    },
+    {
+        "game_type": "sight_words",
+        "question": {
+            "text": "What is this pup's name?",
+            "visual_objects": [],
+            "options": ["Rocky", "Everest", "Chase", "Zuma"],
+            "correct_answer": "Everest",
+            "image": f"{PP_IMG}/Everest.png",
+        },
+    },
+    {
+        "game_type": "sight_words",
+        "question": {
+            "text": "Who is this?",
+            "visual_objects": [],
+            "options": ["Marshall", "Rubble", "Skye", "Ryder"],
+            "correct_answer": "Ryder",
+            "image": f"{PP_IMG}/Ryder.png",
+        },
+    },
+    # --- Pattern (8) ---
+    {
+        "game_type": "pattern",
+        "question": {
+            "text": "Who comes next in the pattern?",
+            "visual_objects": [],
+            "options": [f"{PP_IMG}/Chase.png", f"{PP_IMG}/Marshall.png", f"{PP_IMG}/Rubble.png"],
+            "correct_answer": f"{PP_IMG}/Chase.png",
+            "sequence": [f"{PP_IMG}/Chase.png", f"{PP_IMG}/Skye.png", f"{PP_IMG}/Chase.png", f"{PP_IMG}/Skye.png", "?"],
+        },
+    },
+    {
+        "game_type": "pattern",
+        "question": {
+            "text": "Who comes next in the pattern?",
+            "visual_objects": [],
+            "options": [f"{PP_IMG}/Rubble.png", f"{PP_IMG}/Chase.png", f"{PP_IMG}/Skye.png"],
+            "correct_answer": f"{PP_IMG}/Rubble.png",
+            "sequence": [f"{PP_IMG}/Marshall.png", f"{PP_IMG}/Marshall.png", f"{PP_IMG}/Rubble.png", f"{PP_IMG}/Marshall.png", f"{PP_IMG}/Marshall.png", "?"],
+        },
+    },
+    {
+        "game_type": "pattern",
+        "question": {
+            "text": "Who comes next in the pattern?",
+            "visual_objects": [],
+            "options": [f"{PP_IMG}/Rubble.png", f"{PP_IMG}/Skye.png", f"{PP_IMG}/Zuma.png"],
+            "correct_answer": f"{PP_IMG}/Skye.png",
+            "sequence": [f"{PP_IMG}/Chase.png", f"{PP_IMG}/Marshall.png", f"{PP_IMG}/Skye.png", f"{PP_IMG}/Chase.png", f"{PP_IMG}/Marshall.png", "?"],
+        },
+    },
+    {
+        "game_type": "pattern",
+        "question": {
+            "text": "Who comes next in the pattern?",
+            "visual_objects": [],
+            "options": [f"{PP_IMG}/Zuma.png", f"{PP_IMG}/Chase.png", f"{PP_IMG}/Skye.png"],
+            "correct_answer": f"{PP_IMG}/Zuma.png",
+            "sequence": [f"{PP_IMG}/Zuma.png", f"{PP_IMG}/Rocky.png", f"{PP_IMG}/Rocky.png", f"{PP_IMG}/Zuma.png", f"{PP_IMG}/Rocky.png", f"{PP_IMG}/Rocky.png", "?"],
+        },
+    },
+    {
+        "game_type": "pattern",
+        "question": {
+            "text": "Who comes next in the pattern?",
+            "visual_objects": [],
+            "options": [f"{PP_IMG}/Marshall.png", f"{PP_IMG}/Skye.png", f"{PP_IMG}/Zuma.png"],
+            "correct_answer": f"{PP_IMG}/Marshall.png",
+            "sequence": [f"{PP_IMG}/Rubble.png", f"{PP_IMG}/Chase.png", f"{PP_IMG}/Marshall.png", f"{PP_IMG}/Rubble.png", f"{PP_IMG}/Chase.png", "?"],
+        },
+    },
+    {
+        "game_type": "pattern",
+        "question": {
+            "text": "Who comes next in the pattern?",
+            "visual_objects": [],
+            "options": [f"{PP_IMG}/Skye.png", f"{PP_IMG}/Chase.png", f"{PP_IMG}/Zuma.png"],
+            "correct_answer": f"{PP_IMG}/Skye.png",
+            "sequence": [f"{PP_IMG}/Everest.png", f"{PP_IMG}/Everest.png", f"{PP_IMG}/Skye.png", f"{PP_IMG}/Everest.png", f"{PP_IMG}/Everest.png", "?"],
+        },
+    },
+    {
+        "game_type": "pattern",
+        "question": {
+            "text": "Who comes next in the pattern?",
+            "visual_objects": [],
+            "options": [f"{PP_IMG}/Ryder.png", f"{PP_IMG}/Marshall.png", f"{PP_IMG}/Skye.png"],
+            "correct_answer": f"{PP_IMG}/Ryder.png",
+            "sequence": [f"{PP_IMG}/Ryder.png", f"{PP_IMG}/Chase.png", f"{PP_IMG}/Chase.png", f"{PP_IMG}/Ryder.png", f"{PP_IMG}/Chase.png", f"{PP_IMG}/Chase.png", "?"],
+        },
+    },
+    {
+        "game_type": "pattern",
+        "question": {
+            "text": "Who comes next in the pattern?",
+            "visual_objects": [],
+            "options": [f"{PP_IMG}/Marshall.png", f"{PP_IMG}/Chase.png", f"{PP_IMG}/Rubble.png"],
+            "correct_answer": f"{PP_IMG}/Marshall.png",
+            "sequence": [f"{PP_IMG}/Skye.png", f"{PP_IMG}/Zuma.png", f"{PP_IMG}/Marshall.png", f"{PP_IMG}/Skye.png", f"{PP_IMG}/Zuma.png", "?"],
+        },
+    },
+    # --- Counting (8) ---
+    {
+        "game_type": "counting",
+        "question": {
+            "text": "How many pups do you see?",
+            "visual_objects": [f"{PP_IMG}/Chase.png", f"{PP_IMG}/Marshall.png", f"{PP_IMG}/Skye.png"],
+            "options": [2, 3, 4, 5],
+            "correct_answer": 3,
+        },
+    },
+    {
+        "game_type": "counting",
+        "question": {
+            "text": "How many pups do you see?",
+            "visual_objects": [f"{PP_IMG}/Chase.png", f"{PP_IMG}/Marshall.png", f"{PP_IMG}/Rubble.png", f"{PP_IMG}/Rocky.png", f"{PP_IMG}/Skye.png"],
+            "options": [4, 5, 6, 3],
+            "correct_answer": 5,
+        },
+    },
+    {
+        "game_type": "counting",
+        "question": {
+            "text": "How many pups are in PAW Patrol? (not counting Ryder)",
+            "visual_objects": [f"{PP_IMG}/Chase.png", f"{PP_IMG}/Marshall.png", f"{PP_IMG}/Skye.png", f"{PP_IMG}/Rubble.png", f"{PP_IMG}/Rocky.png", f"{PP_IMG}/Zuma.png", f"{PP_IMG}/Everest.png"],
+            "options": [5, 6, 7, 8],
+            "correct_answer": 7,
+        },
+    },
+    {
+        "game_type": "counting",
+        "question": {
+            "text": "Ryder needs 5 pups. He has 2. How many more does he need?",
+            "visual_objects": [f"{PP_IMG}/Chase.png", f"{PP_IMG}/Marshall.png"],
+            "options": [2, 3, 4, 5],
+            "correct_answer": 3,
+        },
+    },
+    {
+        "game_type": "counting",
+        "question": {
+            "text": "How many pups do you see?",
+            "visual_objects": [f"{PP_IMG}/Rubble.png", f"{PP_IMG}/Rocky.png", f"{PP_IMG}/Zuma.png", f"{PP_IMG}/Everest.png"],
+            "options": [3, 4, 5, 6],
+            "correct_answer": 4,
+        },
+    },
+    {
+        "game_type": "counting",
+        "question": {
+            "text": "Chase rescued 3 kittens, then 4 more. How many in total?",
+            "visual_objects": [],
+            "options": [5, 6, 7, 8],
+            "correct_answer": 7,
+            "image": f"{PP_IMG}/Chase.png",
+        },
+    },
+    {
+        "game_type": "counting",
+        "question": {
+            "text": "Marshall has 8 treats. He gives 3 to Chase. How many left?",
+            "visual_objects": [],
+            "options": [4, 5, 6, 3],
+            "correct_answer": 5,
+            "image": f"{PP_IMG}/Marshall.png",
+        },
+    },
+    {
+        "game_type": "counting",
+        "question": {
+            "text": "How many pups do you see?",
+            "visual_objects": [f"{PP_IMG}/Chase.png", f"{PP_IMG}/Skye.png", f"{PP_IMG}/Zuma.png", f"{PP_IMG}/Marshall.png", f"{PP_IMG}/Rocky.png", f"{PP_IMG}/Rubble.png"],
+            "options": [4, 5, 6, 7],
+            "correct_answer": 6,
+        },
+    },
+    # --- Classification (3) ---
+    {
+        "game_type": "general_knowledge",
+        "question": {
+            "text": "Which pups drive vehicles on land? (not water or air)",
+            "visual_objects": [],
+            "options": ["Chase & Marshall", "Skye & Zuma", "Zuma & Skye", "Rocky & Skye"],
+            "correct_answer": "Chase & Marshall",
+        },
+    },
+    {
+        "game_type": "general_knowledge",
+        "question": {
+            "text": "Who is NOT a dog in PAW Patrol?",
+            "visual_objects": [],
+            "options": ["Ryder", "Chase", "Marshall", "Rubble"],
+            "correct_answer": "Ryder",
+            "image": f"{PP_IMG}/Ryder.png",
+        },
+    },
+    {
+        "game_type": "general_knowledge",
+        "question": {
+            "text": "Which pup works with water or snow?",
+            "visual_objects": [],
+            "options": ["Zuma & Everest", "Chase & Rubble", "Rocky & Skye", "Marshall & Ryder"],
+            "correct_answer": "Zuma & Everest",
+        },
+    },
+    # --- Make Ten (3) ---
+    {
+        "game_type": "make_ten",
+        "question": {
+            "text": "Chase rescued 7 kittens. He needs to rescue 10. How many more?",
+            "visual_objects": [],
+            "options": [2, 3, 4, 5],
+            "correct_answer": 3,
+            "image": f"{PP_IMG}/Chase.png",
+        },
+    },
+    {
+        "game_type": "make_ten",
+        "question": {
+            "text": "Marshall has 4 water balloons. He needs 10. How many more?",
+            "visual_objects": [],
+            "options": [5, 6, 7, 8],
+            "correct_answer": 6,
+            "image": f"{PP_IMG}/Marshall.png",
+        },
+    },
+    {
+        "game_type": "make_ten",
+        "question": {
+            "text": "Skye found 8 lost puppies. She needs to find 10. How many more?",
+            "visual_objects": [],
+            "options": [1, 2, 3, 4],
+            "correct_answer": 2,
+            "image": f"{PP_IMG}/Skye.png",
+        },
+    },
+]
+
+
+def generate_pawpatrol_levels():
+    """Generate Paw Patrol themed levels as a bonus world."""
+    levels = []
+    for i, pp in enumerate(PAW_PATROL_QUESTIONS):
+        level_num = i + 1
+        level_id = f"pp_{level_num:02d}"
+        levels.append({
+            "id": level_id,
+            "world": "journey_road",
+            "level_number": 400 + level_num,
+            "name": f"PAW Patrol Challenge {level_num}",
+            "story_intro": "The PAW Patrol pups need your help!",
+            "character": "wukong",
+            "game_type": pp["game_type"],
+            "difficulty": 2,
+            "question": pp["question"],
+            "reward": {
+                "peaches": 2,
+                "animation": "celebrate",
+                "dialogue": random.choice(REWARD_DIALOGUES),
+                "character": "wukong",
+            },
+            "hints": ["Think about the PAW Patrol characters!", "You can do it!"],
+            "tags": [pp["game_type"], "paw_patrol"],
+        })
+    return levels
+
+
 def generate_all_levels():
     all_levels = []
 
@@ -1309,6 +1764,9 @@ def generate_all_levels():
             }
 
             all_levels.append(level)
+
+    # Append Paw Patrol bonus levels
+    all_levels.extend(generate_pawpatrol_levels())
 
     return all_levels
 

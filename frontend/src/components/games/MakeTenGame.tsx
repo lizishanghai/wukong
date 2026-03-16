@@ -1,5 +1,6 @@
 import { useState } from "react";
 import type { LevelQuestion } from "../../types/game";
+import { resolveAssetPath } from "../../utils/constants";
 import OptionButton from "../ui/OptionButton";
 
 interface Props {
@@ -32,17 +33,27 @@ export default function MakeTenGame({ question, onCorrect, onWrong }: Props) {
       <h3 style={{ fontSize: 26, textAlign: "center", color: "#333", margin: "16px 0" }}>
         {question.text}
       </h3>
-      <div
-        style={{
-          fontSize: 48,
-          textAlign: "center",
-          margin: "24px 0",
-          fontWeight: "bold",
-          color: "#E65100",
-        }}
-      >
-        🔟
-      </div>
+      {question.image ? (
+        <div style={{ textAlign: "center", margin: "16px 0" }}>
+          <img
+            src={resolveAssetPath(question.image)}
+            alt=""
+            style={{ width: 80, height: 80, objectFit: "contain" }}
+          />
+        </div>
+      ) : (
+        <div
+          style={{
+            fontSize: 48,
+            textAlign: "center",
+            margin: "24px 0",
+            fontWeight: "bold",
+            color: "#E65100",
+          }}
+        >
+          🔟
+        </div>
+      )}
       <div style={{ display: "flex", gap: 16, flexWrap: "wrap", justifyContent: "center" }}>
         {question.options.map((opt, i) => (
           <OptionButton

@@ -3367,7 +3367,7 @@
       "text": "What time does the clock show?",
       "visual_objects": [],
       "options": [
-        "4:00",
+        "7:00",
         "6:00",
         "5:00"
       ],
@@ -4813,8 +4813,8 @@
       "text": "What time does the clock show?",
       "visual_objects": [],
       "options": [
-        "7:00",
         "11:00",
+        "10:00",
         "9:00"
       ],
       "correct_answer": "9:00",
@@ -5821,10 +5821,10 @@
       "text": "What time does the clock show?",
       "visual_objects": [],
       "options": [
-        "5:00",
+        "12:00",
         "2:00",
-        "3:00",
-        "4:00"
+        "1:00",
+        "5:00"
       ],
       "correct_answer": "2:00",
       "clock_time": {
@@ -6018,9 +6018,9 @@
       "visual_objects": [],
       "options": [
         "6:00",
-        "5:00",
+        "7:00",
         "8:00",
-        "9:00"
+        "5:00"
       ],
       "correct_answer": "6:00",
       "clock_time": {
@@ -6460,7 +6460,7 @@
       "options": [
         "9:00",
         "8:00",
-        "7:00",
+        "11:00",
         "12:00"
       ],
       "correct_answer": "9:00",
@@ -7672,8 +7672,8 @@
       "visual_objects": [],
       "options": [
         "2:30",
-        "4:30",
-        "11:30",
+        "1:00",
+        "12:30",
         "1:30"
       ],
       "correct_answer": "1:30",
@@ -7789,10 +7789,10 @@
       "text": "What time does the clock show?",
       "visual_objects": [],
       "options": [
-        "2:00",
+        "11:00",
         "12:00",
-        "12:30",
-        "10:00"
+        "10:00",
+        "3:00"
       ],
       "correct_answer": "12:00",
       "clock_time": {
@@ -8601,9 +8601,9 @@
       "text": "What time does the clock show?",
       "visual_objects": [],
       "options": [
-        "5:00",
-        "6:30",
         "7:00",
+        "6:30",
+        "4:00",
         "6:00"
       ],
       "correct_answer": "6:00",
@@ -9648,10 +9648,10 @@
       "text": "What time does the clock show?",
       "visual_objects": [],
       "options": [
-        "8:00",
+        "11:00",
         "10:00",
-        "12:00",
-        "11:00"
+        "8:00",
+        "12:00"
       ],
       "correct_answer": "10:00",
       "clock_time": {
@@ -9891,10 +9891,10 @@
       "text": "What time does the clock show?",
       "visual_objects": [],
       "options": [
-        "11:00",
+        "10:30",
         "10:00",
         "9:00",
-        "8:00"
+        "12:00"
       ],
       "correct_answer": "10:00",
       "clock_time": {
@@ -9930,10 +9930,10 @@
       "text": "What time does the clock show?",
       "visual_objects": [],
       "options": [
-        "11:30",
-        "12:30",
+        "7:30",
+        "10:30",
         "9:30",
-        "8:30"
+        "12:30"
       ],
       "correct_answer": "9:30",
       "clock_time": {
@@ -12382,9 +12382,9 @@
       "visual_objects": [],
       "options": [
         "10:00",
-        "11:00",
+        "10:30",
         "12:00",
-        "10:15"
+        "1:00"
       ],
       "correct_answer": "10:00",
       "clock_time": {
@@ -13686,9 +13686,9 @@
       "visual_objects": [],
       "options": [
         "9:30",
-        "7:30",
+        "8:30",
         "9:00",
-        "8:30"
+        "12:30"
       ],
       "correct_answer": "9:30",
       "clock_time": {
@@ -14098,10 +14098,10 @@
       "text": "What time does the clock show?",
       "visual_objects": [],
       "options": [
-        "4:00",
+        "9:00",
         "8:00",
         "6:00",
-        "9:00"
+        "5:00"
       ],
       "correct_answer": "6:00",
       "clock_time": {
@@ -14226,10 +14226,10 @@
       "text": "What time does the clock show?",
       "visual_objects": [],
       "options": [
-        "1:00",
+        "4:00",
         "2:00",
-        "3:00",
-        "2:30"
+        "1:00",
+        "5:00"
       ],
       "correct_answer": "2:00",
       "clock_time": {
@@ -14386,10 +14386,10 @@
       "text": "What time does the clock show?",
       "visual_objects": [],
       "options": [
-        "3:00",
+        "4:30",
         "4:00",
-        "5:00",
-        "4:30"
+        "2:00",
+        "7:00"
       ],
       "correct_answer": "4:00",
       "clock_time": {
@@ -17213,9 +17213,9 @@
       "visual_objects": [],
       "options": [
         "5:30",
-        "3:30",
-        "4:30",
-        "6:30"
+        "5:00",
+        "7:30",
+        "4:30"
       ],
       "correct_answer": "5:30",
       "clock_time": {
@@ -18295,9 +18295,9 @@
       "text": "What time does the clock show?",
       "visual_objects": [],
       "options": [
-        "3:45",
-        "5:45",
-        "4:45",
+        "12:45",
+        "2:15",
+        "2:30",
         "2:45"
       ],
       "correct_answer": "2:45",
@@ -19582,9 +19582,9 @@
       "text": "What time does the clock show?",
       "visual_objects": [],
       "options": [
-        "11:40",
-        "10:40",
         "8:50",
+        "8:35",
+        "8:45",
         "8:40"
       ],
       "correct_answer": "8:40",
@@ -20126,10 +20126,10 @@
       "text": "What time does the clock show?",
       "visual_objects": [],
       "options": [
-        "1:30",
         "6:30",
+        "4:30",
         "3:30",
-        "2:30"
+        "1:30"
       ],
       "correct_answer": "3:30",
       "clock_time": {
@@ -20291,6 +20291,1591 @@
     "tags": [
       "mirror_symmetry",
       "world_w6"
+    ]
+  },
+  {
+    "id": "pp_01",
+    "world": "journey_road",
+    "level_number": 401,
+    "name": "PAW Patrol Challenge 1",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "general_knowledge",
+    "difficulty": 2,
+    "question": {
+      "text": "Who is the police pup in PAW Patrol?",
+      "visual_objects": [],
+      "options": [
+        "Chase",
+        "Marshall",
+        "Rubble",
+        "Rocky"
+      ],
+      "correct_answer": "Chase",
+      "image": "images/pawpatrol/Chase.png"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "Wukong is proud of you!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "general_knowledge",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_02",
+    "world": "journey_road",
+    "level_number": 402,
+    "name": "PAW Patrol Challenge 2",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "general_knowledge",
+    "difficulty": 2,
+    "question": {
+      "text": "Which pup is a firefighter?",
+      "visual_objects": [],
+      "options": [
+        "Skye",
+        "Marshall",
+        "Zuma",
+        "Rubble"
+      ],
+      "correct_answer": "Marshall",
+      "image": "images/pawpatrol/Marshall.png"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "You're so smart!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "general_knowledge",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_03",
+    "world": "journey_road",
+    "level_number": 403,
+    "name": "PAW Patrol Challenge 3",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "general_knowledge",
+    "difficulty": 2,
+    "question": {
+      "text": "Which pup flies a helicopter?",
+      "visual_objects": [],
+      "options": [
+        "Rocky",
+        "Zuma",
+        "Skye",
+        "Chase"
+      ],
+      "correct_answer": "Skye",
+      "image": "images/pawpatrol/Skye.png"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "Great job!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "general_knowledge",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_04",
+    "world": "journey_road",
+    "level_number": 404,
+    "name": "PAW Patrol Challenge 4",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "general_knowledge",
+    "difficulty": 2,
+    "question": {
+      "text": "Which pup loves to recycle?",
+      "visual_objects": [],
+      "options": [
+        "Rubble",
+        "Rocky",
+        "Zuma",
+        "Marshall"
+      ],
+      "correct_answer": "Rocky",
+      "image": "images/pawpatrol/Rocky.png"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "Great job!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "general_knowledge",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_05",
+    "world": "journey_road",
+    "level_number": 405,
+    "name": "PAW Patrol Challenge 5",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "general_knowledge",
+    "difficulty": 2,
+    "question": {
+      "text": "Which pup drives a bulldozer?",
+      "visual_objects": [],
+      "options": [
+        "Chase",
+        "Rubble",
+        "Rocky",
+        "Zuma"
+      ],
+      "correct_answer": "Rubble",
+      "image": "images/pawpatrol/Rubble.png"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "Brilliant work!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "general_knowledge",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_06",
+    "world": "journey_road",
+    "level_number": 406,
+    "name": "PAW Patrol Challenge 6",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "general_knowledge",
+    "difficulty": 2,
+    "question": {
+      "text": "Which pup loves the water?",
+      "visual_objects": [],
+      "options": [
+        "Skye",
+        "Chase",
+        "Zuma",
+        "Rubble"
+      ],
+      "correct_answer": "Zuma",
+      "image": "images/pawpatrol/Zuma.png"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "Keep going!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "general_knowledge",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_07",
+    "world": "journey_road",
+    "level_number": 407,
+    "name": "PAW Patrol Challenge 7",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "general_knowledge",
+    "difficulty": 2,
+    "question": {
+      "text": "Who is the leader of PAW Patrol?",
+      "visual_objects": [],
+      "options": [
+        "Chase",
+        "Marshall",
+        "Ryder",
+        "Rocky"
+      ],
+      "correct_answer": "Ryder",
+      "image": "images/pawpatrol/Ryder.png"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "You're so smart!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "general_knowledge",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_08",
+    "world": "journey_road",
+    "level_number": 408,
+    "name": "PAW Patrol Challenge 8",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "general_knowledge",
+    "difficulty": 2,
+    "question": {
+      "text": "Which pup lives on a snowy mountain?",
+      "visual_objects": [],
+      "options": [
+        "Everest",
+        "Skye",
+        "Zuma",
+        "Chase"
+      ],
+      "correct_answer": "Everest",
+      "image": "images/pawpatrol/Everest.png"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "The mountain is so pretty!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "general_knowledge",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_09",
+    "world": "journey_road",
+    "level_number": 409,
+    "name": "PAW Patrol Challenge 9",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "general_knowledge",
+    "difficulty": 2,
+    "question": {
+      "text": "Where do the PAW Patrol pups live?",
+      "visual_objects": [],
+      "options": [
+        "Adventure Bay",
+        "Foggy Bottom",
+        "Bear Cave",
+        "Dino Land"
+      ],
+      "correct_answer": "Adventure Bay"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "Brilliant work!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "general_knowledge",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_10",
+    "world": "journey_road",
+    "level_number": 410,
+    "name": "PAW Patrol Challenge 10",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "general_knowledge",
+    "difficulty": 2,
+    "question": {
+      "text": "What does Ryder use to call the pups?",
+      "visual_objects": [],
+      "options": [
+        "PupPad",
+        "Telephone",
+        "Whistle",
+        "Bell"
+      ],
+      "correct_answer": "PupPad",
+      "image": "images/pawpatrol/Ryder.png"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "Fantastic!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "general_knowledge",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_11",
+    "world": "journey_road",
+    "level_number": 411,
+    "name": "PAW Patrol Challenge 11",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "general_knowledge",
+    "difficulty": 2,
+    "question": {
+      "text": "What color is Marshall's fire truck?",
+      "visual_objects": [],
+      "options": [
+        "Red",
+        "Blue",
+        "Green",
+        "Yellow"
+      ],
+      "correct_answer": "Red",
+      "image": "images/pawpatrol/Marshall.png"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "Great job!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "general_knowledge",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_12",
+    "world": "journey_road",
+    "level_number": 412,
+    "name": "PAW Patrol Challenge 12",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "general_knowledge",
+    "difficulty": 2,
+    "question": {
+      "text": "What color is Chase's uniform?",
+      "visual_objects": [],
+      "options": [
+        "Red",
+        "Green",
+        "Blue",
+        "Yellow"
+      ],
+      "correct_answer": "Blue",
+      "image": "images/pawpatrol/Chase.png"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "You did it!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "general_knowledge",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_13",
+    "world": "journey_road",
+    "level_number": 413,
+    "name": "PAW Patrol Challenge 13",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "sight_words",
+    "difficulty": 2,
+    "question": {
+      "text": "What is this pup's name?",
+      "visual_objects": [],
+      "options": [
+        "Chase",
+        "Rocky",
+        "Zuma",
+        "Rubble"
+      ],
+      "correct_answer": "Chase",
+      "image": "images/pawpatrol/Chase.png"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "Wukong is proud of you!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "sight_words",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_14",
+    "world": "journey_road",
+    "level_number": 414,
+    "name": "PAW Patrol Challenge 14",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "sight_words",
+    "difficulty": 2,
+    "question": {
+      "text": "What is this pup's name?",
+      "visual_objects": [],
+      "options": [
+        "Skye",
+        "Marshall",
+        "Everest",
+        "Ryder"
+      ],
+      "correct_answer": "Marshall",
+      "image": "images/pawpatrol/Marshall.png"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "Wukong is proud of you!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "sight_words",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_15",
+    "world": "journey_road",
+    "level_number": 415,
+    "name": "PAW Patrol Challenge 15",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "sight_words",
+    "difficulty": 2,
+    "question": {
+      "text": "What is this pup's name?",
+      "visual_objects": [],
+      "options": [
+        "Skye",
+        "Zuma",
+        "Rocky",
+        "Chase"
+      ],
+      "correct_answer": "Skye",
+      "image": "images/pawpatrol/Skye.png"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "Brilliant work!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "sight_words",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_16",
+    "world": "journey_road",
+    "level_number": 416,
+    "name": "PAW Patrol Challenge 16",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "sight_words",
+    "difficulty": 2,
+    "question": {
+      "text": "What is this pup's name?",
+      "visual_objects": [],
+      "options": [
+        "Marshall",
+        "Everest",
+        "Rubble",
+        "Skye"
+      ],
+      "correct_answer": "Rubble",
+      "image": "images/pawpatrol/Rubble.png"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "Brilliant work!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "sight_words",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_17",
+    "world": "journey_road",
+    "level_number": 417,
+    "name": "PAW Patrol Challenge 17",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "sight_words",
+    "difficulty": 2,
+    "question": {
+      "text": "What is this pup's name?",
+      "visual_objects": [],
+      "options": [
+        "Zuma",
+        "Rocky",
+        "Chase",
+        "Ryder"
+      ],
+      "correct_answer": "Rocky",
+      "image": "images/pawpatrol/Rocky.png"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "Amazing!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "sight_words",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_18",
+    "world": "journey_road",
+    "level_number": 418,
+    "name": "PAW Patrol Challenge 18",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "sight_words",
+    "difficulty": 2,
+    "question": {
+      "text": "What is this pup's name?",
+      "visual_objects": [],
+      "options": [
+        "Rubble",
+        "Skye",
+        "Zuma",
+        "Marshall"
+      ],
+      "correct_answer": "Zuma",
+      "image": "images/pawpatrol/Zuma.png"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "You did it!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "sight_words",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_19",
+    "world": "journey_road",
+    "level_number": 419,
+    "name": "PAW Patrol Challenge 19",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "sight_words",
+    "difficulty": 2,
+    "question": {
+      "text": "What is this pup's name?",
+      "visual_objects": [],
+      "options": [
+        "Rocky",
+        "Everest",
+        "Chase",
+        "Zuma"
+      ],
+      "correct_answer": "Everest",
+      "image": "images/pawpatrol/Everest.png"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "Wonderful!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "sight_words",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_20",
+    "world": "journey_road",
+    "level_number": 420,
+    "name": "PAW Patrol Challenge 20",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "sight_words",
+    "difficulty": 2,
+    "question": {
+      "text": "Who is this?",
+      "visual_objects": [],
+      "options": [
+        "Marshall",
+        "Rubble",
+        "Skye",
+        "Ryder"
+      ],
+      "correct_answer": "Ryder",
+      "image": "images/pawpatrol/Ryder.png"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "Great job!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "sight_words",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_21",
+    "world": "journey_road",
+    "level_number": 421,
+    "name": "PAW Patrol Challenge 21",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "pattern",
+    "difficulty": 2,
+    "question": {
+      "text": "Who comes next in the pattern?",
+      "visual_objects": [],
+      "options": [
+        "images/pawpatrol/Chase.png",
+        "images/pawpatrol/Marshall.png",
+        "images/pawpatrol/Rubble.png"
+      ],
+      "correct_answer": "images/pawpatrol/Chase.png",
+      "sequence": [
+        "images/pawpatrol/Chase.png",
+        "images/pawpatrol/Skye.png",
+        "images/pawpatrol/Chase.png",
+        "images/pawpatrol/Skye.png",
+        "?"
+      ]
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "Brilliant work!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "pattern",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_22",
+    "world": "journey_road",
+    "level_number": 422,
+    "name": "PAW Patrol Challenge 22",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "pattern",
+    "difficulty": 2,
+    "question": {
+      "text": "Who comes next in the pattern?",
+      "visual_objects": [],
+      "options": [
+        "images/pawpatrol/Rubble.png",
+        "images/pawpatrol/Chase.png",
+        "images/pawpatrol/Skye.png"
+      ],
+      "correct_answer": "images/pawpatrol/Rubble.png",
+      "sequence": [
+        "images/pawpatrol/Marshall.png",
+        "images/pawpatrol/Marshall.png",
+        "images/pawpatrol/Rubble.png",
+        "images/pawpatrol/Marshall.png",
+        "images/pawpatrol/Marshall.png",
+        "?"
+      ]
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "Wukong is proud of you!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "pattern",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_23",
+    "world": "journey_road",
+    "level_number": 423,
+    "name": "PAW Patrol Challenge 23",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "pattern",
+    "difficulty": 2,
+    "question": {
+      "text": "Who comes next in the pattern?",
+      "visual_objects": [],
+      "options": [
+        "images/pawpatrol/Rubble.png",
+        "images/pawpatrol/Skye.png",
+        "images/pawpatrol/Zuma.png"
+      ],
+      "correct_answer": "images/pawpatrol/Skye.png",
+      "sequence": [
+        "images/pawpatrol/Chase.png",
+        "images/pawpatrol/Marshall.png",
+        "images/pawpatrol/Skye.png",
+        "images/pawpatrol/Chase.png",
+        "images/pawpatrol/Marshall.png",
+        "?"
+      ]
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "Amazing!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "pattern",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_24",
+    "world": "journey_road",
+    "level_number": 424,
+    "name": "PAW Patrol Challenge 24",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "pattern",
+    "difficulty": 2,
+    "question": {
+      "text": "Who comes next in the pattern?",
+      "visual_objects": [],
+      "options": [
+        "images/pawpatrol/Zuma.png",
+        "images/pawpatrol/Chase.png",
+        "images/pawpatrol/Skye.png"
+      ],
+      "correct_answer": "images/pawpatrol/Zuma.png",
+      "sequence": [
+        "images/pawpatrol/Zuma.png",
+        "images/pawpatrol/Rocky.png",
+        "images/pawpatrol/Rocky.png",
+        "images/pawpatrol/Zuma.png",
+        "images/pawpatrol/Rocky.png",
+        "images/pawpatrol/Rocky.png",
+        "?"
+      ]
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "Fantastic!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "pattern",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_25",
+    "world": "journey_road",
+    "level_number": 425,
+    "name": "PAW Patrol Challenge 25",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "pattern",
+    "difficulty": 2,
+    "question": {
+      "text": "Who comes next in the pattern?",
+      "visual_objects": [],
+      "options": [
+        "images/pawpatrol/Marshall.png",
+        "images/pawpatrol/Skye.png",
+        "images/pawpatrol/Zuma.png"
+      ],
+      "correct_answer": "images/pawpatrol/Marshall.png",
+      "sequence": [
+        "images/pawpatrol/Rubble.png",
+        "images/pawpatrol/Chase.png",
+        "images/pawpatrol/Marshall.png",
+        "images/pawpatrol/Rubble.png",
+        "images/pawpatrol/Chase.png",
+        "?"
+      ]
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "You did it!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "pattern",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_26",
+    "world": "journey_road",
+    "level_number": 426,
+    "name": "PAW Patrol Challenge 26",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "pattern",
+    "difficulty": 2,
+    "question": {
+      "text": "Who comes next in the pattern?",
+      "visual_objects": [],
+      "options": [
+        "images/pawpatrol/Skye.png",
+        "images/pawpatrol/Chase.png",
+        "images/pawpatrol/Zuma.png"
+      ],
+      "correct_answer": "images/pawpatrol/Skye.png",
+      "sequence": [
+        "images/pawpatrol/Everest.png",
+        "images/pawpatrol/Everest.png",
+        "images/pawpatrol/Skye.png",
+        "images/pawpatrol/Everest.png",
+        "images/pawpatrol/Everest.png",
+        "?"
+      ]
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "The mountain is so pretty!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "pattern",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_27",
+    "world": "journey_road",
+    "level_number": 427,
+    "name": "PAW Patrol Challenge 27",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "pattern",
+    "difficulty": 2,
+    "question": {
+      "text": "Who comes next in the pattern?",
+      "visual_objects": [],
+      "options": [
+        "images/pawpatrol/Ryder.png",
+        "images/pawpatrol/Marshall.png",
+        "images/pawpatrol/Skye.png"
+      ],
+      "correct_answer": "images/pawpatrol/Ryder.png",
+      "sequence": [
+        "images/pawpatrol/Ryder.png",
+        "images/pawpatrol/Chase.png",
+        "images/pawpatrol/Chase.png",
+        "images/pawpatrol/Ryder.png",
+        "images/pawpatrol/Chase.png",
+        "images/pawpatrol/Chase.png",
+        "?"
+      ]
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "The mountain is so pretty!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "pattern",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_28",
+    "world": "journey_road",
+    "level_number": 428,
+    "name": "PAW Patrol Challenge 28",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "pattern",
+    "difficulty": 2,
+    "question": {
+      "text": "Who comes next in the pattern?",
+      "visual_objects": [],
+      "options": [
+        "images/pawpatrol/Marshall.png",
+        "images/pawpatrol/Chase.png",
+        "images/pawpatrol/Rubble.png"
+      ],
+      "correct_answer": "images/pawpatrol/Marshall.png",
+      "sequence": [
+        "images/pawpatrol/Skye.png",
+        "images/pawpatrol/Zuma.png",
+        "images/pawpatrol/Marshall.png",
+        "images/pawpatrol/Skye.png",
+        "images/pawpatrol/Zuma.png",
+        "?"
+      ]
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "Keep going!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "pattern",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_29",
+    "world": "journey_road",
+    "level_number": 429,
+    "name": "PAW Patrol Challenge 29",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "counting",
+    "difficulty": 2,
+    "question": {
+      "text": "How many pups do you see?",
+      "visual_objects": [
+        "images/pawpatrol/Chase.png",
+        "images/pawpatrol/Marshall.png",
+        "images/pawpatrol/Skye.png"
+      ],
+      "options": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "correct_answer": 3
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "Brilliant work!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "counting",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_30",
+    "world": "journey_road",
+    "level_number": 430,
+    "name": "PAW Patrol Challenge 30",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "counting",
+    "difficulty": 2,
+    "question": {
+      "text": "How many pups do you see?",
+      "visual_objects": [
+        "images/pawpatrol/Chase.png",
+        "images/pawpatrol/Marshall.png",
+        "images/pawpatrol/Rubble.png",
+        "images/pawpatrol/Rocky.png",
+        "images/pawpatrol/Skye.png"
+      ],
+      "options": [
+        4,
+        5,
+        6,
+        3
+      ],
+      "correct_answer": 5
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "Great job!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "counting",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_31",
+    "world": "journey_road",
+    "level_number": 431,
+    "name": "PAW Patrol Challenge 31",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "counting",
+    "difficulty": 2,
+    "question": {
+      "text": "How many pups are in PAW Patrol? (not counting Ryder)",
+      "visual_objects": [
+        "images/pawpatrol/Chase.png",
+        "images/pawpatrol/Marshall.png",
+        "images/pawpatrol/Skye.png",
+        "images/pawpatrol/Rubble.png",
+        "images/pawpatrol/Rocky.png",
+        "images/pawpatrol/Zuma.png",
+        "images/pawpatrol/Everest.png"
+      ],
+      "options": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "correct_answer": 7
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "Amazing!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "counting",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_32",
+    "world": "journey_road",
+    "level_number": 432,
+    "name": "PAW Patrol Challenge 32",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "counting",
+    "difficulty": 2,
+    "question": {
+      "text": "Ryder needs 5 pups. He has 2. How many more does he need?",
+      "visual_objects": [
+        "images/pawpatrol/Chase.png",
+        "images/pawpatrol/Marshall.png"
+      ],
+      "options": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "correct_answer": 3
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "The mountain is so pretty!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "counting",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_33",
+    "world": "journey_road",
+    "level_number": 433,
+    "name": "PAW Patrol Challenge 33",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "counting",
+    "difficulty": 2,
+    "question": {
+      "text": "How many pups do you see?",
+      "visual_objects": [
+        "images/pawpatrol/Rubble.png",
+        "images/pawpatrol/Rocky.png",
+        "images/pawpatrol/Zuma.png",
+        "images/pawpatrol/Everest.png"
+      ],
+      "options": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "correct_answer": 4
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "You did it!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "counting",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_34",
+    "world": "journey_road",
+    "level_number": 434,
+    "name": "PAW Patrol Challenge 34",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "counting",
+    "difficulty": 2,
+    "question": {
+      "text": "Chase rescued 3 kittens, then 4 more. How many in total?",
+      "visual_objects": [],
+      "options": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "correct_answer": 7,
+      "image": "images/pawpatrol/Chase.png"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "The mountain is so pretty!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "counting",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_35",
+    "world": "journey_road",
+    "level_number": 435,
+    "name": "PAW Patrol Challenge 35",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "counting",
+    "difficulty": 2,
+    "question": {
+      "text": "Marshall has 8 treats. He gives 3 to Chase. How many left?",
+      "visual_objects": [],
+      "options": [
+        4,
+        5,
+        6,
+        3
+      ],
+      "correct_answer": 5,
+      "image": "images/pawpatrol/Marshall.png"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "Amazing!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "counting",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_36",
+    "world": "journey_road",
+    "level_number": 436,
+    "name": "PAW Patrol Challenge 36",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "counting",
+    "difficulty": 2,
+    "question": {
+      "text": "How many pups do you see?",
+      "visual_objects": [
+        "images/pawpatrol/Chase.png",
+        "images/pawpatrol/Skye.png",
+        "images/pawpatrol/Zuma.png",
+        "images/pawpatrol/Marshall.png",
+        "images/pawpatrol/Rocky.png",
+        "images/pawpatrol/Rubble.png"
+      ],
+      "options": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "correct_answer": 6
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "Wukong is proud of you!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "counting",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_37",
+    "world": "journey_road",
+    "level_number": 437,
+    "name": "PAW Patrol Challenge 37",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "general_knowledge",
+    "difficulty": 2,
+    "question": {
+      "text": "Which pups drive vehicles on land? (not water or air)",
+      "visual_objects": [],
+      "options": [
+        "Chase & Marshall",
+        "Skye & Zuma",
+        "Zuma & Skye",
+        "Rocky & Skye"
+      ],
+      "correct_answer": "Chase & Marshall"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "Keep going!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "general_knowledge",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_38",
+    "world": "journey_road",
+    "level_number": 438,
+    "name": "PAW Patrol Challenge 38",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "general_knowledge",
+    "difficulty": 2,
+    "question": {
+      "text": "Who is NOT a dog in PAW Patrol?",
+      "visual_objects": [],
+      "options": [
+        "Ryder",
+        "Chase",
+        "Marshall",
+        "Rubble"
+      ],
+      "correct_answer": "Ryder",
+      "image": "images/pawpatrol/Ryder.png"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "Wonderful!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "general_knowledge",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_39",
+    "world": "journey_road",
+    "level_number": 439,
+    "name": "PAW Patrol Challenge 39",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "general_knowledge",
+    "difficulty": 2,
+    "question": {
+      "text": "Which pup works with water or snow?",
+      "visual_objects": [],
+      "options": [
+        "Zuma & Everest",
+        "Chase & Rubble",
+        "Rocky & Skye",
+        "Marshall & Ryder"
+      ],
+      "correct_answer": "Zuma & Everest"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "You're so smart!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "general_knowledge",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_40",
+    "world": "journey_road",
+    "level_number": 440,
+    "name": "PAW Patrol Challenge 40",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "make_ten",
+    "difficulty": 2,
+    "question": {
+      "text": "Chase rescued 7 kittens. He needs to rescue 10. How many more?",
+      "visual_objects": [],
+      "options": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "correct_answer": 3,
+      "image": "images/pawpatrol/Chase.png"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "You did it!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "make_ten",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_41",
+    "world": "journey_road",
+    "level_number": 441,
+    "name": "PAW Patrol Challenge 41",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "make_ten",
+    "difficulty": 2,
+    "question": {
+      "text": "Marshall has 4 water balloons. He needs 10. How many more?",
+      "visual_objects": [],
+      "options": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "correct_answer": 6,
+      "image": "images/pawpatrol/Marshall.png"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "Great job!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "make_ten",
+      "paw_patrol"
+    ]
+  },
+  {
+    "id": "pp_42",
+    "world": "journey_road",
+    "level_number": 442,
+    "name": "PAW Patrol Challenge 42",
+    "story_intro": "The PAW Patrol pups need your help!",
+    "character": "wukong",
+    "game_type": "make_ten",
+    "difficulty": 2,
+    "question": {
+      "text": "Skye found 8 lost puppies. She needs to find 10. How many more?",
+      "visual_objects": [],
+      "options": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "correct_answer": 2,
+      "image": "images/pawpatrol/Skye.png"
+    },
+    "reward": {
+      "peaches": 2,
+      "animation": "celebrate",
+      "dialogue": "Brilliant work!",
+      "character": "wukong"
+    },
+    "hints": [
+      "Think about the PAW Patrol characters!",
+      "You can do it!"
+    ],
+    "tags": [
+      "make_ten",
+      "paw_patrol"
     ]
   }
 ]

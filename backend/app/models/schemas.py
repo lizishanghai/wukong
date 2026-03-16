@@ -72,6 +72,8 @@ class LevelQuestion(BaseModel):
     clock_time: dict[str, int] | None = Field(None, description="For clock_reading: {hour, minute}")
     sudoku_solution: list[list[int]] | None = Field(None, description="Completed sudoku grid")
     mirror_options: list[list[list[int]]] | None = Field(None, description="Mirror game candidate grids")
+    image: str | None = Field(None, description="Character image path")
+    images: list[str] | None = Field(None, description="Multiple character image paths")
 
 
 class LevelReward(BaseModel):

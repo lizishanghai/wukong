@@ -1,5 +1,6 @@
 import { useState } from "react";
 import type { LevelQuestion } from "../../types/game";
+import { resolveAssetPath } from "../../utils/constants";
 import ObjectDisplay from "../ui/ObjectDisplay";
 import OptionButton from "../ui/OptionButton";
 
@@ -36,7 +37,17 @@ export default function CountingGame({ question, onCorrect, onWrong }: Props) {
       <h3 style={{ fontSize: 22, textAlign: "center", color: "#333" }}>
         {question.text}
       </h3>
-      <ObjectDisplay objects={question.visual_objects} />
+      {question.image && question.visual_objects.length === 0 ? (
+        <div style={{ textAlign: "center", margin: "16px 0" }}>
+          <img
+            src={resolveAssetPath(question.image)}
+            alt=""
+            style={{ width: 100, height: 100, objectFit: "contain" }}
+          />
+        </div>
+      ) : (
+        <ObjectDisplay objects={question.visual_objects} />
+      )}
       <div style={{ display: "flex", gap: 16, flexWrap: "wrap", justifyContent: "center" }}>
         {question.options.map((opt, i) => (
           <OptionButton

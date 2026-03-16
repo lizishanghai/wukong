@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { objectToEmoji } from "../../utils/constants";
+import { objectToEmoji, isImagePath, resolveAssetPath } from "../../utils/constants";
 
 interface Props {
   objects: string[];
@@ -7,7 +7,7 @@ interface Props {
   animated?: boolean;
 }
 
-/** Renders a row of emoji objects (peaches, monkeys, etc.) */
+/** Renders a row of emoji objects or character images. */
 export default function ObjectDisplay({ objects, animated = true }: Props) {
   return (
     <div
@@ -20,8 +20,6 @@ export default function ObjectDisplay({ objects, animated = true }: Props) {
       }}
     >
       {objects.map((obj, i) => {
-        const emoji = objectToEmoji(obj);
-
         // Show separator differently
         if (obj === "|") {
           return (
@@ -39,6 +37,32 @@ export default function ObjectDisplay({ objects, animated = true }: Props) {
           );
         }
 
+        // Render as image if it's a path
+        if (isImagePath(obj)) {
+          const src = resolveAssetPath(obj);
+          return (
+            <motion.img
+              key={i}
+              src={src}
+              alt=""
+              initial={animated ? { scale: 0, y: -20 } : {}}
+              animate={{ scale: 1, y: 0 }}
+              transition={{
+                delay: animated ? i * 0.12 : 0,
+                type: "spring",
+                damping: 10,
+              }}
+              style={{
+                width: 60,
+                height: 60,
+                objectFit: "contain",
+                userSelect: "none",
+              }}
+            />
+          );
+        }
+
+        const emoji = objectToEmoji(obj);
         return (
           <motion.span
             key={i}

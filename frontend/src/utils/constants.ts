@@ -121,3 +121,15 @@ export function objectToEmoji(obj: string): string {
   const clean = obj.replace(/_new$/, "");
   return OBJECT_EMOJI[clean] ?? "❓";
 }
+
+/** Resolves a relative image path using the app base URL. */
+export function resolveAssetPath(path: string): string {
+  if (path.startsWith("http")) return path;
+  const base = import.meta.env.BASE_URL ?? "/";
+  return `${base}${path}`;
+}
+
+/** Returns true if the string looks like an image path. */
+export function isImagePath(s: string): boolean {
+  return s.startsWith("images/") || s.startsWith("/images/");
+}

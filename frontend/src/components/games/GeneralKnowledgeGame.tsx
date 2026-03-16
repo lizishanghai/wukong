@@ -1,5 +1,6 @@
 import { useState } from "react";
 import type { LevelQuestion } from "../../types/game";
+import { resolveAssetPath } from "../../utils/constants";
 import OptionButton from "../ui/OptionButton";
 
 interface Props {
@@ -29,15 +30,19 @@ export default function GeneralKnowledgeGame({ question, onCorrect, onWrong }: P
 
   return (
     <>
-      <div
-        style={{
-          fontSize: 48,
-          textAlign: "center",
-          margin: "16px 0",
-        }}
-      >
-        💡
-      </div>
+      {question.image ? (
+        <div style={{ textAlign: "center", margin: "16px 0" }}>
+          <img
+            src={resolveAssetPath(question.image)}
+            alt=""
+            style={{ width: 100, height: 100, objectFit: "contain" }}
+          />
+        </div>
+      ) : (
+        <div style={{ fontSize: 48, textAlign: "center", margin: "16px 0" }}>
+          💡
+        </div>
+      )}
       <h3 style={{ fontSize: 22, textAlign: "center", color: "#333", margin: "12px 16px" }}>
         {question.text}
       </h3>

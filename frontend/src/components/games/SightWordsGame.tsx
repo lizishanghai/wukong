@@ -1,5 +1,6 @@
 import { useState } from "react";
 import type { LevelQuestion } from "../../types/game";
+import { resolveAssetPath } from "../../utils/constants";
 import ObjectDisplay from "../ui/ObjectDisplay";
 import OptionButton from "../ui/OptionButton";
 
@@ -33,9 +34,17 @@ export default function SightWordsGame({ question, onCorrect, onWrong }: Props) 
       <h3 style={{ fontSize: 22, textAlign: "center", color: "#333" }}>
         {question.text}
       </h3>
-      {question.visual_objects.length > 0 && (
+      {question.image ? (
+        <div style={{ textAlign: "center", margin: "16px 0" }}>
+          <img
+            src={resolveAssetPath(question.image)}
+            alt=""
+            style={{ width: 120, height: 120, objectFit: "contain" }}
+          />
+        </div>
+      ) : question.visual_objects.length > 0 ? (
         <ObjectDisplay objects={question.visual_objects} />
-      )}
+      ) : null}
       <div style={{ display: "flex", gap: 12, flexWrap: "wrap", justifyContent: "center" }}>
         {question.options.map((opt, i) => (
           <OptionButton

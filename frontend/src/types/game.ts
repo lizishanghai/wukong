@@ -44,6 +44,8 @@ export interface LevelQuestion {
   clock_time?: { hour: number; minute: number };
   sudoku_solution?: number[][];
   mirror_options?: number[][][];
+  image?: string;
+  images?: string[];
 }
 
 export interface LevelReward {

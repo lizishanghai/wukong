@@ -1,7 +1,15 @@
 import { useState } from "react";
 import type { LevelQuestion } from "../../types/game";
-import { objectToEmoji } from "../../utils/constants";
+import { objectToEmoji, isImagePath, resolveAssetPath } from "../../utils/constants";
 import OptionButton from "../ui/OptionButton";
+
+function renderItem(item: string | number, size = 36): React.ReactNode {
+  const s = String(item);
+  if (isImagePath(s)) {
+    return <img src={resolveAssetPath(s)} alt="" style={{ width: size, height: size, objectFit: "contain" }} />;
+  }
+  return objectToEmoji(s);
+}
 
 interface Props {
   question: LevelQuestion;
@@ -53,7 +61,7 @@ export default function PatternGame({ question, onCorrect, onWrong }: Props) {
               color: item === "?" ? "#FF9800" : "#333",
             }}
           >
-            {item === "?" ? "?" : objectToEmoji(String(item))}
+            {item === "?" ? "?" : renderItem(item, 40)}
           </div>
         ))}
       </div>
@@ -63,7 +71,9 @@ export default function PatternGame({ question, onCorrect, onWrong }: Props) {
         {question.options.map((opt, i) => (
           <OptionButton
             key={i}
-            label={typeof opt === "string" ? objectToEmoji(opt) : opt}
+            label={typeof opt === "string" && isImagePath(opt)
+              ? <img src={resolveAssetPath(opt)} alt="" style={{ width: 40, height: 40, objectFit: "contain" }} />
+              : typeof opt === "string" ? objectToEmoji(opt) : opt}
             size="large"
             correct={result[i] ?? null}
             disabled={selected !== null}
