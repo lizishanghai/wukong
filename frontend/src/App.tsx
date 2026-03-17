@@ -4,6 +4,8 @@ import WorldSelectPage from "./pages/WorldSelectPage";
 import LevelSelectPage from "./pages/LevelSelectPage";
 import PlayLevelPage from "./pages/PlayLevelPage";
 import DailyChallengePage from "./pages/DailyChallengePage";
+import StorySelectPage from "./pages/StorySelectPage";
+import PlayStoryPage from "./pages/PlayStoryPage";
 
 export default function App() {
   return (
@@ -14,6 +16,8 @@ export default function App() {
         <Route path="/world/:worldId" element={<LevelSelectPage />} />
         <Route path="/play/:levelId" element={<PlayLevelPage />} />
         <Route path="/daily" element={<DailyChallengePage />} />
+        <Route path="/stories" element={<StorySelectPage />} />
+        <Route path="/story/:storyId" element={<PlayStoryPage />} />
       </Routes>
     </HashRouter>
   );

@@ -88,6 +88,7 @@ export interface PlayerProgress {
   current_costume: string;
   unlocked_costumes: string[];
   levels: Record<string, { completed: boolean; stars: number; attempts: number }>;
+  stories: Record<string, StoryProgress>;
   streak_days: number;
 }
 
@@ -96,4 +97,32 @@ export interface Costume {
   name: string;
   cost: number;
   owned: boolean;
+}
+
+export interface StoryScene {
+  scene_id: string;
+  narration: string;
+  background_image: string;
+  image_prompt: string;
+  game_type: GameType;
+  question: LevelQuestion;
+  hints: string[];
+}
+
+export interface Story {
+  id: string;
+  title: string;
+  title_cn: string;
+  tribulation_number: number;
+  difficulty: number;
+  world: World;
+  scenes: StoryScene[];
+  reward: LevelReward;
+}
+
+export interface StoryProgress {
+  completed: boolean;
+  scenes_completed: number;
+  stars: number;
+  attempts: number;
 }

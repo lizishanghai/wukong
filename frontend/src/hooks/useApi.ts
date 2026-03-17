@@ -3,8 +3,9 @@
  * Levels are bundled from JSON, progress is stored in localStorage.
  */
 import { useCallback, useEffect, useMemo, useState } from "react";
-import type { Level, WorldInfo, PlayerProgress, Costume, World } from "../types/game";
+import type { Level, WorldInfo, PlayerProgress, Costume, World, Story, StoryProgress } from "../types/game";
 import allLevels from "../data/levels.json";
+import allStories from "../data/stories.json";
 
 // ---------------------------------------------------------------------------
 // Static data
@@ -71,6 +72,7 @@ const WORLD_ORDER: World[] = [
 ];
 
 const levels = allLevels as Level[];
+const stories = allStories as Story[];
 
 // ---------------------------------------------------------------------------
 // localStorage progress helpers
@@ -86,6 +88,7 @@ function defaultProgress(): PlayerProgress {
     current_costume: "default",
     unlocked_costumes: ["default"],
     levels: {},
+    stories: {},
     streak_days: 0,
   };
 }
@@ -190,6 +193,67 @@ export function useProgress() {
   );
 
   return { progress, refresh, completeLevel };
+}
+
+// ---------------------------------------------------------------------------
+// Story hooks
+// ---------------------------------------------------------------------------
+
+export function useStories() {
+  return { stories, loading: false };
+}
+
+export function useStory(storyId: string) {
+  const story = useMemo(
+    () => stories.find((s) => s.id === storyId) ?? null,
+    [storyId]
+  );
+  return { story, loading: false };
+}
+
+export function useStoryProgress() {
+  const [progress, setProgress] = useState<PlayerProgress>(loadProgress);
+
+  const completeScene = useCallback(
+    (storyId: string, sceneIndex: number, totalScenes: number) => {
+      const p = loadProgress();
+      if (!p.stories) p.stories = {};
+      const existing: StoryProgress = p.stories[storyId] ?? {
+        completed: false,
+        scenes_completed: 0,
+        stars: 0,
+        attempts: 0,
+      };
+      existing.scenes_completed = Math.max(existing.scenes_completed, sceneIndex + 1);
+      p.stories[storyId] = existing;
+      saveProgress(p);
+      setProgress({ ...p });
+    },
+    []
+  );
+
+  const completeStory = useCallback(
+    (storyId: string, stars: number, peaches: number) => {
+      const p = loadProgress();
+      if (!p.stories) p.stories = {};
+      const existing: StoryProgress = p.stories[storyId] ?? {
+        completed: false,
+        scenes_completed: 0,
+        stars: 0,
+        attempts: 0,
+      };
+      existing.completed = true;
+      existing.attempts += 1;
+      existing.stars = Math.max(existing.stars, stars);
+      p.stories[storyId] = existing;
+      p.total_peaches += peaches;
+      saveProgress(p);
+      setProgress({ ...p });
+    },
+    []
+  );
+
+  return { progress, completeScene, completeStory };
 }
 
 export function useCostumes() {

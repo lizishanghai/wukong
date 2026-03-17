@@ -21,13 +21,17 @@ export default function ComparisonGame({ question, onCorrect, onWrong }: Props) 
   const handlePick = (side: "left" | "right") => {
     if (selected) return;
     setSelected(side);
-    if (side === question.correct_answer) {
+    if (side === correctSide) {
       setTimeout(onCorrect, 800);
     } else {
       onWrong();
       setTimeout(() => setSelected(null), 1500);
     }
   };
+
+  const leftCount = leftGroup.length;
+  const rightCount = rightGroup.length;
+  const correctSide = leftCount >= rightCount ? "left" : "right";
 
   const groupStyle = (side: "left" | "right"): React.CSSProperties => ({
     display: "flex",
@@ -37,7 +41,7 @@ export default function ComparisonGame({ question, onCorrect, onWrong }: Props) 
     padding: 16,
     borderRadius: 20,
     border: selected === side
-      ? `4px solid ${side === question.correct_answer ? "#4CAF50" : "#FF5252"}`
+      ? `4px solid ${side === correctSide ? "#4CAF50" : "#FF5252"}`
       : "4px solid transparent",
     background: "rgba(255,255,255,0.6)",
     cursor: selected ? "default" : "pointer",

@@ -92,7 +92,27 @@ export default function HomePage() {
           marginTop: 10,
         }}
       >
-        ▶ Play!
+        ▶ Math Quest
+      </motion.button>
+
+      {/* Story Adventure button */}
+      <motion.button
+        whileHover={{ scale: 1.08 }}
+        whileTap={{ scale: 0.92 }}
+        onClick={() => navigate("/stories")}
+        style={{
+          padding: "18px 50px",
+          fontSize: 24,
+          fontWeight: "bold",
+          background: "linear-gradient(135deg, #7B1FA2, #4A148C)",
+          color: "white",
+          border: "none",
+          borderRadius: 40,
+          cursor: "pointer",
+          boxShadow: "0 6px 20px rgba(123,31,162,0.4)",
+        }}
+      >
+        📖 Story Adventure
       </motion.button>
 
       {/* Daily challenge */}

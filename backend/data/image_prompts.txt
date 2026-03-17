@@ -1,0 +1,1270 @@
+
+=== The Stone Monkey is Born (石猴出世) ===
+
+[story_01_s1]
+File: images/stories/story_01_s1.png
+Prompt: mountain peak with a glowing cracked stone, golden light, cherry blossoms, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_01_s2]
+File: images/stories/story_01_s2.png
+Prompt: lush mountain forest with waterfalls and colorful flowers, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_01_s3]
+File: images/stories/story_01_s3.png
+Prompt: group of monkeys gathered around baby monkey on mountain, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_01_s4]
+File: images/stories/story_01_s4.png
+Prompt: monkeys celebrating and dancing on a mountain meadow, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== King of the Monkeys (美猴王) ===
+
+[story_02_s1]
+File: images/stories/story_02_s1.png
+Prompt: monkeys standing before a massive waterfall on a mountain, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_02_s2]
+File: images/stories/story_02_s2.png
+Prompt: monkey jumping through a waterfall into a sparkling cave, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_02_s3]
+File: images/stories/story_02_s3.png
+Prompt: inside a beautiful stone cave with natural furniture, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_02_s4]
+File: images/stories/story_02_s4.png
+Prompt: monkey sitting on a stone throne with a crown, other monkeys bowing, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== Seeking Immortality (拜师学艺) ===
+
+[story_03_s1]
+File: images/stories/story_03_s1.png
+Prompt: monkey king looking thoughtful at sunset on mountain, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_03_s2]
+File: images/stories/story_03_s2.png
+Prompt: monkey on a small raft sailing across a vast ocean, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_03_s3]
+File: images/stories/story_03_s3.png
+Prompt: monkey kneeling before an old wise master in a temple, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== Learning 72 Transformations (学会七十二变) ===
+
+[story_04_s1]
+File: images/stories/story_04_s1.png
+Prompt: monkey studying scrolls in a temple classroom, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_04_s2]
+File: images/stories/story_04_s2.png
+Prompt: monkey surrounded by magical transformation clouds, showing bird and fish forms, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_04_s3]
+File: images/stories/story_04_s3.png
+Prompt: monkey joyfully flying on a golden cloud high in the sky, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== Return to Flower Fruit Mountain (重返花果山) ===
+
+[story_05_s1]
+File: images/stories/story_05_s1.png
+Prompt: monkey flying on cloud towards a beautiful mountain, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_05_s2]
+File: images/stories/story_05_s2.png
+Prompt: monkeys hiding behind rocks, looking scared, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_05_s3]
+File: images/stories/story_05_s3.png
+Prompt: monkey king fighting a demon with magical golden light, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_05_s4]
+File: images/stories/story_05_s4.png
+Prompt: monkeys celebrating with fireworks on the mountain, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Magic Weapon (寻找兵器) ===
+
+[story_06_s1]
+File: images/stories/story_06_s1.png
+Prompt: monkey king practicing martial arts moves on a mountain, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_06_s2]
+File: images/stories/story_06_s2.png
+Prompt: monkeys pointing towards the ocean, with underwater palace visible, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_06_s3]
+File: images/stories/story_06_s3.png
+Prompt: monkey swimming down through clear blue ocean water, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Golden Staff (如意金箍棒) ===
+
+[story_07_s1]
+File: images/stories/story_07_s1.png
+Prompt: monkey testing various weapons in an underwater armory, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_07_s2]
+File: images/stories/story_07_s2.png
+Prompt: glowing golden staff/pillar in an underwater palace, radiating light, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_07_s3]
+File: images/stories/story_07_s3.png
+Prompt: monkey holding a golden staff that glows, looking happy, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_07_s4]
+File: images/stories/story_07_s4.png
+Prompt: monkey flying away from underwater palace on a cloud, staff in hand, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== Erasing Names from Death (大闹地府) ===
+
+[story_08_s1]
+File: images/stories/story_08_s1.png
+Prompt: two dark ghost guards approaching monkey at night, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_08_s2]
+File: images/stories/story_08_s2.png
+Prompt: monkey in a dark palace looking at a large ancient book, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_08_s3]
+File: images/stories/story_08_s3.png
+Prompt: monkey crossing out names in a glowing book with a brush, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Jade Emperor's Invitation (天庭招安) ===
+
+[story_09_s1]
+File: images/stories/story_09_s1.png
+Prompt: jade emperor on golden throne in heavenly palace, looking concerned, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_09_s2]
+File: images/stories/story_09_s2.png
+Prompt: heavenly messenger flying down to the mountain on a cloud, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_09_s3]
+File: images/stories/story_09_s3.png
+Prompt: monkey flying through clouds towards a magnificent golden palace, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Horse Keeper (弼马温) ===
+
+[story_10_s1]
+File: images/stories/story_10_s1.png
+Prompt: monkey in stable surrounded by beautiful white heavenly horses, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_10_s2]
+File: images/stories/story_10_s2.png
+Prompt: angry monkey with flames around him in the heavenly stable, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_10_s3]
+File: images/stories/story_10_s3.png
+Prompt: monkey planting a flag on mountain that reads Great Sage Equal to Heaven, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== Battle in Heaven (大闹天宫) ===
+
+[story_11_s1]
+File: images/stories/story_11_s1.png
+Prompt: army of heavenly soldiers descending from clouds towards mountain, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_11_s2]
+File: images/stories/story_11_s2.png
+Prompt: monkey king fighting soldiers in mid-air with golden staff, clouds everywhere, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_11_s3]
+File: images/stories/story_11_s3.png
+Prompt: jade emperor worried on throne with defeated soldiers returning, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== Peach Garden Feast (偷吃蟠桃) ===
+
+[story_12_s1]
+File: images/stories/story_12_s1.png
+Prompt: beautiful garden full of giant glowing peach trees, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_12_s2]
+File: images/stories/story_12_s2.png
+Prompt: monkey happily eating glowing peaches in a magical garden, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_12_s3]
+File: images/stories/story_12_s3.png
+Prompt: fairies looking at empty peach trees in shock, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== Laozi's Furnace (炼丹炉) ===
+
+[story_13_s1]
+File: images/stories/story_13_s1.png
+Prompt: monkey trapped inside a giant bronze furnace with flames, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_13_s2]
+File: images/stories/story_13_s2.png
+Prompt: monkey emerging from furnace with glowing golden eyes, surrounded by smoke, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_13_s3]
+File: images/stories/story_13_s3.png
+Prompt: monkey breaking through palace walls with incredible power, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== Buddha's Palm (如来佛祖) ===
+
+[story_14_s1]
+File: images/stories/story_14_s1.png
+Prompt: giant buddha hand with tiny monkey standing on it, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_14_s2]
+File: images/stories/story_14_s2.png
+Prompt: monkey standing between five giant pillars in misty landscape, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_14_s3]
+File: images/stories/story_14_s3.png
+Prompt: buddha smiling with his hand closing, monkey looking surprised, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_14_s4]
+File: images/stories/story_14_s4.png
+Prompt: monkey trapped under a large mountain with a golden seal on top, lush green mountain with waterfalls, peach trees, and tropical flowers, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== 500 Years Under the Mountain (五百年) ===
+
+[story_15_s1]
+File: images/stories/story_15_s1.png
+Prompt: mountain with seasons changing around it, monkey peeking out, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_15_s2]
+File: images/stories/story_15_s2.png
+Prompt: monk in orange robes walking along a path near a mountain, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_15_s3]
+File: images/stories/story_15_s3.png
+Prompt: monk removing a glowing seal from mountain, monkey emerging, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_15_s4]
+File: images/stories/story_15_s4.png
+Prompt: monkey bowing to monk on a sunny road, beginning their journey, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Golden Headband (紧箍咒) ===
+
+[story_16_s1]
+File: images/stories/story_16_s1.png
+Prompt: goddess in white giving a golden headband to monk, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_16_s2]
+File: images/stories/story_16_s2.png
+Prompt: monkey with golden headband on head, looking uncomfortable, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_16_s3]
+File: images/stories/story_16_s3.png
+Prompt: monkey and monk walking together peacefully on a mountain path, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== Pigsy Joins the Team (收服猪八戒) ===
+
+[story_17_s1]
+File: images/stories/story_17_s1.png
+Prompt: pig monster in a village, villagers looking scared, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_17_s2]
+File: images/stories/story_17_s2.png
+Prompt: monkey and pig monster fighting in a field, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_17_s3]
+File: images/stories/story_17_s3.png
+Prompt: pig character bowing to monk, monkey standing nearby, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_17_s4]
+File: images/stories/story_17_s4.png
+Prompt: pig character eating rice, monkey and monk watching and laughing, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== Sandy from the River (收服沙僧) ===
+
+[story_18_s1]
+File: images/stories/story_18_s1.png
+Prompt: wide misty river with dark waters, travelers on the shore, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_18_s2]
+File: images/stories/story_18_s2.png
+Prompt: monkey fighting a blue river monster in splashing water, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_18_s3]
+File: images/stories/story_18_s3.png
+Prompt: sandy character with a necklace of skulls, joining the group on the riverbank, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The White Dragon Horse (白龙马) ===
+
+[story_19_s1]
+File: images/stories/story_19_s1.png
+Prompt: dragon emerging from a lake, eating a horse, monk looking shocked, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_19_s2]
+File: images/stories/story_19_s2.png
+Prompt: dragon transforming into a beautiful white horse in golden light, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_19_s3]
+File: images/stories/story_19_s3.png
+Prompt: monk riding white horse, with monkey, pig, and sandy walking alongside, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The First Demon Village (降妖除魔) ===
+
+[story_20_s1]
+File: images/stories/story_20_s1.png
+Prompt: sad villagers in a small Chinese village, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_20_s2]
+File: images/stories/story_20_s2.png
+Prompt: butterfly flying near a dark cave entrance in mountains, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_20_s3]
+File: images/stories/story_20_s3.png
+Prompt: villagers celebrating, giving food to the travelers, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Yellow Wind Demon (黄风怪) ===
+
+[story_21_s1]
+File: images/stories/story_21_s1.png
+Prompt: massive sandstorm with a demon figure in the center, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_21_s2]
+File: images/stories/story_21_s2.png
+Prompt: monkey shielding eyes from powerful wind, staff in hand, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_21_s3]
+File: images/stories/story_21_s3.png
+Prompt: monkey with glowing eyes defeating the wind demon, wind calming, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_21_s4]
+File: images/stories/story_21_s4.png
+Prompt: peaceful road stretching west with clear blue skies, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The River of Flowing Sand (流沙河) ===
+
+[story_22_s1]
+File: images/stories/story_22_s1.png
+Prompt: mysterious river of flowing sand, dark and swirling, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_22_s2]
+File: images/stories/story_22_s2.png
+Prompt: sandy building a raft with magical powers on the riverbank, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_22_s3]
+File: images/stories/story_22_s3.png
+Prompt: group crossing the sandy river on a glowing raft, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== Test of the Four Saints (四圣试禅心) ===
+
+[story_23_s1]
+File: images/stories/story_23_s1.png
+Prompt: beautiful mansion with four elegant women welcoming travelers, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_23_s2]
+File: images/stories/story_23_s2.png
+Prompt: pig character looking happy, being tempted by luxury, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_23_s3]
+File: images/stories/story_23_s3.png
+Prompt: pig tied to a tree, monkey laughing, monk looking disapproving, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Ginseng Fruit Tree (人参果) ===
+
+[story_24_s1]
+File: images/stories/story_24_s1.png
+Prompt: ancient temple with a magical tree bearing baby-shaped fruits, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_24_s2]
+File: images/stories/story_24_s2.png
+Prompt: close-up of glowing baby-shaped fruits on a tree, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_24_s3]
+File: images/stories/story_24_s3.png
+Prompt: angry old master confronting monkey near the fruit tree, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_24_s4]
+File: images/stories/story_24_s4.png
+Prompt: goddess pouring magical water on a fallen tree, it starts growing again, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Silver Horn King (银角大王) ===
+
+[story_25_s1]
+File: images/stories/story_25_s1.png
+Prompt: two demon kings holding magical gourds on a mountain pass, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_25_s2]
+File: images/stories/story_25_s2.png
+Prompt: monkey being pulled into a glowing purple gourd, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_25_s3]
+File: images/stories/story_25_s3.png
+Prompt: monkey transformed as tiny bug escaping from gourd, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_25_s4]
+File: images/stories/story_25_s4.png
+Prompt: monkey holding magic gourds triumphantly, defeated demons on ground, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Golden Horn King (金角大王) ===
+
+[story_26_s1]
+File: images/stories/story_26_s1.png
+Prompt: powerful golden-horned demon with a magical golden rope, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_26_s2]
+File: images/stories/story_26_s2.png
+Prompt: epic battle between monkey and golden demon, landscape shaking, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_26_s3]
+File: images/stories/story_26_s3.png
+Prompt: goddess taking the two demons back to heaven on a cloud, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Kingdom of Wuji (乌鸡国) ===
+
+[story_27_s1]
+File: images/stories/story_27_s1.png
+Prompt: ghost of a king appearing in monk's dream, misty and ethereal, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_27_s2]
+File: images/stories/story_27_s2.png
+Prompt: demon disguised as king sitting on throne in palace, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_27_s3]
+File: images/stories/story_27_s3.png
+Prompt: monkey pulling a king out of a well, golden light around them, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_27_s4]
+File: images/stories/story_27_s4.png
+Prompt: real king back on throne, people celebrating, demon defeated, underwater crystal palace with coral reefs, fish, and glowing pearls, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The White Bone Demon (三打白骨精) ===
+
+[story_28_s1]
+File: images/stories/story_28_s1.png
+Prompt: beautiful young girl on a mountain path, with hidden skeleton shadow, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_28_s2]
+File: images/stories/story_28_s2.png
+Prompt: monkey striking girl with staff, skeleton briefly visible, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_28_s3]
+File: images/stories/story_28_s3.png
+Prompt: old woman and old man forms, monk looking angry at monkey, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_28_s4]
+File: images/stories/story_28_s4.png
+Prompt: sad monkey flying away on cloud, looking back at monk, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_28_s5]
+File: images/stories/story_28_s5.png
+Prompt: monkey heroically saving monk from a skeleton demon in a cave, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Yellow Robe Demon (黄袍怪) ===
+
+[story_29_s1]
+File: images/stories/story_29_s1.png
+Prompt: monk being transformed into a tiger by a demon's spell, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_29_s2]
+File: images/stories/story_29_s2.png
+Prompt: pig character begging monkey on mountain, monkey turning away, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_29_s3]
+File: images/stories/story_29_s3.png
+Prompt: monkey flying fast on cloud towards a demon's lair, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_29_s4]
+File: images/stories/story_29_s4.png
+Prompt: monkey using magic to turn tiger back into monk, everyone relieved, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Red Boy (红孩儿) ===
+
+[story_30_s1]
+File: images/stories/story_30_s1.png
+Prompt: small red demon child breathing flames on a mountain, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_30_s2]
+File: images/stories/story_30_s2.png
+Prompt: ring of fire surrounding monk, monkey unable to get through, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_30_s3]
+File: images/stories/story_30_s3.png
+Prompt: goddess with Red Boy now calm and reformed, standing beside her, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Black River Demon (黑水河妖) ===
+
+[story_31_s1]
+File: images/stories/story_31_s1.png
+Prompt: demon disguised as boatman on a dark river, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_31_s2]
+File: images/stories/story_31_s2.png
+Prompt: monkey diving into dark waters after sinking boat, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_31_s3]
+File: images/stories/story_31_s3.png
+Prompt: monkey and a prince warrior defeating water demon, freeing monk, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Cart-Slow Kingdom (车迟国) ===
+
+[story_32_s1]
+File: images/stories/story_32_s1.png
+Prompt: three shifty-looking masters performing fake magic in a royal court, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_32_s2]
+File: images/stories/story_32_s2.png
+Prompt: monkey and fake master both praying, clouds gathering, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_32_s3]
+File: images/stories/story_32_s3.png
+Prompt: rain falling from clouds, monkey smiling, fake masters looking worried, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_32_s4]
+File: images/stories/story_32_s4.png
+Prompt: freed monks celebrating, king punishing the fake masters, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Golden Fish Demon (金鱼精) ===
+
+[story_33_s1]
+File: images/stories/story_33_s1.png
+Prompt: flooded temple with giant golden fish swimming around, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_33_s2]
+File: images/stories/story_33_s2.png
+Prompt: monkey trying to catch a giant golden fish in water, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_33_s3]
+File: images/stories/story_33_s3.png
+Prompt: goddess scooping up golden fish with a basket, smiling, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Scorpion Demon (蝎子精) ===
+
+[story_34_s1]
+File: images/stories/story_34_s1.png
+Prompt: giant scorpion demon attacking monkey with its tail, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_34_s2]
+File: images/stories/story_34_s2.png
+Prompt: monkey flying through stars searching for the Star of Light, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_34_s3]
+File: images/stories/story_34_s3.png
+Prompt: giant magical rooster crowing at a scorpion demon, golden light, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Land of Women (女儿国) ===
+
+[story_35_s1]
+File: images/stories/story_35_s1.png
+Prompt: beautiful kingdom with palace, all female guards and citizens, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_35_s2]
+File: images/stories/story_35_s2.png
+Prompt: monk politely declining queen in throne room, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_35_s3]
+File: images/stories/story_35_s3.png
+Prompt: monkey fighting off demon while monk escapes the kingdom gates, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Real and Fake Monkey (真假美猴王) ===
+
+[story_36_s1]
+File: images/stories/story_36_s1.png
+Prompt: two identical monkeys standing face to face, everyone confused, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_36_s2]
+File: images/stories/story_36_s2.png
+Prompt: two monkeys fighting across different realms, heaven and underworld, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_36_s3]
+File: images/stories/story_36_s3.png
+Prompt: two monkeys standing before a giant buddha, heavenly beings watching, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_36_s4]
+File: images/stories/story_36_s4.png
+Prompt: real monkey defeating fake monkey, buddha watching approvingly, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Banana Fan (芭蕉扇) ===
+
+[story_37_s1]
+File: images/stories/story_37_s1.png
+Prompt: massive flaming mountain blocking a road, intense red and orange fire, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_37_s2]
+File: images/stories/story_37_s2.png
+Prompt: woman holding a giant green banana leaf fan, looking fierce, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_37_s3]
+File: images/stories/story_37_s3.png
+Prompt: angry woman refusing to help monkey, turning away, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== Borrowing the Fan (三借芭蕉扇) ===
+
+[story_38_s1]
+File: images/stories/story_38_s1.png
+Prompt: tiny bug flying into woman's tea cup, she's unaware, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_38_s2]
+File: images/stories/story_38_s2.png
+Prompt: monkey waving fan at fire, fire growing larger, monkey looking shocked, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_38_s3]
+File: images/stories/story_38_s3.png
+Prompt: monkey fighting a bull demon in the sky, both powerful, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_38_s4]
+File: images/stories/story_38_s4.png
+Prompt: monkey waving magical fan, fire being extinguished, cool breeze, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Bull Demon King (牛魔王) ===
+
+[story_39_s1]
+File: images/stories/story_39_s1.png
+Prompt: enormous white bull charging at monkey, dust and rocks flying, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_39_s2]
+File: images/stories/story_39_s2.png
+Prompt: giant monkey and giant bull fighting, mountains crumbling, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_39_s3]
+File: images/stories/story_39_s3.png
+Prompt: boy warrior on fire wheels helping monkey defeat bull demon, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== Crossing the Flaming Mountain (过火焰山) ===
+
+[story_40_s1]
+File: images/stories/story_40_s1.png
+Prompt: monkey waving fan, powerful wind extinguishing mountain fire, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_40_s2]
+File: images/stories/story_40_s2.png
+Prompt: rain falling on formerly burning mountain, green sprouts appearing, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_40_s3]
+File: images/stories/story_40_s3.png
+Prompt: happy villagers crossing a now-green mountain, travelers continuing journey, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Kingdom of Sacrifice (祭赛国) ===
+
+[story_41_s1]
+File: images/stories/story_41_s1.png
+Prompt: rainy kingdom with sad people, empty pagoda tower, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_41_s2]
+File: images/stories/story_41_s2.png
+Prompt: monkey flying through storm clouds towards a hidden demon lair, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_41_s3]
+File: images/stories/story_41_s3.png
+Prompt: monkey returning golden pagoda to king, sun breaking through clouds, majestic heavenly palace above the clouds with golden pillars, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Spider Demons (蜘蛛精) ===
+
+[story_42_s1]
+File: images/stories/story_42_s1.png
+Prompt: seven beautiful women at a misty hot spring, webs hidden, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_42_s2]
+File: images/stories/story_42_s2.png
+Prompt: seven giant colorful spiders spinning webs, monk trapped, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_42_s3]
+File: images/stories/story_42_s3.png
+Prompt: monkey cutting through webs with staff, freeing monk, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Centipede Demon (蜈蚣精) ===
+
+[story_43_s1]
+File: images/stories/story_43_s1.png
+Prompt: enormous centipede demon glowing with golden light in a cave, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_43_s2]
+File: images/stories/story_43_s2.png
+Prompt: monkey shielding his eyes from blinding golden beams, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_43_s3]
+File: images/stories/story_43_s3.png
+Prompt: magical rooster facing down centipede demon, golden light fading, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Green Lion (青狮精) ===
+
+[story_44_s1]
+File: images/stories/story_44_s1.png
+Prompt: massive green lion demon outside a city, mouth wide open, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_44_s2]
+File: images/stories/story_44_s2.png
+Prompt: monkey inside a lion's belly, punching and kicking, lion in pain, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_44_s3]
+File: images/stories/story_44_s3.png
+Prompt: lion spitting out people and monkey, looking defeated, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_44_s4]
+File: images/stories/story_44_s4.png
+Prompt: grateful kingdom people celebrating with the travel team, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The White Elephant Demon (白象精) ===
+
+[story_45_s1]
+File: images/stories/story_45_s1.png
+Prompt: massive white elephant grabbing monk with trunk, others fighting, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_45_s2]
+File: images/stories/story_45_s2.png
+Prompt: monkey and pig fighting elephant, weapons bouncing off, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_45_s3]
+File: images/stories/story_45_s3.png
+Prompt: elephant being led back to heaven by celestial beings, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Golden Winged Peng (大鹏金翅鸟) ===
+
+[story_46_s1]
+File: images/stories/story_46_s1.png
+Prompt: enormous golden eagle-like bird swooping through clouds, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_46_s2]
+File: images/stories/story_46_s2.png
+Prompt: giant bird carrying monk, monkey chasing on cloud but falling behind, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_46_s3]
+File: images/stories/story_46_s3.png
+Prompt: buddha speaking to monkey, golden bird perched nearby, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_46_s4]
+File: images/stories/story_46_s4.png
+Prompt: golden bird now peaceful, perched near buddha, monk freed, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Kingdom of Bhikku (比丘国) ===
+
+[story_47_s1]
+File: images/stories/story_47_s1.png
+Prompt: sneaky deer demon disguised as a minister, whispering to old king, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_47_s2]
+File: images/stories/story_47_s2.png
+Prompt: monkey pointing at minister, demon form becoming visible, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_47_s3]
+File: images/stories/story_47_s3.png
+Prompt: monkey chasing deer demon, catching it easily, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Green Haired Lion (青毛狮子怪) ===
+
+[story_48_s1]
+File: images/stories/story_48_s1.png
+Prompt: three powerful demons standing together on a mountain, looking menacing, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_48_s2]
+File: images/stories/story_48_s2.png
+Prompt: monk in cage, three demons preparing a feast, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_48_s3]
+File: images/stories/story_48_s3.png
+Prompt: monkey fighting three demons simultaneously in an epic battle, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_48_s4]
+File: images/stories/story_48_s4.png
+Prompt: three demons being taken away by celestial guards, team reunited, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Rhinoceros Demons (犀牛精) ===
+
+[story_49_s1]
+File: images/stories/story_49_s1.png
+Prompt: three rhino demons wearing fake Buddhist robes near a temple, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_49_s2]
+File: images/stories/story_49_s2.png
+Prompt: monkey chasing three rhinos across landscape, dust flying, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_49_s3]
+File: images/stories/story_49_s3.png
+Prompt: four star warriors and monkey surrounding three rhino demons, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Jade Rabbit (玉兔精) ===
+
+[story_50_s1]
+File: images/stories/story_50_s1.png
+Prompt: white rabbit transforming into a princess under moonlight, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_50_s2]
+File: images/stories/story_50_s2.png
+Prompt: princess on a tower throwing a ball, monk below looking confused, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_50_s3]
+File: images/stories/story_50_s3.png
+Prompt: monkey chasing a white rabbit that's jumping super fast, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_50_s4]
+File: images/stories/story_50_s4.png
+Prompt: beautiful moon goddess descending on moonbeams, taking rabbit home, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Fire Demon (火焰山再遇) ===
+
+[story_51_s1]
+File: images/stories/story_51_s1.png
+Prompt: frozen icy landscape, travelers shivering, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_51_s2]
+File: images/stories/story_51_s2.png
+Prompt: ice demon and fire demon clashing, ice and fire everywhere, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_51_s3]
+File: images/stories/story_51_s3.png
+Prompt: monkey mediating between ice and fire, landscape becoming green, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Underground River (地下河) ===
+
+[story_52_s1]
+File: images/stories/story_52_s1.png
+Prompt: underground cave with glowing river, bioluminescent fish, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_52_s2]
+File: images/stories/story_52_s2.png
+Prompt: giant turtle in underground river, travelers about to step on, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_52_s3]
+File: images/stories/story_52_s3.png
+Prompt: monkey riding turtle safely across glowing river with teammates, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Magic Garden (仙人花园) ===
+
+[story_53_s1]
+File: images/stories/story_53_s1.png
+Prompt: magical garden with glowing colorful fruits on trees, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_53_s2]
+File: images/stories/story_53_s2.png
+Prompt: beautiful but dangerous flower demon, petals like blades, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_53_s3]
+File: images/stories/story_53_s3.png
+Prompt: pig character sleeping on the ground, flowers around, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_53_s4]
+File: images/stories/story_53_s4.png
+Prompt: monkey dropping dew on pig to wake him, team leaving garden, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Mountain Spirits (山神考验) ===
+
+[story_54_s1]
+File: images/stories/story_54_s1.png
+Prompt: ghostly mountain spirits floating near a mountain pass, riddle stones, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_54_s2]
+File: images/stories/story_54_s2.png
+Prompt: monkey answering confidently, pig scratching head, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_54_s3]
+File: images/stories/story_54_s3.png
+Prompt: sandy answering wisely, spirits nodding and opening the path, dark mysterious cave with glowing crystals and ancient bones, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Bottomless Cave (无底洞) ===
+
+[story_55_s1]
+File: images/stories/story_55_s1.png
+Prompt: dark endless cave going deep underground, dim light, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_55_s2]
+File: images/stories/story_55_s2.png
+Prompt: monkey navigating traps in a deep cave, avoiding sharp rocks, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_55_s3]
+File: images/stories/story_55_s3.png
+Prompt: mouse demon being defeated, transforming back to mouse form, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_55_s4]
+File: images/stories/story_55_s4.png
+Prompt: celestial cat warriors catching mouse demon, monk freed, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Python Demon (蟒蛇精) ===
+
+[story_56_s1]
+File: images/stories/story_56_s1.png
+Prompt: enormous python coiled across a valley, blocking the path, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_56_s2]
+File: images/stories/story_56_s2.png
+Prompt: giant python mouth creating suction, trees and rocks flying in, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_56_s3]
+File: images/stories/story_56_s3.png
+Prompt: monkey using staff to poke python from inside, it opens mouth, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Cloud Stepping Kingdom (天竺国) ===
+
+[story_57_s1]
+File: images/stories/story_57_s1.png
+Prompt: kingdom built on clouds, beautiful floating buildings, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_57_s2]
+File: images/stories/story_57_s2.png
+Prompt: demon disguised as princess in throne room, real princess in tower, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_57_s3]
+File: images/stories/story_57_s3.png
+Prompt: monkey freeing princess from tower, crane demon flying away, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_57_s4]
+File: images/stories/story_57_s4.png
+Prompt: grateful king giving supplies to travelers at kingdom gates, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Nine-Headed Bug (九头虫) ===
+
+[story_58_s1]
+File: images/stories/story_58_s1.png
+Prompt: nine-headed dragon/bug in the sky, each head different color, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_58_s2]
+File: images/stories/story_58_s2.png
+Prompt: monkey dodging multiple elemental attacks from the nine heads, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_58_s3]
+File: images/stories/story_58_s3.png
+Prompt: warrior chopping off one head, bug flying away in pain, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Thorn Forest (荆棘岭) ===
+
+[story_59_s1]
+File: images/stories/story_59_s1.png
+Prompt: dense dark forest with impossibly thorny trees everywhere, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_59_s2]
+File: images/stories/story_59_s2.png
+Prompt: tree spirits shaped like old men, holding scrolls and brushes, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_59_s3]
+File: images/stories/story_59_s3.png
+Prompt: monkey using fire to burn evil tree demons, protecting white horse, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Little Thunder Temple (小雷音寺) ===
+
+[story_60_s1]
+File: images/stories/story_60_s1.png
+Prompt: beautiful golden temple that looks like the final destination, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_60_s2]
+File: images/stories/story_60_s2.png
+Prompt: demon laughing, golden cymbal trapping the travelers, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_60_s3]
+File: images/stories/story_60_s3.png
+Prompt: monkey riding to find help, dragon breaking golden cymbal, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_60_s4]
+File: images/stories/story_60_s4.png
+Prompt: fake temple collapsing into dust, team looking wiser, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Seven Spider Sisters Return (蜘蛛精再现) ===
+
+[story_61_s1]
+File: images/stories/story_61_s1.png
+Prompt: spiders and centipede demon combining forces in a dark forest, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_61_s2]
+File: images/stories/story_61_s2.png
+Prompt: monkey looking weak, searching through a garden for herbs, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_61_s3]
+File: images/stories/story_61_s3.png
+Prompt: sandy bringing herb to monkey, monkey recovering and fighting, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Leopard Demon (豹子精) ===
+
+[story_62_s1]
+File: images/stories/story_62_s1.png
+Prompt: spotted leopard demon running at incredible speed in moonlight, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_62_s2]
+File: images/stories/story_62_s2.png
+Prompt: monkey chasing leopard through various landscapes, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_62_s3]
+File: images/stories/story_62_s3.png
+Prompt: pig character's trap catching the leopard demon, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Golden Light Cave (金光洞) ===
+
+[story_63_s1]
+File: images/stories/story_63_s1.png
+Prompt: cave filled with golden light and piles of treasures, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_63_s2]
+File: images/stories/story_63_s2.png
+Prompt: monkey swinging at air, invisible demon laughing, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_63_s3]
+File: images/stories/story_63_s3.png
+Prompt: monkey throwing magical dust, demon becoming visible, getting hit, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_63_s4]
+File: images/stories/story_63_s4.png
+Prompt: villagers receiving their treasures back, thanking the travelers, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Ice Demon (冰封妖) ===
+
+[story_64_s1]
+File: images/stories/story_64_s1.png
+Prompt: frozen kingdom, people frozen like ice statues, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_64_s2]
+File: images/stories/story_64_s2.png
+Prompt: blue demon shooting ice beams, everything freezing, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_64_s3]
+File: images/stories/story_64_s3.png
+Prompt: monkey using fan to blow warm wind, ice melting everywhere, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_64_s4]
+File: images/stories/story_64_s4.png
+Prompt: kingdom coming back to life, people moving again, sun shining, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Flame Phoenix (火凤凰) ===
+
+[story_65_s1]
+File: images/stories/story_65_s1.png
+Prompt: beautiful fire phoenix on a stone bridge, flames everywhere, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_65_s2]
+File: images/stories/story_65_s2.png
+Prompt: phoenix rising from flames again and again, monkey frustrated, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_65_s3]
+File: images/stories/story_65_s3.png
+Prompt: monk playing flute, phoenix becoming gentle, lowering its wings, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Sand Demon (沙漠魔) ===
+
+[story_66_s1]
+File: images/stories/story_66_s1.png
+Prompt: vast desert with sand swirling and forming shapes, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_66_s2]
+File: images/stories/story_66_s2.png
+Prompt: sandy using water magic, turning attacking sand into mud, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_66_s3]
+File: images/stories/story_66_s3.png
+Prompt: giant sand monster rising, monkey leaping to strike with staff, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Stone Kingdom (石头国) ===
+
+[story_67_s1]
+File: images/stories/story_67_s1.png
+Prompt: stone statues of adults everywhere, scared children hiding, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_67_s2]
+File: images/stories/story_67_s2.png
+Prompt: monkey climbing a mountain towards a stone demon's lair, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_67_s3]
+File: images/stories/story_67_s3.png
+Prompt: monkey glowing with stone energy, statues turning back to people, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_67_s4]
+File: images/stories/story_67_s4.png
+Prompt: families reuniting, children hugging now-unfrozen parents, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Thunder Giant (雷公巨人) ===
+
+[story_68_s1]
+File: images/stories/story_68_s1.png
+Prompt: enormous glowing giant made of lightning standing between mountains, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_68_s2]
+File: images/stories/story_68_s2.png
+Prompt: lightning bolts striking everywhere, monkey dodging on cloud, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_68_s3]
+File: images/stories/story_68_s3.png
+Prompt: pig throwing mud, monkey striking mud-covered giant with staff, fiery volcanic mountain with lava rivers and red sky, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The River of No Return (无归河) ===
+
+[story_69_s1]
+File: images/stories/story_69_s1.png
+Prompt: strange river flowing backwards, swirling with time magic, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_69_s2]
+File: images/stories/story_69_s2.png
+Prompt: pig character appearing in a distant village, confused, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_69_s3]
+File: images/stories/story_69_s3.png
+Prompt: team carefully crossing river on magical stepping stones, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Dream Demon (梦魔) ===
+
+[story_70_s1]
+File: images/stories/story_70_s1.png
+Prompt: team sleeping in a field, dreamy mist around them, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_70_s2]
+File: images/stories/story_70_s2.png
+Prompt: dream bubbles above sleeping characters showing their desires, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_70_s3]
+File: images/stories/story_70_s3.png
+Prompt: monkey waking up with glowing eyes, dispelling dream mist, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_70_s4]
+File: images/stories/story_70_s4.png
+Prompt: team getting up, shaking off sleep, continuing journey, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Shadow Monster (影子怪) ===
+
+[story_71_s1]
+File: images/stories/story_71_s1.png
+Prompt: dark shadows moving and attacking, glowing red eyes visible, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_71_s2]
+File: images/stories/story_71_s2.png
+Prompt: sandy being dragged into shadows, others reaching for him, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_71_s3]
+File: images/stories/story_71_s3.png
+Prompt: brilliant sunlight flooding the area, shadow creature dissolving, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Cloud Sea (云海) ===
+
+[story_72_s1]
+File: images/stories/story_72_s1.png
+Prompt: vast sea of puffy white clouds, barely visible path, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_72_s2]
+File: images/stories/story_72_s2.png
+Prompt: monkey carefully stepping between clouds, testing each one, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_72_s3]
+File: images/stories/story_72_s3.png
+Prompt: team walking hand in hand across cloud path, beautiful sky around, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Mirror Lake (镜湖) ===
+
+[story_73_s1]
+File: images/stories/story_73_s1.png
+Prompt: perfectly still mirror lake reflecting landscape and sky, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_73_s2]
+File: images/stories/story_73_s2.png
+Prompt: dark copies of the heroes emerging from lake water, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_73_s3]
+File: images/stories/story_73_s3.png
+Prompt: real team fighting in formation, defeating disorganized copies, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Crystal Cave (水晶洞) ===
+
+[story_74_s1]
+File: images/stories/story_74_s1.png
+Prompt: stunning cave made of colorful crystals, beautiful but eerie, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_74_s2]
+File: images/stories/story_74_s2.png
+Prompt: monk's hand stuck to crystal, cave walls slowly closing in, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_74_s3]
+File: images/stories/story_74_s3.png
+Prompt: monkey striking a central crystal, entire cave breaking apart, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_74_s4]
+File: images/stories/story_74_s4.png
+Prompt: team running out of collapsing cave, light ahead, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Maze Mountains (迷宫山) ===
+
+[story_75_s1]
+File: images/stories/story_75_s1.png
+Prompt: confusing mountain paths that look identical, team lost, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_75_s2]
+File: images/stories/story_75_s2.png
+Prompt: monkey high in sky looking down at mountain maze pattern, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_75_s3]
+File: images/stories/story_75_s3.png
+Prompt: team following monkey's directions through mountain maze, exit visible, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Wind Valley (风之谷) ===
+
+[story_76_s1]
+File: images/stories/story_76_s1.png
+Prompt: valley with incredibly powerful wind, trees bent sideways, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_76_s2]
+File: images/stories/story_76_s2.png
+Prompt: wind demon in sky laughing, monkey being blown back, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_76_s3]
+File: images/stories/story_76_s3.png
+Prompt: team tied together with ropes, pushing against wind with rocks, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Five Finger Mountain Return (再回五指山) ===
+
+[story_77_s1]
+File: images/stories/story_77_s1.png
+Prompt: monkey looking at a familiar mountain with mixed emotions, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_77_s2]
+File: images/stories/story_77_s2.png
+Prompt: monkey meditating near the mountain, memories floating around him, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_77_s3]
+File: images/stories/story_77_s3.png
+Prompt: monkey placing a peach at mountain base, warm golden light, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Gate of Thunder (雷音门) ===
+
+[story_78_s1]
+File: images/stories/story_78_s1.png
+Prompt: majestic holy mountain visible in distance, golden light, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_78_s2]
+File: images/stories/story_78_s2.png
+Prompt: massive gate crackling with energy, bright and intimidating, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_78_s3]
+File: images/stories/story_78_s3.png
+Prompt: team walking through glowing gate together, light washing over them, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== Crossing the Final River (渡过通天河) ===
+
+[story_79_s1]
+File: images/stories/story_79_s1.png
+Prompt: giant ancient turtle in a wide holy river, golden mist, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_79_s2]
+File: images/stories/story_79_s2.png
+Prompt: turtle carrying travelers across river, asking a question, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_79_s3]
+File: images/stories/story_79_s3.png
+Prompt: travelers falling into water, scrolls getting wet, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_79_s4]
+File: images/stories/story_79_s4.png
+Prompt: team drying scrolls on rocks in sunshine, relieved, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== The Holy Mountain (灵山) ===
+
+[story_80_s1]
+File: images/stories/story_80_s1.png
+Prompt: travelers climbing mountain stairs through clouds towards golden temple, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_80_s2]
+File: images/stories/story_80_s2.png
+Prompt: buddha welcoming the travelers in a grand golden hall, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_80_s3]
+File: images/stories/story_80_s3.png
+Prompt: monk receiving glowing scrolls from buddha, tears of joy, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_80_s4]
+File: images/stories/story_80_s4.png
+Prompt: monk opening scroll to find blank pages, looking confused, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+=== Journey Complete (功德圆满) ===
+
+[story_81_s1]
+File: images/stories/story_81_s1.png
+Prompt: team flying on a golden cloud over beautiful landscape, carrying scrolls, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_81_s2]
+File: images/stories/story_81_s2.png
+Prompt: grand celebration in ancient Chinese palace, scrolls on display, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_81_s3]
+File: images/stories/story_81_s3.png
+Prompt: wukong ascending to heaven in golden light, becoming a buddha, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_81_s4]
+File: images/stories/story_81_s4.png
+Prompt: five characters standing together in heaven, peaceful and happy, golden light, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
+
+[story_81_s5]
+File: images/stories/story_81_s5.png
+Prompt: scroll closing with the words The End, surrounded by clouds and stars, ancient Chinese road winding through mountains towards a golden temple, Chinese mythology, Journey to the West, child-friendly cartoon illustration, vibrant colors, soft lighting, no text, 16:9 aspect ratio
